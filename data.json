@@ -1,20 +1,20 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
+    "name": "Reaper",
     "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Strike with purpose.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/D.Va_-_Initiating_defense_matrix.ogg"
+    "name": "Sojourn",
+    "quote": "Flag acquired. I'm moving out!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Sojourn_-_Flag_acquired._I%27m_moving_out.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "➡️🛟🪶"
+    "name": "Sombra",
+    "emojis": "🔌🕶️🕵️‍♀️"
   }
 }
