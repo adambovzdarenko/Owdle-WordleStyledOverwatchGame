@@ -25,6 +25,7 @@ function updateDataFile() {
     } while (!charPhrases || !charPhrases.quotes.length);
 
     const randomQuote = getRandomItem(charPhrases.quotes);
+    const randomURL = getRandomItem(charPhrases.urls);
 
     let emojiCharacter, charEmojis;
     do {
@@ -46,7 +47,8 @@ function updateDataFile() {
       },
       secretQuote: {
         name: quoteCharacter.name,
-        quote: randomQuote
+        quote: randomQuote,
+        url: randomURL
       },
       secretEmoji: {
         name: emojiCharacter.name,
