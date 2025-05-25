@@ -1,0 +1,33 @@
+name: Update data.json daily
+
+on:
+  workflow_dispatch:  # allows manual trigger in GitHub UI
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'  # or your node version
+
+      - name: Install dependencies (if needed)
+        run: npm install
+
+      - name: Run update script
+        run: node updateData.js
+
+      - name: Commit and push updated data.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data.json
+          git commit -m "Daily update of data.json [skip ci]" || echo "No changes to commit"
+          git push
