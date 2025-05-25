@@ -1,0 +1,19 @@
+{
+  "secretCharacter": {
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
+  },
+  "secretQuote": {
+    "name": "Doomfist",
+    "quote": "Power is power!"
+  },
+  "secretEmoji": {
+    "name": "Echo",
+    "emojis": "💬💡🔄"
+  }
+}

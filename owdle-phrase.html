@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OW2 Character Guessing Game - Guess by Quote</title>
+  <style>
+    #quote {
+      font-style: italic;
+      font-size: 28px;
+      max-width: 700px;
+      margin: 0 auto 30px;
+      padding: 20px 30px;
+      border: 2px solid #FFA500;
+      border-radius: 10px;
+      background-color: rgba(17, 17, 17, 0.85);
+      color: #FFA500;
+      text-shadow:
+        0 0 8px #FF9900,
+        0 0 14px #FF6600,
+        0 0 20px #FF6600;
+      box-shadow:
+        0 0 10px #FFA500,
+        0 0 20px #FF6600,
+        0 0 30px #FF3300;
+      user-select: none;
+    }
+
+    @font-face {
+      font-family: 'CrimsonText';
+      src: url('big_noodle_titling_oblique.ttf') format('truetype');
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background: url('ow2.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+    }
+    input {
+      padding: 10px;
+      font-size: 16px;
+      width: 260px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-left: 10px;
+      cursor: pointer;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      background-color: #111;
+      color: #FFA500;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+    button:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 300px;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    h1 {
+      font-family: 'CrimsonText';
+      font-size: 45px;
+      margin-bottom: 8px;
+    }
+    th, td {
+      border: 1px solid #555;
+      padding: 10px 14px;
+      color: #f0f0f0;
+    }
+    .name-cell {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      justify-content: center;
+    }
+    .hero-icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    #message {
+      margin-top: 10px;
+      min-height: 22px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    #quote {
+      font-style: italic;
+      font-size: 20px;
+      margin-bottom: 20px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+      text-shadow: 1px 1px 2px black;
+    }
+    #guessContainer {
+      position: relative;
+      display: inline-block;
+      width: 260px;
+      font-family: 'Orbitron', sans-serif;
+    }
+    #guessInput {
+      width: 100%;
+      padding: 10px 12px;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      background-color: #111;
+      color: #fff;
+      font-size: 16px;
+      box-shadow: 0 0 8px rgba(255,165,0,0.6);
+      outline: none;
+    }
+    #dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: #1b1b1b;
+      color: white;
+      list-style: none;
+      padding: 0;
+      margin: 4px 0 0;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      max-height: 200px;
+      overflow-y: auto;
+      display: none;
+      z-index: 999;
+      box-shadow: 0 4px 12px rgba(255,165,0,0.5);
+    }
+    #dropdown li {
+      display: flex;
+      align-items: center;
+      padding: 10px 12px;
+      cursor: pointer;
+      border-bottom: 1px solid #333;
+      transition: background 0.2s ease, transform 0.1s ease;
+    }
+    #dropdown li:hover {
+      background: #333;
+      transform: translateX(4px);
+    }
+    #dropdown img {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 10px;
+    }
+    #homeButton {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      padding: 8px 16px;
+      background-color: #111;
+      color: #FFA500;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      text-decoration: none;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+      z-index: 1000;
+    }
+
+    #homeButton:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+
+    .button-link {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-left: 10px;
+      cursor: pointer;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      background-color: #111;
+      color: #FFA500;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      text-decoration: none;
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .button-link:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+  </style>
+</head>
+<body>
+  <a href="/" id="homeButton">Home</a>
+  <h1>Guess the Overwatch 2 Hero</h1>
+
+  <div id="quote"></div>
+
+  <div id="guessContainer">
+    <input type="text" id="guessInput" placeholder="Enter hero name" autocomplete="off" />
+    <ul id="dropdown"></ul>
+  </div>
+  <button id="guessBtn">Guess</button>
+  <p id="message"></p>
+
+  <table id="resultsTable">
+    <tr><th>Name</th></tr>
+  </table>
+  <a href="https://example.com/nextpage" id="nextBtn" class="button-link">NEXT</a>
+
+  <script>
+    const guessInput = document.getElementById('guessInput');
+    const guessBtn = document.getElementById('guessBtn');
+    const message = document.getElementById('message');
+    const quoteDiv = document.getElementById('quote');
+    const resultsTable = document.getElementById('resultsTable');
+    const dropdown = document.getElementById('dropdown');
+
+    const slugify = name => name.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const getIconUrl = name => `./icons/${slugify(name)}.webp`;
+
+    let allCharacters = [];
+    let currentCharacter = null;
+
+    async function loadGameData() {
+      try {
+        const phraseRes = await fetch('phrases.json');
+        allCharacters = await phraseRes.json();
+
+        const dataRes = await fetch('data.json?v=' + Date.now());
+        const todayData = await dataRes.json();
+        currentCharacter = todayData.secretQuote;
+        console.log('Raw secret data:');
+
+        quoteDiv.textContent = `"${currentCharacter.quote}"`;
+
+        // Check localStorage for already guessed
+        const today = new Date().toISOString().split('T')[0];
+        const stored = JSON.parse(localStorage.getItem('guessedPhrase'));
+        if (stored && stored.date === today) {
+          displayCorrectResult(stored.character);
+          message.textContent = '✅ Already guessed correctly today.';
+          message.style.color = '#4caf50';
+          guessInput.disabled = true;
+          guessBtn.disabled = true;
+        }
+      } catch (err) {
+        quoteDiv.textContent = '⚠️ Failed to load game data.';
+        console.log(err);
+        message.textContent = 'Check your connection or files.';
+        message.style.color = '#ff5252';
+      }
+    }
+
+    function displayCorrectResult(char) {
+      const tr = document.createElement('tr');
+      const td = document.createElement('td');
+      td.classList.add('name-cell');
+      const img = document.createElement('img');
+      img.src = getIconUrl(char.name);
+      img.alt = `${char.name} icon`;
+      img.className = 'hero-icon';
+      const span = document.createElement('span');
+      span.textContent = char.name;
+      td.append(img, span);
+      td.style.color = '#4caf50';
+      tr.appendChild(td);
+      resultsTable.appendChild(tr);
+    }
+
+    function checkGuess() {
+      const guess = guessInput.value.trim();
+      const match = allCharacters.find(c => c.name.toLowerCase() === guess.toLowerCase());
+
+      if (!match) {
+        message.textContent = '❌ Hero not found!';
+        message.style.color = '#ff5252';
+        return;
+      }
+
+      const tr = document.createElement('tr');
+      const td = document.createElement('td');
+      td.classList.add('name-cell');
+      const img = document.createElement('img');
+      img.src = getIconUrl(match.name);
+      img.alt = `${match.name} icon`;
+      img.className = 'hero-icon';
+      const span = document.createElement('span');
+      span.textContent = match.name;
+      td.append(img, span);
+
+      if (match.name === currentCharacter.name) {
+        td.style.color = '#4caf50';
+        message.textContent = '🎉 Correct! You guessed the hero.';
+        message.style.color = '#4caf50';
+
+        const today = new Date().toISOString().split('T')[0];
+        localStorage.setItem('guessedPhrase', JSON.stringify({ character: match, date: today }));
+
+        guessInput.disabled = true;
+        guessBtn.disabled = true;
+      } else {
+        td.style.color = '#ff9800';
+        message.textContent = '❌ Incorrect guess, try again!';
+        message.style.color = '#FFA500';
+      }
+
+      tr.appendChild(td);
+      resultsTable.appendChild(tr);
+      guessInput.value = '';
+      guessInput.focus();
+    }
+
+    guessBtn.addEventListener('click', checkGuess);
+
+    guessInput.addEventListener('input', () => {
+      const input = guessInput.value.toLowerCase();
+      dropdown.innerHTML = '';
+
+      if (!input.length) {
+        dropdown.style.display = 'none';
+        return;
+      }
+
+      const matches = allCharacters.filter(c => c.name.toLowerCase().includes(input));
+      matches.forEach(char => {
+        const li = document.createElement('li');
+        const img = document.createElement('img');
+        img.src = getIconUrl(char.name);
+        img.alt = char.name;
+        img.style.width = '32px';
+        img.style.height = '32px';
+        img.style.borderRadius = '50%';
+        img.style.objectFit = 'cover';
+        img.style.marginRight = '10px';
+
+        const span = document.createElement('span');
+        span.textContent = char.name;
+
+        li.appendChild(img);
+        li.appendChild(span);
+        li.addEventListener('click', () => {
+          guessInput.value = char.name;
+          dropdown.style.display = 'none';
+          checkGuess();
+        });
+
+        dropdown.appendChild(li);
+      });
+
+      dropdown.style.display = matches.length ? 'block' : 'none';
+    });
+
+    let activeIndex = -1;
+
+    guessInput.addEventListener('keydown', e => {
+      const items = dropdown.querySelectorAll('li');
+      if (!items.length) return;
+
+      if (e.key === 'ArrowDown') {
+        activeIndex = (activeIndex + 1) % items.length;
+        updateDropdownFocus(items);
+        e.preventDefault();
+      } else if (e.key === 'ArrowUp') {
+        activeIndex = (activeIndex - 1 + items.length) % items.length;
+        updateDropdownFocus(items);
+        e.preventDefault();
+      } else if (e.key === 'Enter') {
+        if (activeIndex !== -1) {
+          // Set input to selected dropdown name manually
+          guessInput.value = items[activeIndex].querySelector('span').textContent;
+          dropdown.style.display = 'none';
+          checkGuess(); // call once here manually
+          activeIndex = -1; // reset
+          e.preventDefault();
+        } else {
+          checkGuess();
+          e.preventDefault();
+        }
+      }
+    });
+
+
+    function updateDropdownFocus(items) {
+      items.forEach((item, index) => {
+        if (index === activeIndex) {
+          item.style.background = '#444';
+          item.scrollIntoView({ block: 'nearest' });
+        } else {
+          item.style.background = 'transparent';
+        }
+      });
+    }
+
+
+    document.addEventListener('click', (e) => {
+      if (!dropdown.contains(e.target) && e.target !== guessInput) {
+        dropdown.style.display = 'none';
+        activeIndex = -1;
+      }
+      activeIndex = -1
+    });
+
+    loadGameData();
+  </script>
+</body>
+</html>

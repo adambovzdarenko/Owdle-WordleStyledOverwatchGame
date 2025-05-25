@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Tracer",
+    "quotes": [
+      "Cheers love! The cavalry's here!",
+      "Time to mess with the enemy!",
+      "Too right!"
+    ]
+  },
+  {
+    "name": "Reaper",
+    "quotes": [
+      "Die! Die! Die!",
+      "You're already dead.",
+      "There's no escape."
+    ]
+  },
+  {
+    "name": "Widowmaker",
+    "quotes": [
+      "I prefer to work alone. But I suppose you will do.",
+      "I always hit my target.",
+      "One shot, one kill."
+    ]
+  },
+  {
+    "name": "Hanzo",
+    "quotes": [
+      "The dragon awakens.",
+      "Bow to no one.",
+      "My arrows fly true."
+    ]
+  },
+  {
+    "name": "Torbjörn",
+    "quotes": [
+      "I’m always ready for some mayhem!",
+      "Let’s melt some metal!",
+      "Now we’re talking!"
+    ]
+  },
+  {
+    "name": "Mercy",
+    "quotes": [
+      "Resilience is our greatest weapon.",
+      "Stand your ground!",
+      "For Valkyrie and honor!"
+    ]
+  },
+  {
+    "name": "Pharah",
+    "quotes": [
+      "Justice rains from above!",
+      "Get used to getting wrecked!",
+      "I won’t stop fighting for what’s right!"
+    ]
+  },
+  {
+    "name": "Reinhardt",
+    "quotes": [
+      "In justice, I trust!",
+      "The hammer shall judge thee!",
+      "FOR GLORY!"
+    ]
+  },
+  {
+    "name": "Zarya",
+    "quotes": [
+      "Strongest? That’s me!",
+      "I crush everything in my path!",
+      "Power comes from within."
+    ]
+  },
+  {
+    "name": "Genji",
+    "quotes": [
+      "Precision defines us.",
+      "Strike with purpose.",
+      "Every moment is a choice."
+    ]
+  },
+  {
+    "name": "McCree",
+    "quotes": [
+      "It’s high noon.",
+      "Let’s stir things up.",
+      "Draw!"
+    ]
+  },
+  {
+    "name": "Mei",
+    "quotes": [
+      "We’ll get through this—together!",
+      "Stay frosty!",
+      "Science can fix anything!"
+    ]
+  },
+  {
+    "name": "Doomfist",
+    "quotes": [
+      "Strength secures victory!",
+      "The world is a battlefield!",
+      "Power is power!"
+    ]
+  },
+  {
+    "name": "Soldier: 76",
+    "quotes": [
+      "It’s time to take the fight to them!",
+      "Justice isn't a act. It's a war.",
+      "No time for cover! Keep moving!"
+    ]
+  },
+  {
+    "name": "Symmetra",
+    "quotes": [
+      "Order brings perfection.",
+      "Constructing a better future.",
+      "Light builds the future."
+    ]
+  },
+  {
+    "name": "Sombra",
+    "quotes": [
+      "Hack the planet!",
+      "You just got owned.",
+      "Boop~"
+    ]
+  },
+  {
+    "name": "Ana",
+    "quotes": [
+      "Don’t make me miss.",
+      "Age before beauty.",
+      "I’ve seen worse."
+    ]
+  },
+  {
+    "name": "Zenyatta",
+    "quotes": [
+      "Embrace harmony.",
+      "You are... chaotic.",
+      "All things will be balanced."
+    ]
+  },
+  {
+    "name": "Moira",
+    "quotes": [
+      "Evolution is painless.",
+      "Failure is inevitable.",
+      "Life and death are mine to command."
+    ]
+  },
+  {
+    "name": "D.Va",
+    "quotes": [
+      "Let’s dive in!",
+      "Game on!",
+      "Call me D.Va, yeah!"
+    ]
+  },
+  {
+    "name": "Brigitte",
+    "quotes": [
+      "For Asgard!",
+      "Armor up!",
+      "I've got you covered!"
+    ]
+  },
+  {
+    "name": "Orisa",
+    "quotes": [
+      "I am Orisa. I am here to protect Numbani.",
+      "Together, we stand united.",
+      "Protecting the innocent is my mission."
+    ]
+  },
+  {
+    "name": "Sigma",
+    "quotes": [
+      "Gravitational manipulation—optimal.",
+      "They don't understand.",
+      "I see the solution."
+    ]
+  },
+  {
+    "name": "Echo",
+    "quotes": [
+      "Adapting.",
+      "Processing.",
+      "Copy complete."
+    ]
+  },
+  {
+    "name": "Bastion",
+    "quotes": [
+      "This area is secure.",
+      "Bzzt-bzzt!",
+      "Reconfigure... now."
+    ]
+  },
+  {
+    "name": "Tanka",
+    "quotes": [
+      "Peace begins with understanding.",
+      "The spirits guide me.",
+      "Balance must be restored."
+    ]
+  },
+  {
+    "name": "Junkrat",
+    "quotes": [
+      "Explosion!",
+      "Chaos is good!",
+      "Boom time!"
+    ]
+  },
+  {
+    "name": "Roadhog",
+    "quotes": [
+      "You ain't going nowhere.",
+      "Stay still!",
+      "That was delicious."
+    ]
+  },
+  {
+    "name": "Cassidy",
+    "quotes": [
+      "Luck of the draw.",
+      "Bang!",
+      "Time to gamble."
+    ]
+  },
+  {
+    "name": "Kiriko",
+    "quotes": [
+      "Let’s turn the tide!",
+      "Move fast, strike hard.",
+      "Shuriken’s flying!"
+    ]
+  },
+  {
+    "name": "Sojourn",
+    "quotes": [
+      "Stay focused.",
+      "Target acquired.",
+      "Precision is key."
+    ]
+  },
+  {
+    "name": "Ramattra",
+    "quotes": [
+      "Adapt or perish.",
+      "Your destruction is inevitable.",
+      "Form is temporary. Power... is eternal."
+    ]
+  }
+]

@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OW2 Character Guessing Game</title>
+  <style>
+    @font-face {
+      font-family: 'CrimsonText';
+      src: url('big_noodle_titling_oblique.ttf') format('truetype');
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: url('ow2.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+    }
+
+    input { padding: 10px; font-size: 16px; width: 260px; }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-left: 10px;
+      cursor: pointer;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      background-color: #111;
+      color: #FFA500;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 300px;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    h1 {font-family: 'CrimsonText'; font-size: 45px}
+    th, td { border: 1px solid #555; padding: 10px 14px; }
+    .green { background-color: #4caf50; }
+    .red { background-color: #f44336; }
+    .yellow {
+        background-color: #FFA500;
+    }
+    .name-cell {
+      gap: 8px;
+      padding: 10px 14px;
+    }
+    .name-cell img {
+      align-self: center; /* keep image vertically centered */
+      flex-shrink: 0;     /* prevent image shrinking */
+    }
+    .name-cell .name-text {
+      flex-grow: 1;
+      white-space: normal;  /* allow wrapping */
+    }
+
+
+
+    .hero-icon { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
+    #message { margin-top: 10px; min-height: 22px; }
+    #homeButton {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      padding: 8px 16px;
+      background-color: #111;
+      color: #FFA500;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      text-decoration: none;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+      z-index: 1000;
+    }
+
+    #homeButton:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+
+    .button-link {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-left: 10px;
+      cursor: pointer;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      background-color: #111;
+      color: #FFA500;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      text-decoration: none;
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .button-link:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+
+
+  </style>
+</head>
+<body>
+  <a href="/" id="homeButton">Home</a>
+  <h1>Guess the Overwatch 2 Hero</h1>
+  <div style="position: relative; display: inline-block; width: 260px; font-family: 'Orbitron', sans-serif;">
+    <input type="text" id="guessInput" placeholder="Enter hero name" autocomplete="off"
+      style="width: 100%; padding: 10px 12px; border: 2px solid #FFA500; border-radius: 6px; background-color: #111; color: #fff; font-size: 16px; box-shadow: 0 0 8px rgba(255,165,0,0.6); outline: none;">
+    <ul id="dropdown"
+      style="position: absolute; top: 100%; left: 0; right: 0; background: #1b1b1b; color: white; list-style: none; padding: 0; margin: 4px 0 0; border: 2px solid #FFA500; border-radius: 6px; max-height: 200px; overflow-y: auto; display: none; z-index: 999; box-shadow: 0 4px 12px rgba(255,165,0,0.5);">
+    </ul>
+  </div>
+  <button id="guessBtn">Guess</button>
+  <p id="message"></p>
+  <table id="resultsTable">
+    <tr>
+      <th>Name</th><th>Role</th><th>Affiliation</th><th>Gender</th><th>Species</th><th>Nationality</th><th>Year</th>
+    </tr>
+  </table>
+
+  <a href="file:///home/adam/projects/overwatchdle/owdle-phrase.html" id="nextBtn" class="button-link">NEXT</a>
+
+  <script>
+    let characters = [];
+    let secretCharacter = null;
+
+    async function loadGameData() {
+      try {
+        const charactersResponse = await fetch('characters.json');
+        if (!charactersResponse.ok) throw new Error('Failed to load characters.json');
+        characters = await charactersResponse.json();
+        console.log('Characters loaded:', characters);
+
+        const secretResponse = await fetch('data.json?v=' + Date.now());
+        if (!secretResponse.ok) throw new Error('Failed to load data.json');
+        const secretData = await secretResponse.json();
+        console.log('Raw secret data:', secretData);
+
+        // Check if secretCharacter exists in parsed JSON
+        if (!secretData.secretCharacter) {
+          console.error('secretCharacter not found in data.json!');
+        }
+
+        secretCharacter = secretData.secretCharacter;
+        console.log('Secret character loaded:', secretCharacter);
+      } catch (error) {
+        console.error('Failed to load game data:', error);
+      }
+    }
+
+
+    loadGameData();
+
+
+    const guessInput = document.getElementById('guessInput');
+    const guessBtn   = document.getElementById('guessBtn');
+    const messageEl  = document.getElementById('message');
+
+    guessBtn.addEventListener('click', checkGuess);
+    
+
+    const slugify  = name => name.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const getIconUrl = name => `./icons/${slugify(name)}.webp`;
+
+
+    let isCheckingGuess = false;
+
+    function checkGuess() {
+      const guess = guessInput.value.trim();
+      const character = characters.find(c => c.name.toLowerCase() === guess.toLowerCase());
+
+      if (!character) {
+        messageEl.textContent = '❌ Hero not found!';
+        messageEl.style.color = '#ff5252';
+        return;
+      }
+
+      const table = document.getElementById('resultsTable');
+      const row = table.insertRow();
+      const fields = ['name', 'role', 'affiliation', 'gender', 'species', 'nationality', 'releaseYear'];
+
+      fields.forEach(field => {
+        const cell = row.insertCell();
+
+        if (field === 'name') {
+          cell.classList.add('name-cell');
+          const img = document.createElement('img');
+          img.src = getIconUrl(character.name);
+          img.alt = `${character.name} icon`;
+          img.className = 'hero-icon';
+          const span = document.createElement('span');
+          span.textContent = character.name;
+          cell.append(img, span);
+          // Exact name match is green, else red (no partial for name)
+          cell.classList.add(character.name === secretCharacter.name ? 'green' : 'red');
+        }
+        else if (field === 'releaseYear') {
+          let text = character.releaseYear;
+          if (character.releaseYear === secretCharacter.releaseYear) {
+            cell.className = 'green';
+          } else {
+            cell.className = 'red';
+            text += character.releaseYear < secretCharacter.releaseYear ? ' ↑' : ' ↓';
+          }
+          cell.textContent = text;
+        }
+        else {
+          // Partial match logic for string fields (not year)
+          const guessValue = String(character[field]).toLowerCase();
+          const secretValue = String(secretCharacter[field]).toLowerCase();
+
+          function wordPartialMatch(a, b) {
+            // split strings into words
+            const wordsA = a.split(/\s+/);
+            const wordsB = b.split(/\s+/);
+            
+            // Check if any word from A is substring of B or vice versa
+            return wordsA.some(word => b.includes(word)) || wordsB.some(word => a.includes(word));
+          }
+
+          if (guessValue === secretValue) {
+            cell.className = 'green';
+          } else if (field !== 'gender' && wordPartialMatch(guessValue, secretValue)) {
+            cell.className = 'yellow';
+          } else {
+            cell.className = 'red';
+          }
+
+
+          cell.textContent = character[field];
+        }
+      });
+
+      if (character.name === secretCharacter.name) {
+        messageEl.textContent = '🎉 Correct! You guessed the hero.';
+        messageEl.style.color = '#4caf50';
+        const guessData = {
+          character: character,
+          date: new Date().toISOString().split('T')[0], // e.g. "2025-05-24"
+        };
+
+        // Save guessData in localStorage
+        localStorage.setItem('guessedCharacter', JSON.stringify(guessData));
+      } else {
+        messageEl.textContent = '❌ Incorrect guess, try again!';
+        messageEl.style.color = '#FFA500';
+      }
+
+      guessInput.value = '';
+      guessInput.focus();
+    }
+
+    const dropdown = document.getElementById('dropdown');
+
+    guessInput.addEventListener('input', () => {
+
+      const input = guessInput.value.toLowerCase();
+      dropdown.innerHTML = '';
+
+      if (input.length === 0) {
+        dropdown.style.display = 'none';
+        return;
+      }
+
+      const filtered = characters.filter(c => c.name.toLowerCase().includes(input));
+      filtered.forEach(char => {
+        const li = document.createElement('li');
+        li.style.display = 'flex';
+        li.style.alignItems = 'center';
+        li.style.padding = '10px 12px';
+        li.style.cursor = 'pointer';
+        li.style.borderBottom = '1px solid #333';
+        li.style.transition = 'background 0.2s ease, transform 0.1s ease';
+
+        const img = document.createElement('img');
+        img.src = getIconUrl(char.name);
+        img.alt = `${char.name} icon`;
+        img.style.width = '32px';
+        img.style.height = '32px';
+        img.style.borderRadius = '50%';
+        img.style.objectFit = 'cover';
+        img.style.marginRight = '10px';
+        li.appendChild(img);
+
+        const span = document.createElement('span');
+        span.textContent = char.name;
+        li.appendChild(span);
+
+        li.addEventListener('mouseover', () => {
+          li.style.background = '#333';
+          li.style.transform = 'translateX(4px)';
+        });
+        li.addEventListener('mouseout', () => {
+          li.style.background = 'transparent';
+          li.style.transform = 'none';
+        });
+        li.addEventListener('click', () => {
+          guessInput.value = char.name;
+          dropdown.style.display = 'none';
+          checkGuess();
+        });
+        dropdown.appendChild(li);
+      });
+
+      dropdown.style.display = filtered.length ? 'block' : 'none';
+    });
+
+
+    let activeIndex = -1;
+
+    guessInput.addEventListener('keydown', e => {
+      const items = dropdown.querySelectorAll('li');
+      if (!items.length) return;
+
+      if (e.key === 'ArrowDown') {
+        activeIndex = (activeIndex + 1) % items.length;
+        updateDropdownFocus(items);
+        e.preventDefault();
+      } else if (e.key === 'ArrowUp') {
+        activeIndex = (activeIndex - 1 + items.length) % items.length;
+        updateDropdownFocus(items);
+        e.preventDefault();
+      } else if (e.key === 'Enter') {
+        if (activeIndex !== -1) {
+          // Set input to selected dropdown name manually
+          guessInput.value = items[activeIndex].querySelector('span').textContent;
+          dropdown.style.display = 'none';
+          checkGuess(); // call once here manually
+          activeIndex = -1; // reset
+          e.preventDefault();
+        } else {
+          checkGuess();
+          e.preventDefault();
+        }
+      }
+    });
+
+
+    function updateDropdownFocus(items) {
+      items.forEach((item, index) => {
+        if (index === activeIndex) {
+          item.style.background = '#444';
+          item.scrollIntoView({ block: 'nearest' });
+        } else {
+          item.style.background = 'transparent';
+        }
+      });
+    }
+
+
+    document.addEventListener('click', (e) => {
+      if (!dropdown.contains(e.target) && e.target !== guessInput) {
+        dropdown.style.display = 'none';
+        activeIndex = -1;
+      }
+      activeIndex = -1
+    });
+
+
+
+  </script>
+</body>
+</html>

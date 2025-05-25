@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OW2 Character Guessing Game</title>
+  <style>
+    @font-face {
+      font-family: 'CrimsonText';
+      src: url('big_noodle_titling_oblique.ttf') format('truetype');
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: url('ow2.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+      margin: 0;
+    }
+
+    header {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 40px;
+      user-select: none;
+    }
+
+    header span {
+      margin-left: 8px;
+      font-size: 28px;
+      vertical-align: middle;
+    }
+
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+    }
+
+    h1 {
+      font-family: 'CrimsonText';
+      font-size: 45px;
+      margin: 0;
+      user-select: none;
+      text-shadow: 0 0 10px #FFA500;
+    }
+
+    .buttons-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      width: 320px;
+      align-items: flex-start; /* align buttons left so circles and text line up */
+    }
+
+    /* Style links like buttons */
+    a.button-link {
+      display: flex; /* flex to align circle and text */
+      align-items: center;
+      padding: 18px 16px;
+      font-size: 22px;
+      font-weight: 600;
+      border: 2px solid #FFA500;
+      border-radius: 8px;
+      background-color: #111;
+      color: #FFA500;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+      user-select: none;
+      width: 100%;
+      gap: 16px; /* space between circle and text */
+      justify-content: flex-start;
+    }
+
+    a.button-link:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+
+    /* Circle style */
+    .circle {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 2px solid #FFA500;
+      background-color: transparent;
+      flex-shrink: 0; /* don't shrink circle */
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+    /* Filled circle style */
+    .circle.filled {
+      background-color: #FFA500;
+      border-color: #FFA500;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    Streak: 0 <span>🔥</span>
+  </header>
+  <div id="countdown" style="font-size: 18px; margin-top: -30px; margin-bottom: 40px; color: #FFD700;">
+    Next reset in: 00:00:00
+  </div>
+  <main>
+    <h1>Guess the Overwatch 2 Hero</h1>
+
+    <div class="buttons-container">
+      <a href="http://localhost:8000/owdle.html" id="homeBtn" class="button-link">
+        <span class="circle" id="circle1"></span>
+        Character
+      </a>
+      <a href="http://localhost:8000/owdle-phrase.html" class="button-link">
+        <span class="circle" id="circle2"></span>
+        Phrase
+      </a>
+      <a href="http://localhost:8000/owdle-emoji.html" class="button-link">
+        <span class="circle" id="circle3"></span>
+        Emoji
+      </a>
+    </div>
+  </main>
+
+  <script>
+    /* ---------- tiny date helpers ---------- */
+    const todayStr = new Date().toISOString().split('T')[0];
+
+    function loadJSON(key, fallback = null) {
+      try { return JSON.parse(localStorage.getItem(key)) || fallback; }
+      catch { return fallback; }
+    }
+
+    function saveJSON(key, value) {
+      localStorage.setItem(key, JSON.stringify(value));
+    }
+
+    function isToday(dateString) {
+      return dateString === todayStr;
+    }
+
+    function isYesterday(dateString) {
+      if (!dateString) return false;
+      const stored = new Date(dateString);
+      const now = new Date();
+
+      const storedUTC = new Date(Date.UTC(stored.getUTCFullYear(), stored.getUTCMonth(), stored.getUTCDate()));
+      const nowUTC = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+      const yesterdayUTC = new Date(nowUTC);
+      yesterdayUTC.setUTCDate(nowUTC.getUTCDate() - 1);
+
+      return storedUTC.getTime() === yesterdayUTC.getTime();
+    }
+
+
+
+    function updateStreakDisplay(count) {
+      document.querySelector('header').innerHTML = `Streak: ${count} <span>🔥</span>`;
+    }
+
+    function updateCircles() {
+      const entries = [
+        { key: 'guessedCharacter', circleId: 'circle1' },
+        { key: 'guessedPhrase', circleId: 'circle2' },
+        { key: 'guessedEmoji', circleId: 'circle3' }
+      ];
+
+      entries.forEach(({ key, circleId }) => {
+        const data = loadJSON(key);
+        const circle = document.getElementById(circleId);
+        if (data && isToday(data.date)) {
+          circle.classList.add('filled');
+          console.log(`${key} guessed today ✅`);
+        } else {
+          circle.classList.remove('filled');
+        }
+      });
+    }
+
+    function updateStreak() {
+      const char = loadJSON('guessedCharacter');
+      const phrase = loadJSON('guessedPhrase');
+      const emoji = loadJSON('guessedEmoji');
+      const tasksDoneToday = char && isToday(char.date) && phrase && isToday(phrase.date) && emoji && isToday(emoji.date);
+
+      let streak = loadJSON('streak', { count: 0, lastDate: null });
+
+      if (tasksDoneToday) {
+        if (streak.lastDate === todayStr) {
+          // already recorded today
+        } else if (isYesterday(streak.lastDate)) {
+          streak.count += 1;
+        } else {
+          streak.count = 1;
+        }
+        streak.lastDate = todayStr;
+      } else if (streak.lastDate && !isToday(streak.lastDate) && !isYesterday(streak.lastDate)) {
+        streak.count = 0; // streak broken
+      }
+
+      saveJSON('streak', streak);
+      updateStreakDisplay(streak.count);
+    }
+    function startCountdownToMidnightUTC() {
+      const countdownEl = document.getElementById('countdown');
+
+      function updateCountdown() {
+        const now = new Date();
+        const nowUTC = new Date(
+          Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(),
+                   now.getUTCHours(), now.getUTCMinutes(), now.getUTCSeconds())
+        );
+
+        const nextMidnightUTC = new Date(Date.UTC(
+          now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + 1, 0, 0, 0
+        ));
+
+        const diff = nextMidnightUTC - nowUTC;
+
+        if (diff <= 0) {
+          countdownEl.textContent = 'Resetting...';
+          return;
+        }
+
+        const hours = String(Math.floor(diff / (1000 * 60 * 60))).padStart(2, '0');
+        const minutes = String(Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))).padStart(2, '0');
+        const seconds = String(Math.floor((diff % (1000 * 60)) / 1000)).padStart(2, '0');
+
+        countdownEl.textContent = `Next reset in: ${hours}:${minutes}:${seconds}`;
+      }
+
+      updateCountdown();
+      setInterval(updateCountdown, 1000);
+    }
+
+
+    window.addEventListener('DOMContentLoaded', () => {
+      startCountdownToMidnightUTC();
+      updateStreak();
+      updateCircles();
+    });
+  </script>
+
+
+</body>
+</html>
