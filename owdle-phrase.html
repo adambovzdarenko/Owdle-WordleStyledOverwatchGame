@@ -9,7 +9,7 @@
       font-style: italic;
       font-size: 28px;
       max-width: 700px;
-      margin: 0 auto 30px;
+      margin: 0 auto 20px;
       padding: 20px 30px;
       border: 2px solid #FFA500;
       border-radius: 10px;
@@ -24,6 +24,11 @@
         0 0 20px #FF6600,
         0 0 30px #FF3300;
       user-select: none;
+    }
+
+    /* Play button specific */
+    #playBtn {
+      margin-bottom: 30px;
     }
 
     @font-face {
@@ -55,10 +60,15 @@
       box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
       transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
     }
-    button:hover {
+    button:hover:not(:disabled) {
       background-color: #FFA500;
       color: #111;
       box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+    button:disabled {
+      opacity: 0.5;
+      cursor: default;
+      box-shadow: none;
     }
     table {
       margin: 20px auto;
@@ -97,15 +107,6 @@
       min-height: 22px;
       font-weight: bold;
       font-size: 18px;
-    }
-    #quote {
-      font-style: italic;
-      font-size: 20px;
-      margin-bottom: 20px;
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
-      text-shadow: 1px 1px 2px black;
     }
     #guessContainer {
       position: relative;
@@ -177,13 +178,11 @@
       transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
       z-index: 1000;
     }
-
     #homeButton:hover {
       background-color: #FFA500;
       color: #111;
       box-shadow: 0 0 14px rgba(255, 165, 0, 1);
     }
-
     .button-link {
       display: inline-block;
       padding: 10px 20px;
@@ -198,31 +197,28 @@
       text-decoration: none;
       transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
     }
-
     .button-link:hover {
       background-color: #FFA500;
       color: #111;
       box-shadow: 0 0 14px rgba(255, 165, 0, 1);
     }
   </style>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3506454622942858"
-     crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3506454622942858" crossorigin="anonymous"></script>
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T0DQQYCB56"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag(){dataLayer.push(arguments);}  
   gtag('js', new Date());
-
   gtag('config', 'G-T0DQQYCB56');
 </script>
-
 <body>
   <a href="https://www.owdle.xyz" id="homeButton">Home</a>
   <h1><br/>OWDLE - Guess the Overwatch 2 Hero</h1>
 
   <div id="quote"></div>
+  <button id="playBtn" disabled>🔊 Play Voice</button>
 
   <div id="guessContainer">
     <input type="text" id="guessInput" placeholder="Enter hero name" autocomplete="off" />
@@ -242,6 +238,7 @@
   <script>
     const guessInput = document.getElementById('guessInput');
     const guessBtn = document.getElementById('guessBtn');
+    const playBtn = document.getElementById('playBtn');
     const message = document.getElementById('message');
     const quoteDiv = document.getElementById('quote');
     const resultsTable = document.getElementById('resultsTable');
@@ -252,6 +249,7 @@
 
     let allCharacters = [];
     let currentCharacter = null;
+    let voiceAudio = null;
 
     async function loadGameData() {
       try {
@@ -261,9 +259,14 @@
         const dataRes = await fetch('data.json?v=' + Date.now());
         const todayData = await dataRes.json();
         currentCharacter = todayData.secretQuote;
-        console.log('Raw secret data:');
 
         quoteDiv.textContent = `"${currentCharacter.quote}"`;
+
+        // Prepare audio element
+        if (currentCharacter.url) {
+          voiceAudio = new Audio(currentCharacter.url);
+          playBtn.disabled = false;
+        }
 
         // Check localStorage for already guessed
         const today = new Date().toISOString().split('T')[0];
@@ -277,11 +280,21 @@
         }
       } catch (err) {
         quoteDiv.textContent = '⚠️ Failed to load game data.';
-        console.log(err);
+        console.error(err);
         message.textContent = 'Check your connection or files.';
         message.style.color = '#ff5252';
       }
     }
+
+    playBtn.addEventListener('click', () => {
+      if (!voiceAudio) return;
+      try {
+        voiceAudio.currentTime = 0;
+        voiceAudio.play();
+      } catch (err) {
+        console.error(err);
+      }
+    });
 
     function displayCorrectResult(char) {
       const tr = document.createElement('tr');
@@ -411,7 +424,6 @@
       }
     });
 
-
     function updateDropdownFocus(items) {
       items.forEach((item, index) => {
         if (index === activeIndex) {
@@ -423,13 +435,12 @@
       });
     }
 
-
     document.addEventListener('click', (e) => {
       if (!dropdown.contains(e.target) && e.target !== guessInput) {
         dropdown.style.display = 'none';
         activeIndex = -1;
       }
-      activeIndex = -1
+      activeIndex = -1;
     });
 
     loadGameData();

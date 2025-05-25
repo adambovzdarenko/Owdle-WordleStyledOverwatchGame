@@ -10,10 +10,11 @@
   },
   "secretQuote": {
     "name": "Genji",
-    "quote": "Strike with purpose."
+    "quote": "Strike with purpose.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/D.Va_-_Initiating_defense_matrix.ogg"
   },
   "secretEmoji": {
     "name": "Mercy",
-    "emojis": "➡️复活！🪶"
+    "emojis": "➡️🛟🪶"
   }
 }
