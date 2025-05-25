@@ -1,19 +1,19 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
-    "gender": "Female",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Power is power!"
+    "name": "Genji",
+    "quote": "Strike with purpose."
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "💬💡🔄"
+    "name": "Mercy",
+    "emojis": "➡️复活！🪶"
   }
 }
