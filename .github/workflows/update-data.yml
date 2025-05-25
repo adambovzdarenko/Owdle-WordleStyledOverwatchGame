@@ -1,12 +1,9 @@
 name: Update data.json daily
 
-permissions:
-  contents: write
-
 on:
-  workflow_dispatch:
+  workflow_dispatch: # ручной запуск через GitHub UI
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # запуск в 00:00 UTC каждый день
 
 jobs:
   update-data:
@@ -15,27 +12,24 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '18'  # или версия, которую ты используешь
 
-      - name: Install dependencies (if needed)
+      - name: Install dependencies (если есть package.json)
         run: npm install
+        # если зависимостей нет, можно убрать этот шаг
 
       - name: Run update script
         run: node updateData.js
 
-      - name: Commit and push updated data.json
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data.json
-          git diff --cached --quiet || git commit -m "Daily update of data.json [skip ci]"
-          echo "Pushing to repo..."
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }} || echo "Push failed"
+          # коммитим только если есть изменения (иначе команда вернёт ошибку, и echo "No changes" подавит ошибку)
+          git commit -m "Daily update of data.json [skip ci]" || echo "No changes to commit"
+          git push
