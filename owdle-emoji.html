@@ -208,6 +208,16 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3506454622942858"
      crossorigin="anonymous"></script>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T0DQQYCB56"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T0DQQYCB56');
+</script>
+
 <body>
   <a href="https://www.owdle.xyz" id="homeButton">Home</a>
   <h1><br/>OWDLE - Guess the Overwatch 2 Hero</h1>
@@ -224,7 +234,9 @@
   <table id="resultsTable">
     <tr><th>Name</th></tr>
   </table>
-
+  <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 14px; color: #FFA500; font-family: Arial, sans-serif; text-shadow: 0 0 4px #000;">
+  www.owdle.xyz
+  </footer>
   <script>
     const guessInput = document.getElementById('guessInput');
     const guessBtn = document.getElementById('guessBtn');
