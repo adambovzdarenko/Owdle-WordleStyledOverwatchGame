@@ -24,8 +24,9 @@ function updateDataFile() {
       charPhrases = phrases.find(p => p.name === quoteCharacter.name);
     } while (!charPhrases || !charPhrases.quotes.length);
 
-    const randomQuote = getRandomItem(charPhrases.quotes);
-    const randomURL = getRandomItem(charPhrases.urls);
+    const idx        = Math.floor(Math.random() * charPhrases.quotes.length);
+    const randomQuote = charPhrases.quotes[idx];   // same index
+    const randomURL   = charPhrases.urls[idx];     // ↖︎ matches the quote
 
     let emojiCharacter, charEmojis;
     do {
