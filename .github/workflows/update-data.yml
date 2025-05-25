@@ -37,4 +37,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add data.json
           git diff --cached --quiet || git commit -m "Daily update of data.json [skip ci]"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          echo "Pushing to repo..."
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }} || echo "Push failed"
