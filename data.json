@@ -1,20 +1,20 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Flag acquired. I'm moving out!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Sojourn_-_Flag_acquired._I%27m_moving_out.ogg"
+    "name": "Junker Queen",
+    "quote": "Look out for the missiles!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Junker_Queen_-_Look_out_for_the_missiles.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "🔌🕶️🕵️‍♀️"
+    "name": "Sigma",
+    "emojis": "🪫🛡️🪐"
   }
 }
