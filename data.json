@@ -1,20 +1,20 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
+    "name": "Zenyatta",
     "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "affiliation": "Shambali",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Look out for the missiles!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Junker_Queen_-_Look_out_for_the_missiles.ogg"
+    "name": "Sojourn",
+    "quote": "Mm, no.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Sojourn_-_Mm%2C_no.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🪫🛡️🪐"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   }
 }
