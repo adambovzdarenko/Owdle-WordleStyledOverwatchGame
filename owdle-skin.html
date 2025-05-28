@@ -13,12 +13,16 @@
       text-align: center;
       padding: 20px;
     }
+    @font-face {
+      font-family: 'CrimsonText';
+      src: url('big_noodle_titling_oblique.ttf') format('truetype');
+    }
     h1 {
-      font-size: 40px;
-      margin-bottom: 20px;
-      color: #FFA500;
-      text-shadow: 0 0 10px #FFA500;
+      font-family: 'CrimsonText';
+      font-size: 45px;
+      margin: 0;
       user-select: none;
+      text-shadow: 0 0 10px #FFA500;
     }
     #skinImage {
       width: 200px;
@@ -84,7 +88,7 @@
 </head>
 <body>
   <a href="https://www.owdle.xyz" id="homeButton">Home</a>
-  <h1>OWDLE - Guess the Overwatch 2 Skin</h1>
+  <h1><br/>OWDLE - Guess the Overwatch 2 Hero</h1>
 
   <img id="skinImage" src="" alt="Secret Skin" />
 
@@ -101,7 +105,9 @@
   </div>
 
   <div id="message"></div>
-
+  <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 14px; color: #FFA500; font-family: Arial, sans-serif; text-shadow: 0 0 4px #000;">
+  www.owdle.xyz
+  </footer>
   <script>
     const skinImage = document.getElementById('skinImage');
     const charSelect = document.getElementById('charSelect');
