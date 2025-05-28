@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OWDLE - Overwatch 2 Skin Guessing Game</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: url('ow2.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 40px;
+      margin-bottom: 20px;
+      color: #FFA500;
+      text-shadow: 0 0 10px #FFA500;
+      user-select: none;
+    }
+    #skinImage {
+      width: 200px;
+      height: 200px;
+      image-rendering: pixelated;
+      filter: contrast(120%);
+      margin-bottom: 20px;
+      transition: filter 0.3s ease;
+      border: 3px solid #FFA500;
+      border-radius: 12px;
+      user-select: none;
+    }
+    select, button {
+      font-size: 16px;
+      padding: 10px;
+      margin: 10px 5px;
+      border-radius: 6px;
+      border: 2px solid #FFA500;
+      background-color: #111;
+      color: #FFA500;
+      cursor: pointer;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    }
+    select:disabled {
+      background-color: #333;
+      color: #666;
+      cursor: not-allowed;
+      box-shadow: none;
+    }
+    button:hover:not(:disabled), select:hover:not(:disabled) {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+    #message {
+      font-weight: bold;
+      font-size: 20px;
+      margin-top: 20px;
+      min-height: 24px;
+    }
+    #homeButton {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      padding: 8px 16px;
+      background-color: #111;
+      color: #FFA500;
+      font-weight: bold;
+      border: 2px solid #FFA500;
+      border-radius: 6px;
+      text-decoration: none;
+      box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+      transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+      z-index: 1000;
+    }
+    #homeButton:hover {
+      background-color: #FFA500;
+      color: #111;
+      box-shadow: 0 0 14px rgba(255, 165, 0, 1);
+    }
+  </style>
+</head>
+<body>
+  <a href="https://www.owdle.xyz" id="homeButton">Home</a>
+  <h1>OWDLE - Guess the Overwatch 2 Skin</h1>
+
+  <img id="skinImage" src="" alt="Secret Skin" />
+
+  <div>
+    <select id="charSelect">
+      <option value="">Select Character</option>
+    </select>
+
+    <select id="skinSelect" disabled>
+      <option value="">Select Skin</option>
+    </select>
+
+    <button id="guessBtn" disabled>Guess</button>
+  </div>
+
+  <div id="message"></div>
+
+  <script>
+    const skinImage = document.getElementById('skinImage');
+    const charSelect = document.getElementById('charSelect');
+    const skinSelect = document.getElementById('skinSelect');
+    const guessBtn = document.getElementById('guessBtn');
+    const message = document.getElementById('message');
+
+    let skinsData = {};
+    let secretSkin = null;
+    let pixelationLevel = 8; // Start pixelation (CSS filter blur or pixelated scaling can be done)
+    const maxPixelation = 8;
+    const minPixelation = 0;
+
+    // Helper: Update image pixelation using CSS filter blur
+    function updatePixelation(level) {
+      // Use blur filter as proxy for pixelation (pixelated rendering keeps sharp edges, blur smooths)
+      // You can combine image-rendering: pixelated and blur for a "pixelated fade" effect
+      // More advanced: use canvas for real pixelation, but CSS blur is easier here
+      skinImage.style.filter = `blur(${level}px) contrast(120%)`;
+    }
+
+    async function loadGameData() {
+      try {
+        // Load skins.json
+        const skinsRes = await fetch('skins.json?v=' + Date.now());
+        skinsData = await skinsRes.json();
+
+        // Load data.json
+        const dataRes = await fetch('data.json?v=' + Date.now());
+        const data = await dataRes.json();
+        secretSkin = data.secretSkin;
+
+        // Set image src and reset pixelation
+        skinImage.src = secretSkin.url;
+        skinImage.alt = `${secretSkin.name} - ${secretSkin.skin_name}`;
+        pixelationLevel = maxPixelation;
+        updatePixelation(pixelationLevel);
+
+        populateCharacters();
+
+        // Restore guesses from localStorage
+        const today = new Date().toISOString().split('T')[0];
+        const stored = JSON.parse(localStorage.getItem('guessedSkin'));
+        if (stored && stored.date === today) {
+          showCorrectGuess(stored.character, stored.skin);
+          message.textContent = '✅ You already guessed correctly today!';
+          disableInputs();
+        }
+      } catch (err) {
+        message.textContent = '⚠️ Failed to load game data.';
+        console.error(err);
+      }
+    }
+
+    function populateCharacters() {
+      charSelect.innerHTML = '<option value="">Select Character</option>';
+      Object.keys(skinsData).forEach(charName => {
+        const option = document.createElement('option');
+        option.value = charName;
+        option.textContent = charName;
+        charSelect.appendChild(option);
+      });
+      skinSelect.innerHTML = '<option value="">Select Skin</option>';
+      skinSelect.disabled = true;
+      guessBtn.disabled = true;
+    }
+
+    charSelect.addEventListener('change', () => {
+      const char = charSelect.value;
+      if (!char) {
+        skinSelect.innerHTML = '<option value="">Select Skin</option>';
+        skinSelect.disabled = true;
+        guessBtn.disabled = true;
+        return;
+      }
+      // Populate skins dropdown for selected char
+      skinSelect.innerHTML = '<option value="">Select Skin</option>';
+      skinsData[char].forEach(skin => {
+        const option = document.createElement('option');
+        option.value = skin.skin_name;
+        option.textContent = skin.skin_name;
+        skinSelect.appendChild(option);
+      });
+      skinSelect.disabled = false;
+      guessBtn.disabled = true;
+      message.textContent = '';
+    });
+
+    skinSelect.addEventListener('change', () => {
+      guessBtn.disabled = !skinSelect.value;
+      message.textContent = '';
+    });
+
+    function disableInputs() {
+      charSelect.disabled = true;
+      skinSelect.disabled = true;
+      guessBtn.disabled = true;
+    }
+
+    function showCorrectGuess(character, skin) {
+      message.style.color = '#4caf50';
+      message.textContent = `🎉 Correct! It is ${character} with skin "${skin}".`;
+      skinImage.style.filter = 'none';
+    }
+
+    guessBtn.addEventListener('click', () => {
+      const guessedChar = charSelect.value;
+      const guessedSkin = skinSelect.value;
+
+      if (!guessedChar || !guessedSkin) {
+        message.style.color = '#ff5252';
+        message.textContent = 'Please select both character and skin.';
+        return;
+      }
+
+      if (guessedChar === secretSkin.name && guessedSkin === secretSkin.skin_name) {
+        showCorrectGuess(guessedChar, guessedSkin);
+        disableInputs();
+
+        // Store guess for today
+        const today = new Date().toISOString().split('T')[0];
+        localStorage.setItem('guessedSkin', JSON.stringify({
+          character: guessedChar,
+          skin: guessedSkin,
+          date: today
+        }));
+      } else {
+        // Wrong guess - reduce pixelation level
+        pixelationLevel = Math.max(minPixelation, pixelationLevel - 2);
+        updatePixelation(pixelationLevel);
+
+        message.style.color = '#FFA500';
+        message.textContent = '❌ Incorrect guess, try again!';
+      }
+    });
+
+    loadGameData();
+  </script>
+</body>
+</html>
