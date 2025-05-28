@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
+    "name": "Soldier: 76",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Our teammate needs to be revived.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Ana_-_Our_teammate_needs_to_be_revived.ogg"
+    "name": "Lifeweaver",
+    "quote": "(crushed sounds)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Lifeweaver_-_%28crushed_sounds%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "🎮🐰🛡️"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Porsche",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/D.Va_Skin_Porsche.png"
+    "name": "Ashe",
+    "skin_name": "Gangster",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Ashe_Skin_Gangster.png"
   }
 }
