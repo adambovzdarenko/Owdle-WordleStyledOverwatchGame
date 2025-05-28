@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "(crushed sounds)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Lifeweaver_-_%28crushed_sounds%29_%281%29.ogg"
+    "name": "Torbjörn",
+    "quote": "Someone call for the repairman?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Torbj%C3%B6rn_-_Someone_call_for_the_repairman.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Zenyatta",
+    "emojis": "🔮🕉️💭"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Gangster",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Ashe_Skin_Gangster.png"
+    "name": "Soldier: 76",
+    "skin_name": "Infinite Guard: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
   }
 }
