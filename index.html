@@ -167,6 +167,10 @@
         <span class="circle" id="circle3"></span>
         Emoji
       </a>
+      <a href="/owdle-skin.html" class="button-link">
+        <span class="circle" id="circle4"></span>
+        Skin
+      </a>
     </div> 
   </main>
   <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 14px; color: #FFA500; font-family: Arial, sans-serif; text-shadow: 0 0 4px #000;">
@@ -213,7 +217,8 @@
       const entries = [
         { key: 'guessedCharacter', circleId: 'circle1' },
         { key: 'guessedPhrase', circleId: 'circle2' },
-        { key: 'guessedEmoji', circleId: 'circle3' }
+        { key: 'guessedEmoji', circleId: 'circle3' },
+        { key: 'guessedSkin', circleId: 'circle4' }
       ];
 
       entries.forEach(({ key, circleId }) => {
@@ -232,7 +237,8 @@
       const char = loadJSON('guessedCharacter');
       const phrase = loadJSON('guessedPhrase');
       const emoji = loadJSON('guessedEmoji');
-      const tasksDoneToday = char && isToday(char.date) && phrase && isToday(phrase.date) && emoji && isToday(emoji.date);
+      const skin = loadJSON('guessedSkin');
+      const tasksDoneToday = char && isToday(char.date) && phrase && isToday(phrase.date) && emoji && isToday(emoji.date) && skin && isToday(skin.date);
 
       let streak = loadJSON('streak', { count: 0, lastDate: null });
 
