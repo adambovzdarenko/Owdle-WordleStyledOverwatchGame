@@ -1,20 +1,20 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
-    "role": "Support",
-    "affiliation": "Shambali",
+    "name": "Reinhardt",
+    "role": "Tank",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Mm, no.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Sojourn_-_Mm%2C_no.ogg"
+    "name": "Ana",
+    "quote": "Our teammate needs to be revived.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Ana_-_Our_teammate_needs_to_be_revived.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "D.Va",
+    "emojis": "🎮🐰🛡️"
   }
 }
