@@ -220,6 +220,9 @@
 
     async function loadGameData() {
       try {
+        const shareBtn = document.getElementById('shareBtn');
+        shareBtn.style.display = 'none';  // hide initially
+
         const charactersResponse = await fetch('characters.json');
         if (!charactersResponse.ok) throw new Error('Failed to load characters.json');
         characters = await charactersResponse.json();
@@ -325,6 +328,7 @@
         if (character.name === secretCharacter.name) {
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
+          shareBtn.style.display = 'inline-block';
         }
       }
 
@@ -375,7 +379,7 @@
           text += formatGuessRow(rows[i]) + '\n';
         }
 
-        text += '\nhttps://loldle.net';
+        text += '\nhttps://owdle.xyz';
 
         // Копируем в буфер
         navigator.clipboard.writeText(text).then(() => {
