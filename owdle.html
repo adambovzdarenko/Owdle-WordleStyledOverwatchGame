@@ -325,17 +325,15 @@
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
 
-          // Показать кнопку Share и очистить сообщение под ней
-          const shareBtn = document.getElementById('shareBtn');
-          const shareMessage = document.getElementById('shareMessage');
-          shareBtn.style.display = 'inline-block';
-          shareMessage.textContent = '';
+          // Show share button
+          document.getElementById('shareBtn').style.display = 'inline-block';
+          // Clear any previous share message
+          document.getElementById('shareMessage').textContent = '';
         } else {
-          // Скрыть кнопку Share и очистить сообщение, если не угадали
+          // Hide share button and clear message for wrong guesses
           document.getElementById('shareBtn').style.display = 'none';
           document.getElementById('shareMessage').textContent = '';
         }
-
       }
 
       // Функция для формирования строки эмодзи по цветам ячеек в строке таблицы
@@ -364,34 +362,36 @@
       // Обработчик кнопки Share
       document.getElementById('shareBtn').addEventListener('click', () => {
         if (guesses.length === 0) {
-          document.getElementById('shareMessage').textContent = 'Make at least one guess before sharing!';
+          alert('Make at least one guess before sharing!');
           return;
         }
         const table = document.getElementById('resultsTable');
         const rows = table.rows;
 
+        // Найдём номер сегодняшнего чемпионата (просто пример, тут можно добавить логику)
         const mode = 'classic';
         const attempts = guesses.length;
+
+        // Сложность можно определить как "easy" если попыток <=4, иначе "hard"
         const difficulty = attempts <= 4 ? 'easy' : 'hard';
 
-        let text = `I guessed #Owdle champion in ${mode} mode on try ${attempts} (${difficulty}) ⚔️\n`;
+        // Формируем заголовок
+        let text = `I guessed #Owdle champion in ${mode} mode on try ${attempts} ⚔️\n`;
 
+        // Добавляем эмодзи строки для каждой попытки (пропуская заголовок)
         for(let i=1; i < rows.length; i++) {
           text += formatGuessRow(rows[i]) + '\n';
         }
 
         text += '\nhttps://owdle.xyz';
 
-        // Показываем результат под кнопкой (а не в alert)
-        const shareMessage = document.getElementById('shareMessage');
-        shareMessage.textContent = text;
-
-        // Копируем в буфер (не показываем alert)
-        navigator.clipboard.writeText(text).catch(() => {
-          // Если не удалось — ничего не делаем, пользователь увидит текст для копирования
+        // Копируем в буфер
+        navigator.clipboard.writeText(text).then(() => {
+          alert('Results copied to clipboard! Share it anywhere 😊');
+        }).catch(() => {
+          alert('Failed to copy results. Please copy manually:\n\n' + text);
         });
       });
-
 
     const dropdown = document.getElementById('dropdown');
 
