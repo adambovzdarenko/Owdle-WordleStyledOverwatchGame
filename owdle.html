@@ -209,6 +209,7 @@
   </div>
 
   <a href="/owdle-phrase.html" id="nextBtn" class="button-link">NEXT</a>
+  <button id="shareBtn" style="margin-left: 10px;">Share</button>
   <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 14px; color: #FFA500; font-family: Arial, sans-serif; text-shadow: 0 0 4px #000;">
   www.owdle.xyz
   </footer>
@@ -324,15 +325,6 @@
         if (character.name === secretCharacter.name) {
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
-
-          // Show share button
-          document.getElementById('shareBtn').style.display = 'inline-block';
-          // Clear any previous share message
-          document.getElementById('shareMessage').textContent = '';
-        } else {
-          // Hide share button and clear message for wrong guesses
-          document.getElementById('shareBtn').style.display = 'none';
-          document.getElementById('shareMessage').textContent = '';
         }
       }
 
@@ -383,7 +375,7 @@
           text += formatGuessRow(rows[i]) + '\n';
         }
 
-        text += '\nhttps://owdle.xyz';
+        text += '\nhttps://loldle.net';
 
         // Копируем в буфер
         navigator.clipboard.writeText(text).then(() => {
