@@ -265,7 +265,7 @@
       function checkGuess() {
         const guess = guessInput.value.trim();
         const character = characters.find(c => c.name.toLowerCase() === guess.toLowerCase());
-
+        guessInput.value = '';
         if (!character) {
           messageEl.textContent = '❌ Hero not found!';
           messageEl.style.color = '#ff5252';
