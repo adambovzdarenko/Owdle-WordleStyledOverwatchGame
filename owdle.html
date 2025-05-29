@@ -325,15 +325,17 @@
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
 
-          // Show share button
-          document.getElementById('shareBtn').style.display = 'inline-block';
-          // Clear any previous share message
-          document.getElementById('shareMessage').textContent = '';
+          // Показать кнопку Share и очистить сообщение под ней
+          const shareBtn = document.getElementById('shareBtn');
+          const shareMessage = document.getElementById('shareMessage');
+          shareBtn.style.display = 'inline-block';
+          shareMessage.textContent = '';
         } else {
-          // Hide share button and clear message for wrong guesses
+          // Скрыть кнопку Share и очистить сообщение, если не угадали
           document.getElementById('shareBtn').style.display = 'none';
           document.getElementById('shareMessage').textContent = '';
         }
+
       }
 
       // Функция для формирования строки эмодзи по цветам ячеек в строке таблицы
@@ -374,19 +376,19 @@
 
         let text = `I guessed #Owdle champion in ${mode} mode on try ${attempts} (${difficulty}) ⚔️\n`;
 
-        for(let i = 1; i < rows.length; i++) {
+        for(let i=1; i < rows.length; i++) {
           text += formatGuessRow(rows[i]) + '\n';
         }
 
-        text += '\nhttps://loldle.net';
+        text += '\nhttps://owdle.xyz';
 
-        // Show share text below button instead of alert
-        const shareMessageDiv = document.getElementById('shareMessage');
-        shareMessageDiv.textContent = text;
+        // Показываем результат под кнопкой (а не в alert)
+        const shareMessage = document.getElementById('shareMessage');
+        shareMessage.textContent = text;
 
-        // Optionally, copy to clipboard silently
+        // Копируем в буфер (не показываем alert)
         navigator.clipboard.writeText(text).catch(() => {
-          // If fails, nothing, user can copy from visible message
+          // Если не удалось — ничего не делаем, пользователь увидит текст для копирования
         });
       });
 
