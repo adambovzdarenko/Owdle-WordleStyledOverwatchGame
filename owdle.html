@@ -219,9 +219,9 @@
     let secretCharacter = null;
 
     async function loadGameData() {
+      shareBtn.style.display = 'none';  // hide initially
       try {
         const shareBtn = document.getElementById('shareBtn');
-        shareBtn.style.display = 'none';  // hide initially
 
         const charactersResponse = await fetch('characters.json');
         if (!charactersResponse.ok) throw new Error('Failed to load characters.json');
