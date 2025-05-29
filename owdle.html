@@ -209,7 +209,6 @@
   </div>
 
   <a href="/owdle-phrase.html" id="nextBtn" class="button-link">NEXT</a>
-  <button id="shareBtn" style="margin-left: 10px;">Share</button>
   <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 14px; color: #FFA500; font-family: Arial, sans-serif; text-shadow: 0 0 4px #000;">
   www.owdle.xyz
   </footer>
@@ -325,6 +324,15 @@
         if (character.name === secretCharacter.name) {
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
+
+          // Show share button
+          document.getElementById('shareBtn').style.display = 'inline-block';
+          // Clear any previous share message
+          document.getElementById('shareMessage').textContent = '';
+        } else {
+          // Hide share button and clear message for wrong guesses
+          document.getElementById('shareBtn').style.display = 'none';
+          document.getElementById('shareMessage').textContent = '';
         }
       }
 
@@ -354,37 +362,34 @@
       // Обработчик кнопки Share
       document.getElementById('shareBtn').addEventListener('click', () => {
         if (guesses.length === 0) {
-          alert('Make at least one guess before sharing!');
+          document.getElementById('shareMessage').textContent = 'Make at least one guess before sharing!';
           return;
         }
         const table = document.getElementById('resultsTable');
         const rows = table.rows;
 
-        // Найдём номер сегодняшнего чемпионата (просто пример, тут можно добавить логику)
-        const championNumber = 1057;
         const mode = 'classic';
         const attempts = guesses.length;
-
-        // Сложность можно определить как "easy" если попыток <=4, иначе "hard"
         const difficulty = attempts <= 4 ? 'easy' : 'hard';
 
-        // Формируем заголовок
-        let text = `I guessed #LoLdle champion #${championNumber} in ${mode} mode on try ${attempts} (${difficulty}) ⚔️\n`;
+        let text = `I guessed #Owdle champion in ${mode} mode on try ${attempts} (${difficulty}) ⚔️\n`;
 
-        // Добавляем эмодзи строки для каждой попытки (пропуская заголовок)
-        for(let i=1; i < rows.length; i++) {
+        for(let i = 1; i < rows.length; i++) {
           text += formatGuessRow(rows[i]) + '\n';
         }
 
         text += '\nhttps://loldle.net';
 
-        // Копируем в буфер
-        navigator.clipboard.writeText(text).then(() => {
-          alert('Results copied to clipboard! Share it anywhere 😊');
-        }).catch(() => {
-          alert('Failed to copy results. Please copy manually:\n\n' + text);
+        // Show share text below button instead of alert
+        const shareMessageDiv = document.getElementById('shareMessage');
+        shareMessageDiv.textContent = text;
+
+        // Optionally, copy to clipboard silently
+        navigator.clipboard.writeText(text).catch(() => {
+          // If fails, nothing, user can copy from visible message
         });
       });
+
 
     const dropdown = document.getElementById('dropdown');
 
