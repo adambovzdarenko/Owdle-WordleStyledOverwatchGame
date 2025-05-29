@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Someone call for the repairman?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Torbj%C3%B6rn_-_Someone_call_for_the_repairman.ogg"
+    "name": "Symmetra",
+    "quote": "Adjusting turret placement.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Symmetra_-_Adjusting_turret_placement.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🔮🕉️💭"
+    "name": "Reinhardt",
+    "emojis": "🇩🇪🦁🛠️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Infinite Guard: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
+    "name": "Brigitte",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Brigitte_Skin_Classic.png"
   }
 }
