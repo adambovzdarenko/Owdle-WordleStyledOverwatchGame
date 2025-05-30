@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Adjusting turret placement.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Symmetra_-_Adjusting_turret_placement.ogg"
+    "name": "Lucio",
+    "quote": "They're approaching the objective!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/L%C3%BAcio_-_They%27re_approaching_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🇩🇪🦁🛠️"
+    "name": "Mei",
+    "emojis": "🌨️👓🔋"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Brigitte_Skin_Classic.png"
+    "name": "Soldier: 76",
+    "skin_name": "Immortal",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/S76_Skin_Immortal.png"
   }
 }
