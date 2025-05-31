@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
+    "name": "Mercy",
     "role": "Support",
-    "affiliation": "Project Red Promise",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "They're approaching the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/L%C3%BAcio_-_They%27re_approaching_the_objective.ogg"
+    "name": "Widowmaker",
+    "quote": "Careful.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Widowmaker_-_Careful.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🌨️👓🔋"
+    "name": "Mercy",
+    "emojis": "💉🕊️✨"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Immortal",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/S76_Skin_Immortal.png"
+    "name": "Roadhog",
+    "skin_name": "Kaiju",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Roadhog_Skin_Kaiju.png"
   }
 }
