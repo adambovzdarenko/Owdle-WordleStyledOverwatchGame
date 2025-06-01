@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "Careful.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Widowmaker_-_Careful.ogg"
+    "name": "Ashe",
+    "quote": "Bob, I have HAD IT with you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Ashe_-_Bob%2C_I_have_had_it_with_you.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "💉🕊️✨"
+    "name": "Hanzo",
+    "emojis": "🌀🧘‍♂️⛰️"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Kaiju",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Roadhog_Skin_Kaiju.png"
+    "name": "Soldier: 76",
+    "skin_name": "Slasher: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/S76_Skin_Slasher.png"
   }
 }
