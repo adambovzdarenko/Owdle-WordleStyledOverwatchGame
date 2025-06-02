@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Bob, I have HAD IT with you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Ashe_-_Bob%2C_I_have_had_it_with_you.ogg"
+    "name": "Winston",
+    "quote": "Form up!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Winston_-_Form_up.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "Ana",
+    "emojis": "💉👵🔭"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Slasher: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/S76_Skin_Slasher.png"
+    "name": "Mei",
+    "skin_name": "Jiangshi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Mei_Skin_Jiangshi.png"
   }
 }
