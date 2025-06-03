@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Form up!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Winston_-_Form_up.ogg"
+    "name": "Soldier: 76",
+    "quote": "Bite the bullet.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Soldier_76_-_Bite_the_bullet.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "💉👵🔭"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Jiangshi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Mei_Skin_Jiangshi.png"
+    "name": "Junkrat",
+    "skin_name": "Fawksey James",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Junkrat_Skin_Fawksey_James.png"
   }
 }
