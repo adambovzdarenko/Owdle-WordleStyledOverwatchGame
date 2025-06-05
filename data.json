@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "Mauga",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
     "name": "Sombra",
-    "quote": "Looks like Gibraltar's back online... with lots of new intel to share.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Sombra_-_Looks_like_Gibraltar%27s_back_online..._with_lots_of_new_intel_to_share.ogg"
+    "quote": "Reinhardt: *name*, something is wrong with my phone. It is so slow!*name*: I'm not tech support, big guy.Reinhardt: I know, I know. I'm just not very good with computers.*name*: *sigh* Have you tried turning it off and on?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Reinhardt_-_Sombra%2C_something_is_wrong_with_my_phone._It_is_so_slow.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Ana",
+    "emojis": "💉👵🔭"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Vert",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Widowmaker_Skin_Vert.png"
+    "name": "Echo",
+    "skin_name": "Retro Future",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Echo_Skin_Retro_Future.png"
   }
 }
