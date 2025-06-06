@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Reinhardt: *name*, something is wrong with my phone. It is so slow!*name*: I'm not tech support, big guy.Reinhardt: I know, I know. I'm just not very good with computers.*name*: *sigh* Have you tried turning it off and on?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Reinhardt_-_Sombra%2C_something_is_wrong_with_my_phone._It_is_so_slow.ogg"
+    "name": "Brigitte",
+    "quote": "(prolonged screaming)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Brigitte_-_%28prolonged_screaming%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "💉👵🔭"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Retro Future",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Echo_Skin_Retro_Future.png"
+    "name": "Reinhardt",
+    "skin_name": "Brass",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Reinhardt_Skin_Brass.png"
   }
 }
