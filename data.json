@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
+    "name": "Moira",
     "role": "Support",
-    "affiliation": "Project Red Promise",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "(prolonged screaming)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Brigitte_-_%28prolonged_screaming%29_%281%29.ogg"
+    "name": "Reinhardt",
+    "quote": "AnaOh, Gibraltar... where has the time gone?*name*: Do you remember that night? Dancing in the command center until dawn?Ana: We were foolish, weren't we?*name*: Perhaps we still are.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Ana_-_Oh%2C_Gibraltar..._where_has_the_time_gone.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "Mei",
+    "emojis": "🌨️👓🔋"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Brass",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Reinhardt_Skin_Brass.png"
+    "name": "Venture",
+    "skin_name": "Giza",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Venture_Skin_Giza.png"
   }
 }
