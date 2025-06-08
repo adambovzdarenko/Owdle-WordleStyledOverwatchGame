@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "AnaOh, Gibraltar... where has the time gone?*name*: Do you remember that night? Dancing in the command center until dawn?Ana: We were foolish, weren't we?*name*: Perhaps we still are.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Ana_-_Oh%2C_Gibraltar..._where_has_the_time_gone.ogg"
+    "name": "Genji",
+    "quote": "Shishō, mōshiwake arimasen.(eliminatingZenyatta)Japanese:師匠、申し訳ありません｡English:Master, my sincerest apologies.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Genji_-_%28Japanese%29_Master%2C_I%27m_sorry.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🌨️👓🔋"
+    "name": "Soldier: 76",
+    "emojis": "🇺🇸🎯👴"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Giza",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Venture_Skin_Giza.png"
+    "name": "Symmetra",
+    "skin_name": "Saffron",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Symmetra_Skin_Saffron.png"
   }
 }
