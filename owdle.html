@@ -324,7 +324,7 @@
             cell.textContent = character[field];
           }
         });
-
+        const today = new Date().toISOString().split('T')[0];
         if (character.name === secretCharacter.name) {
           messageEl.textContent = '🎉 Correct! You guessed the hero.';
           messageEl.style.color = '#4caf50';
