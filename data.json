@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Shishō, mōshiwake arimasen.(eliminatingZenyatta)Japanese:師匠、申し訳ありません｡English:Master, my sincerest apologies.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Genji_-_%28Japanese%29_Master%2C_I%27m_sorry.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "This city is louder than a field of Montana grasshoppers. Y'know, the ones as big as your thumb?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Cassidy_-_This_city%27s_louder_than_a_field_of_Montana_grasshoppers._You_know%2C_the_ones_as_big_as_your_thumb.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🇺🇸🎯👴"
+    "name": "Junker Queen",
+    "emojis": "👑🪓🎤"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Saffron",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Symmetra_Skin_Saffron.png"
+    "name": "Sojourn",
+    "skin_name": "Runner",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Sojourn_Skin_Runner.png"
   }
 }
