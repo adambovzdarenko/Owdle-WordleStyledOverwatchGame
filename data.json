@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
+    "name": "Mercy",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "This city is louder than a field of Montana grasshoppers. Y'know, the ones as big as your thumb?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Cassidy_-_This_city%27s_louder_than_a_field_of_Montana_grasshoppers._You_know%2C_the_ones_as_big_as_your_thumb.ogg"
+    "name": "Moira",
+    "quote": "My essence has reformed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Moira_-_My_essence_has_reformed.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "👑🪓🎤"
+    "name": "Freja",
+    "emojis": "🔵🏹🪶"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Runner",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Sojourn_Skin_Runner.png"
+    "name": "D.Va",
+    "skin_name": "Junebug",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/D.Va_Skin_Junebug.png"
   }
 }
