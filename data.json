@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "My essence has reformed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Moira_-_My_essence_has_reformed.ogg"
+    "name": "Ramattra",
+    "quote": "Artillery barrage! Find cover.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/14/Ramattra_-_Artillery_barrage%21_Find_cover.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🔵🏹🪶"
+    "name": "Ramattra",
+    "emojis": "⚫🧘‍♂️📢"
   },
   "secretSkin": {
     "name": "D.Va",
-    "skin_name": "Junebug",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/D.Va_Skin_Junebug.png"
+    "skin_name": "Overwatch League Gray Away",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/D.Va_Skin_Overwatch_League_Gray_Away.png"
   }
 }
