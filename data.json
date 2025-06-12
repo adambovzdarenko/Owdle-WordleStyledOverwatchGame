@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
+    "affiliation": "Null Sector",
+    "gender": "Male",
     "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Artillery barrage! Find cover.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/14/Ramattra_-_Artillery_barrage%21_Find_cover.ogg"
+    "name": "Zarya",
+    "quote": "I won gold in the Summer Games here. Had a cold and a torn trapezius. A refreshing challenge!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Zarya_-_I_won_gold_in_the_Summer_Games_here._Had_a_cold_and_a_torn_trapezius._A_refreshing_challenge.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "⚫🧘‍♂️📢"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Overwatch League Gray Away",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/D.Va_Skin_Overwatch_League_Gray_Away.png"
+    "name": "Ana",
+    "skin_name": "Peridot",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ana_Skin_Peridot.png"
   }
 }
