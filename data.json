@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Sombra",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Mexico 🇲🇽",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "I won gold in the Summer Games here. Had a cold and a torn trapezius. A refreshing challenge!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Zarya_-_I_won_gold_in_the_Summer_Games_here._Had_a_cold_and_a_torn_trapezius._A_refreshing_challenge.ogg"
+    "name": "Venture",
+    "quote": "Gotcha!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Venture_-_Gotcha_%283%29.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Juno",
+    "emojis": "🌌🧠💢"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Peridot",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ana_Skin_Peridot.png"
+    "name": "Zarya",
+    "skin_name": "Champion",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Zarya_Skin_Champion.png"
   }
 }
