@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
+    "name": "McCree / Cassidy",
     "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Gotcha!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Venture_-_Gotcha_%283%29.ogg"
+    "name": "Brigitte",
+    "quote": "Artillery assault incoming!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Brigitte_-_Artillery_assault_incoming.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🌌🧠💢"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Champion",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Zarya_Skin_Champion.png"
+    "name": "Baptiste",
+    "skin_name": "Combat Medic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png"
   }
 }
