@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Freja",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "affiliation": "Danish Armed Forces / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Artillery assault incoming!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Brigitte_-_Artillery_assault_incoming.ogg"
+    "name": "Zenyatta",
+    "quote": "Symmetra: It is good to see you again, Tekhartha.*name*: Likewise, Satya. I hope to repay you for your generosity at ourtemple.Symmetra: With the wisdom you've shared... you already have.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Symmetra_-_It_is_good_to_see_you_again%2C_Tekhartha.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Combat Medic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png"
+    "name": "Mauga",
+    "skin_name": "Ocean",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Mauga_Skin_Ocean.png"
   }
 }
