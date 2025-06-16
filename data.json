@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Bastion",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Symmetra: It is good to see you again, Tekhartha.*name*: Likewise, Satya. I hope to repay you for your generosity at ourtemple.Symmetra: With the wisdom you've shared... you already have.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Symmetra_-_It_is_good_to_see_you_again%2C_Tekhartha.ogg"
+    "name": "Lucio",
+    "quote": "Ditching the flag!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/L%C3%BAcio_-_Ditching_the_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Ocean",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Mauga_Skin_Ocean.png"
+    "name": "Illari",
+    "skin_name": "Anqas",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
   }
 }
