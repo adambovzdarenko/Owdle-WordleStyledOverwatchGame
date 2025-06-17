@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Sombra",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Ditching the flag!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/L%C3%BAcio_-_Ditching_the_flag.ogg"
+    "name": "Sombra",
+    "quote": "Easy in, easy out. Let's get the job done.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Sombra_-_Easy_in%2C_easy_out._Let%27s_get_the_job_done.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Anqas",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
+    "name": "Junker Queen",
+    "skin_name": "Punker Queen",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Junker_Queen_Skin_Punker_Queen.png"
   }
 }
