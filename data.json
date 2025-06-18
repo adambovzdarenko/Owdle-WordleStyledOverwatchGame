@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
+    "name": "Mei",
     "role": "Damage",
-    "affiliation": "Talon",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "China 🇨🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Easy in, easy out. Let's get the job done.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Sombra_-_Easy_in%2C_easy_out._Let%27s_get_the_job_done.ogg"
+    "name": "Zarya",
+    "quote": "I will make my country proud.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Zarya_-_I_will_make_my_country_proud.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🦜🪖🌲"
+    "name": "Genji",
+    "emojis": "🗡️🐉🧘‍♂️"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Punker Queen",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Junker_Queen_Skin_Punker_Queen.png"
+    "name": "Brigitte",
+    "skin_name": "Pearlescent",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_Skin_Pearlescent.png"
   }
 }
