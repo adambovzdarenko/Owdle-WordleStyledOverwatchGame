@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
+    "name": "Reinhardt",
     "role": "Tank",
-    "affiliation": "Phreaks",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "*name*: Ha, remember me, Captain? From theBlacksand Firesnear Tahiti?Sojourn: Yeah. You still haveourchainguns, I see.*name*: Yup! Getting some good mileage out of 'em.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Mauga_-_Ha%21_Remember_me%2C_Captain._From_the_Blacksand_Fires_near_Tahiti.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "My ultimate is ready. Saddle up.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Cassidy_-_My_ultimate_is_ready._Saddle_up.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🩸⚔️🧿"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Overwatch League Gray",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Widowmaker_Skin_Overwatch_League_Gray.png"
+    "name": "Zarya",
+    "skin_name": "Champion",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Zarya_Skin_Champion.png"
   }
 }
