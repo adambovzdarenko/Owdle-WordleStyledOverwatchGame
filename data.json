@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "My ultimate is ready. Saddle up.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Cassidy_-_My_ultimate_is_ready._Saddle_up.ogg"
+    "name": "Illari",
+    "quote": "Flag delivered.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/Illari_-_Flag_delivered.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🟣🪬☠️"
+    "name": "Bastion",
+    "emojis": "📡🛡️💥"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Champion",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Zarya_Skin_Champion.png"
+    "name": "Pharah",
+    "skin_name": "Dragon Hunter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Pharah_Skin_Dragon_Hunter.png"
   }
 }
