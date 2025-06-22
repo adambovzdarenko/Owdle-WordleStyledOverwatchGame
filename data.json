@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Flag delivered.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/Illari_-_Flag_delivered.ogg"
+    "name": "Freja",
+    "quote": "Get me back on my feet.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Freja_-_Get_me_back_on_my_feet.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "📡🛡️💥"
+    "name": "Widowmaker",
+    "emojis": "💄🔫🧍‍♀️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Dragon Hunter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Pharah_Skin_Dragon_Hunter.png"
+    "name": "Roadhog",
+    "skin_name": "Butcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
   }
 }
