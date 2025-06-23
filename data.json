@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
+    "name": "Junkrat",
+    "role": "Damage",
     "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Get me back on my feet.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Freja_-_Get_me_back_on_my_feet.ogg"
+    "name": "Torbjörn",
+    "quote": "*laugh* I'm jolly ol' St. *name*.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Torbj%C3%B6rn_-_I%27m_jolly_ol%27_St._Torbj%C3%B6rn.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "💄🔫🧍‍♀️"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Butcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
+    "name": "Pharah",
+    "skin_name": "Orbital",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Pharah_Skin_Orbital.png"
   }
 }
