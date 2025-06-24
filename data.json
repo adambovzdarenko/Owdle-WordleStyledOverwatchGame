@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Ashe",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Deadlock Gang",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "*laugh* I'm jolly ol' St. *name*.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Torbj%C3%B6rn_-_I%27m_jolly_ol%27_St._Torbj%C3%B6rn.ogg"
+    "name": "Junkrat",
+    "quote": "Alright, let's move along...",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Junkrat_-_Alright%2C_let%27s_move_along.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "☀️🔫🕊️"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Orbital",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Pharah_Skin_Orbital.png"
+    "name": "Kiriko",
+    "skin_name": "Divinator",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Kiriko_Skin_Divinator.png"
   }
 }
