@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Deadlock Gang",
+    "affiliation": "Vishkar",
     "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Junkrat",
-    "quote": "Alright, let's move along...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Junkrat_-_Alright%2C_let%27s_move_along.ogg"
+    "quote": "Push forward!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Junkrat_-_Push_forward.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Mauga",
+    "emojis": "🍖💥🎯"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Divinator",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Kiriko_Skin_Divinator.png"
+    "name": "Brigitte",
+    "skin_name": "Ice Queen",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Brigitte_Skin_Ice_Queen.png"
   }
 }
