@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "Roadhog",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "I always have the last word.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Doomfist_-_I_always_have_the_last_word.ogg"
+    "name": "Pharah",
+    "quote": "Any mortals want to deal with death?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Pharah_-_Any_mortals_want_to_deal_with_death.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🧪🚀🛏️"
+    "name": "Zarya",
+    "emojis": "🎖️🛡️🌸"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Orchid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Lifeweaver_Skin_Orchid.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Porcelain",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Wrecking_Ball_Skin_Porcelain.png"
   }
 }
