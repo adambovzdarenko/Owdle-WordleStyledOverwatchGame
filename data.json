@@ -1,7 +1,7 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
+    "name": "Junkrat",
+    "role": "Damage",
     "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Any mortals want to deal with death?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Pharah_-_Any_mortals_want_to_deal_with_death.ogg"
+    "name": "Sigma",
+    "quote": "Hold her steady, and we will take the lead!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Sigma_-_Hold_her_steady%2C_and_we_will_take_the_lead.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🎖️🛡️🌸"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Porcelain",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Wrecking_Ball_Skin_Porcelain.png"
+    "name": "Winston",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Winston_Skin_Toxic.png"
   }
 }
