@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Echo",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
     "name": "Sigma",
-    "quote": "Hold her steady, and we will take the lead!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Sigma_-_Hold_her_steady%2C_and_we_will_take_the_lead.ogg"
+    "quote": "And so, the stars align!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Sigma_-_And_so_the_stars_align.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Hanzo",
+    "emojis": "🏹🐉👹"
   },
   "secretSkin": {
     "name": "Winston",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Winston_Skin_Toxic.png"
+    "skin_name": "Wukong",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Winston_Skin_Wukong.png"
   }
 }
