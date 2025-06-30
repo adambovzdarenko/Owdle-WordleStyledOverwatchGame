@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "name": "Mauga",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "And so, the stars align!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Sigma_-_And_so_the_stars_align.ogg"
+    "name": "Zenyatta",
+    "quote": "He will be lost without our guidance.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Zenyatta_-_He_will_be_lost_without_our_guidance.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🏹🐉👹"
+    "name": "Widowmaker",
+    "emojis": "💄🔫🧍‍♀️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Wukong",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Winston_Skin_Wukong.png"
+    "name": "Sojourn",
+    "skin_name": "Runner",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Sojourn_Skin_Runner.png"
   }
 }
