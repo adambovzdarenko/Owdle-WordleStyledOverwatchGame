@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
+    "name": "Wrecking Ball",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "He will be lost without our guidance.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Zenyatta_-_He_will_be_lost_without_our_guidance.ogg"
+    "name": "Sombra",
+    "quote": "I'd like to say it was nice working with you, but it wasn't.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Sombra_-_I%27d_like_to_say_it_was_nice_working_with_you%2C_but_it_wasn%27t.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "💄🔫🧍‍♀️"
+    "name": "Mei",
+    "emojis": "❄️🧊🐧"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Runner",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Sojourn_Skin_Runner.png"
+    "name": "Winston",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Winston_Skin_Toxic.png"
   }
 }
