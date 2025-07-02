@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
+    "name": "Junker Queen",
     "role": "Tank",
     "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "I'd like to say it was nice working with you, but it wasn't.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Sombra_-_I%27d_like_to_say_it_was_nice_working_with_you%2C_but_it_wasn%27t.ogg"
+    "name": "Mei",
+    "quote": "A knight has fallen.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Mei_%28Announcer%29_-_A_knight_has_fallen.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "❄️🧊🐧"
+    "name": "Sombra",
+    "emojis": "💻🕵️‍♀️💀"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Winston_Skin_Toxic.png"
+    "name": "Symmetra",
+    "skin_name": "Vampire",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Symmetra_Skin_Vampire.png"
   }
 }
