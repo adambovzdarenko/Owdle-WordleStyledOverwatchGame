@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Soldier: 76",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "A knight has fallen.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Mei_%28Announcer%29_-_A_knight_has_fallen.ogg"
+    "name": "Winston",
+    "quote": "Symmetra: You smell strongly of artificial coconut.*name*: Do you like it?Lenagot me a six pack of 'Coco Island' shampoo. I used the whole bottle!Symmetra: Ew. That is excessive.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Symmetra_-_You_smell_strongly_of_artificial_coconut.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "💻🕵️‍♀️💀"
+    "name": "Kiriko",
+    "emojis": "⛩️🐾🧃"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Vampire",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Symmetra_Skin_Vampire.png"
+    "name": "Venture",
+    "skin_name": "Babylon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
   }
 }
