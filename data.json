@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
+    "name": "Winston",
+    "role": "Tank",
     "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
+    "species": "Gorilla",
     "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Symmetra: You smell strongly of artificial coconut.*name*: Do you like it?Lenagot me a six pack of 'Coco Island' shampoo. I used the whole bottle!Symmetra: Ew. That is excessive.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Symmetra_-_You_smell_strongly_of_artificial_coconut.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "Payload ain't worth much just sitting here. Let's move!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Cassidy_-_Payload_ain%27t_worth_much_just_sitting_here._Let%27s_move.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "⛩️🐾🧃"
+    "name": "Mei",
+    "emojis": "🌨️👓🔋"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Babylon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
+    "name": "Junkrat",
+    "skin_name": "Cricket",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Junkrat_Skin_Cricket.png"
   }
 }
