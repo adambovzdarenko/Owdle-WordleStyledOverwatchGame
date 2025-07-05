@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Gorilla",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Payload ain't worth much just sitting here. Let's move!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Cassidy_-_Payload_ain%27t_worth_much_just_sitting_here._Let%27s_move.ogg"
+    "name": "Roadhog",
+    "quote": "(screams)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Roadhog_-_%28screams%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🌨️👓🔋"
+    "name": "Junker Queen",
+    "emojis": "👑🪓🎤"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Cricket",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Junkrat_Skin_Cricket.png"
+    "name": "Ana",
+    "skin_name": "Shrike",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png"
   }
 }
