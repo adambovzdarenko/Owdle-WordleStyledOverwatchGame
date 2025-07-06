@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
+    "name": "Doomfist",
     "role": "Tank",
-    "affiliation": "Null Sector",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "(screams)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Roadhog_-_%28screams%29_%281%29.ogg"
+    "name": "Kiriko",
+    "quote": "They've got a teleporter. Let's sniff it out.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Kiriko_-_They%27ve_got_a_teleporter._Let%27s_sniff_it_out.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "👑🪓🎤"
+    "name": "Zenyatta",
+    "emojis": "🔮🕉️💭"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Shrike",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png"
+    "name": "Mauga",
+    "skin_name": "OWCS 2024 Home",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
   }
 }
