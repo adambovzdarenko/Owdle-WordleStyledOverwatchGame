@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "Brazil 🇧🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "They've got a teleporter. Let's sniff it out.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Kiriko_-_They%27ve_got_a_teleporter._Let%27s_sniff_it_out.ogg"
+    "name": "Moira",
+    "quote": "Claiming the objective. Assist me!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_-_Claiming_the_objective._Assist_me.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🔮🕉️💭"
+    "name": "Baptiste",
+    "emojis": "🛡️📦💊"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "OWCS 2024 Home",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
+    "name": "Doomfist",
+    "skin_name": "Funky",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Doomfist_Skin_Funky.png"
   }
 }
