@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "Claiming the objective. Assist me!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_-_Claiming_the_objective._Assist_me.ogg"
+    "name": "Tracer",
+    "quote": "Hang in there, this one's ours!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Tracer_-_Hang_in_there%2C_this_one%27s_ours.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🛡️📦💊"
+    "name": "Widowmaker",
+    "emojis": "🔭🧊🎻"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Funky",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Doomfist_Skin_Funky.png"
+    "name": "Tracer",
+    "skin_name": "Comic Book",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Tracer_Skin_Comic_Book.png"
   }
 }
