@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Brazil 🇧🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Keep them away from my payload!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Junker_Queen_-_Keep_them_away_from_my_payload.ogg"
+    "name": "Juno",
+    "quote": "Can anyone revive me?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Juno_-_Can_anyone_revive_me.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "😂💥🧺"
+    "name": "Sigma",
+    "emojis": "🔮🌌🧠"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Wild Tracker",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Widowmaker_Skin_Wild_Tracker.png"
+    "name": "Zenyatta",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png"
   }
 }
