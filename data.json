@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
+    "name": "Mei",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
+    "nationality": "China 🇨🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Can anyone revive me?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Juno_-_Can_anyone_revive_me.ogg"
+    "name": "Ramattra",
+    "quote": "The Cannon is almost destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ramattra_-_The_Cannon_is_almost_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🔮🌌🧠"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png"
+    "name": "Brigitte",
+    "skin_name": "Azure Drake",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Brigitte_Skin_Azure_Drake.png"
   }
 }
