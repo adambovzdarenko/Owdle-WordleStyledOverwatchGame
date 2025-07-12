@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "China 🇨🇳",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "The Cannon is almost destroyed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ramattra_-_The_Cannon_is_almost_destroyed.ogg"
+    "name": "Doomfist",
+    "quote": "*name*: A claw hand? Inefficient.Torbjörn: Well, we can'tallhave ultra-powerful gauntlets.*name*: No. You cannot.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Doomfist_-_A_claw_hand._Inefficient.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Zarya",
+    "emojis": "💪🔫🇷🇺"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Azure Drake",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Brigitte_Skin_Azure_Drake.png"
+    "name": "Symmetra",
+    "skin_name": "Marammat",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Symmetra_Skin_Marammat.png"
   }
 }
