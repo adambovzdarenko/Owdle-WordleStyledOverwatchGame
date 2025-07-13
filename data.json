@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
-    "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "*name*: A claw hand? Inefficient.Torbjörn: Well, we can'tallhave ultra-powerful gauntlets.*name*: No. You cannot.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Doomfist_-_A_claw_hand._Inefficient.ogg"
+    "name": "Sojourn",
+    "quote": "Don't test me.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Sojourn_-_Don%27t_test_me.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "💪🔫🇷🇺"
+    "name": "Doomfist",
+    "emojis": "🦍💣🥊"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Marammat",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Symmetra_Skin_Marammat.png"
+    "name": "Sojourn",
+    "skin_name": "Captain Chase",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Sojourn_Skin_Captain_Chase.png"
   }
 }
