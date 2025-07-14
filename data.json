@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Don't test me.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Sojourn_-_Don%27t_test_me.ogg"
+    "name": "Lucio",
+    "quote": "Healing signal incoming!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/L%C3%BAcio_-_Healing_signal_incoming.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "🦍💣🥊"
+    "name": "Genji",
+    "emojis": "🍃⚔️🦾"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Captain Chase",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Sojourn_Skin_Captain_Chase.png"
+    "name": "Genji",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Genji_Skin_Overwatch_2.png"
   }
 }
