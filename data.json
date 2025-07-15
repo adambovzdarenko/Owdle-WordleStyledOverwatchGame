@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Healing signal incoming!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/L%C3%BAcio_-_Healing_signal_incoming.ogg"
+    "name": "Reinhardt",
+    "quote": "My apologies.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Reinhardt_-_My_apologies.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🍃⚔️🦾"
+    "name": "Sombra",
+    "emojis": "💻🕵️‍♀️💀"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Genji_Skin_Overwatch_2.png"
+    "name": "Soldier: 76",
+    "skin_name": "Stunt Rider: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/S76_Skin_Stunt_Rider.png"
   }
 }
