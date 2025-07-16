@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
-    "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Reinhardt",
-    "quote": "My apologies.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Reinhardt_-_My_apologies.ogg"
+    "quote": "I'm going in!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Reinhardt_-_I%27m_going_in.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "💻🕵️‍♀️💀"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Stunt Rider: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/S76_Skin_Stunt_Rider.png"
+    "name": "Reaper",
+    "skin_name": "Mariachi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
   }
 }
