@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "I'm going in!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Reinhardt_-_I%27m_going_in.ogg"
+    "name": "Bastion",
+    "quote": "(commanding beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Bastion_-_%28commanding_beeps%29_%2810%29.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Tracer",
+    "emojis": "🏃‍♀️↩️🔫"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Mariachi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
+    "name": "Brigitte",
+    "skin_name": "Peppermint Bark",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Brigitte_Skin_Peppermint_Bark.png"
   }
 }
