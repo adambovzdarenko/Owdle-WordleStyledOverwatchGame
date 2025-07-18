@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(commanding beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Bastion_-_%28commanding_beeps%29_%2810%29.ogg"
+    "name": "Pharah",
+    "quote": "Get it done.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Pharah_-_Get_it_done.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "🏃‍♀️↩️🔫"
+    "name": "Ana",
+    "emojis": "💉👵🔭"
   },
   "secretSkin": {
     "name": "Brigitte",
-    "skin_name": "Peppermint Bark",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Brigitte_Skin_Peppermint_Bark.png"
+    "skin_name": "Cardboard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Brigitte_Skin_Cardboard.png"
   }
 }
