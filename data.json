@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
-    "role": "Damage",
+    "name": "Winston",
+    "role": "Tank",
     "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
+    "species": "Gorilla",
     "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Get it done.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Pharah_-_Get_it_done.ogg"
+    "name": "Junker Queen",
+    "quote": "Mmm... ambrosia.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Junker_Queen_-_Mmm..._ambrosia.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "💉👵🔭"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Cardboard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Brigitte_Skin_Cardboard.png"
+    "name": "Ramattra",
+    "skin_name": "Travelling Monk",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Ramattra_Skin_Travelling_Monk.png"
   }
 }
