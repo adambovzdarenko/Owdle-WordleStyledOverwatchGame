@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "The snow here is quite mild compared to the ice caps back home.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Juno_-_The_snow_here_is_quite_mild_compared_to_the_ice_caps_back_home.ogg"
+    "name": "Sojourn",
+    "quote": "Wow... I need to get one of these!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Sojourn_-_Wow._I_need_to_get_one_of_these.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "⛓️🚬🦴"
+    "name": "Mauga",
+    "emojis": "🍖💥🎯"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "BlizzCon 2016",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Bastion_Skin_BlizzCon_2016.png"
+    "name": "Kiriko",
+    "skin_name": "Lifeguard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Kiriko_Skin_Lifeguard.png"
   }
 }
