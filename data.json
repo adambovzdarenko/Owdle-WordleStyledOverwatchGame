@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Genji",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Wow... I need to get one of these!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Sojourn_-_Wow._I_need_to_get_one_of_these.ogg"
+    "name": "Zarya",
+    "quote": "Let's hit the crag.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Zarya_-_Let%27s_hit_the_crag.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🍖💥🎯"
+    "name": "Soldier: 76",
+    "emojis": "🕶️🔫🛡️"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Lifeguard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Kiriko_Skin_Lifeguard.png"
+    "name": "Hanzo",
+    "skin_name": "Cupid",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Hanzo_Skin_Cupid.png"
   }
 }
