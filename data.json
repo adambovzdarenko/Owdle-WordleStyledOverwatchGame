@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Let's hit the crag.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Zarya_-_Let%27s_hit_the_crag.ogg"
+    "name": "Echo",
+    "quote": "Been here all along.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Echo_-_Been_here_all_along.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🕶️🔫🛡️"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Cupid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Hanzo_Skin_Cupid.png"
+    "name": "Junker Queen",
+    "skin_name": "Uranium",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Junker_Queen_Skin_Uranium.png"
   }
 }
