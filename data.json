@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
+    "name": "D.Va",
     "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "South Korea 🇰🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Been here all along.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Echo_-_Been_here_all_along.ogg"
+    "name": "Doomfist",
+    "quote": "Protect the ferry! This is our last chance!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Doomfist_-_Protect_the_ferry%21_This_is_our_last_chance.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Uranium",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Junker_Queen_Skin_Uranium.png"
+    "name": "D.Va",
+    "skin_name": "Cruiser",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/D.Va_Skin_Cruiser.png"
   }
 }
