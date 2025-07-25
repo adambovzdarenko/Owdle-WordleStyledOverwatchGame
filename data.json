@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
+    "name": "Orisa",
     "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Protect the ferry! This is our last chance!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Doomfist_-_Protect_the_ferry%21_This_is_our_last_chance.ogg"
+    "name": "Zenyatta",
+    "quote": "Be very afraid.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Zenyatta_-_Be_very_afraid.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Moira",
+    "emojis": "💉🧛‍♀️🦹‍♀️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Cruiser",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/D.Va_Skin_Cruiser.png"
+    "name": "Juno",
+    "skin_name": "Uravity",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png"
   }
 }
