@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Be very afraid.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Zenyatta_-_Be_very_afraid.ogg"
+    "name": "Kiriko",
+    "quote": "Move that bot!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/Kiriko_-_Move_that_bot.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "💉🧛‍♀️🦹‍♀️"
+    "name": "Juno",
+    "emojis": "🛰️🎯🧠"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Uravity",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png"
+    "name": "Soldier: 76",
+    "skin_name": "Infinite Guard: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
   }
 }
