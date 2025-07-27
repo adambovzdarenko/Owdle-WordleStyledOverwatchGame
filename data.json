@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "Move that bot!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/Kiriko_-_Move_that_bot.ogg"
+    "name": "Mercy",
+    "quote": "Birds of a feather get healed together.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_-_Birds_of_a_feather_get_healed_together.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🛰️🎯🧠"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Infinite Guard: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
+    "name": "Ana",
+    "skin_name": "Spiritwarder",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ana_Skin_Spiritwarder.png"
   }
 }
