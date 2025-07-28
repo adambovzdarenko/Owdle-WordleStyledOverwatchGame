@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
+    "name": "Sombra",
     "role": "Damage",
     "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "France 🇫🇷",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Birds of a feather get healed together.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_-_Birds_of_a_feather_get_healed_together.ogg"
+    "name": "Sombra",
+    "quote": "Get our flag back!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Sombra_-_Get_our_flag_back_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Spiritwarder",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ana_Skin_Spiritwarder.png"
+    "name": "Sojourn",
+    "skin_name": "Sea Soldier",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Sojourn_Skin_Sea_Soldier.png"
   }
 }
