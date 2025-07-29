@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Get our flag back!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Sombra_-_Get_our_flag_back_%281%29.ogg"
+    "name": "Torbjörn",
+    "quote": "Match Start",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Torbj%C3%B6rn_-_Run_a_shot_across_the_bow.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Freja",
+    "emojis": "🧊🏹🦸‍♀️"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Sea Soldier",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Sojourn_Skin_Sea_Soldier.png"
+    "name": "Sombra",
+    "skin_name": "Demon Hunter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Sombra_Skin_Demon_Hunter.png"
   }
 }
