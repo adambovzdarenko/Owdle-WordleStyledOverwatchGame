@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "name": "Bastion",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Match Start",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Torbj%C3%B6rn_-_Run_a_shot_across_the_bow.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "Good as new.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Cassidy_-_Good_as_new.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🧊🏹🦸‍♀️"
+    "name": "Sojourn",
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Demon Hunter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Sombra_Skin_Demon_Hunter.png"
+    "name": "Venture",
+    "skin_name": "Alexandria",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Venture_Skin_Alexandria.png"
   }
 }
