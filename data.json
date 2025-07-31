@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Brazil 🇧🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Good as new.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Cassidy_-_Good_as_new.ogg"
+    "name": "Juno",
+    "quote": "Indeed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Juno_-_Indeed.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Alexandria",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Venture_Skin_Alexandria.png"
+    "name": "Widowmaker",
+    "skin_name": "Biathlon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Widowmaker_Skin_Biathlon.png"
   }
 }
