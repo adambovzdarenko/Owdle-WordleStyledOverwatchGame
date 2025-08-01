@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Indeed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Juno_-_Indeed.ogg"
+    "name": "Junkrat",
+    "quote": "I'm going in!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Junkrat_-_I%27m_going_in.ogg"
   },
   "secretEmoji": {
     "name": "Ramattra",
     "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Biathlon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Widowmaker_Skin_Biathlon.png"
+    "name": "Ana",
+    "skin_name": "Merciful",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png"
   }
 }
