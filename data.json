@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Hazard",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Phreaks",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "I'm going in!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Junkrat_-_I%27m_going_in.ogg"
+    "name": "Illari",
+    "quote": "*name*: How do you work withthat doctorafter everything she did to you? Don't you want revenge?Reaper: Her time will come.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Illari_-_How_do_you_work_with_that_doctor_after_everything_she_did_to_you._Don%27t_you_want_revenge.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🟣🪬☠️"
+    "name": "Widowmaker",
+    "emojis": "🎯💋🕷️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Merciful",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png"
+    "name": "Illari",
+    "skin_name": "Nightfall",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Illari_Skin_Nightfall.png"
   }
 }
