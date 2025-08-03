@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
+    "name": "Wrecking Ball",
     "role": "Tank",
-    "affiliation": "Phreaks",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "*name*: How do you work withthat doctorafter everything she did to you? Don't you want revenge?Reaper: Her time will come.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Illari_-_How_do_you_work_with_that_doctor_after_everything_she_did_to_you._Don%27t_you_want_revenge.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "Brigitte:My dadsays a lot of your missions were disasters.*name*: Well, if you made me therobo-horseI asked for, I would've stood a better chance.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Brigitte_-_My_dad_says_a_lot_of_your_missions_were_disasters.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🎯💋🕷️"
+    "name": "Wrecking Ball",
+    "emojis": "🐹🔩⚙️"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Nightfall",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Illari_Skin_Nightfall.png"
+    "name": "Roadhog",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Roadhog_Skin_Toxic.png"
   }
 }
