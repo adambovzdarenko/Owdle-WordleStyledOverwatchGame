@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
+    "name": "Reinhardt",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
     "name": "McCree / Cassidy",
-    "quote": "Brigitte:My dadsays a lot of your missions were disasters.*name*: Well, if you made me therobo-horseI asked for, I would've stood a better chance.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Brigitte_-_My_dad_says_a_lot_of_your_missions_were_disasters.ogg"
+    "quote": "Stop those Slicers!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Cassidy_-_Stop_those_Slicers.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🐹🔩⚙️"
+    "name": "Echo",
+    "emojis": "🔵📡🎶"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Roadhog_Skin_Toxic.png"
+    "name": "Symmetra",
+    "skin_name": "Sin'dorei",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Symmetra_Skin_Sin%27dorei.png"
   }
 }
