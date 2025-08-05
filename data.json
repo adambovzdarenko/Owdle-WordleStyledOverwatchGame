@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Stop those Slicers!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Cassidy_-_Stop_those_Slicers.ogg"
+    "name": "Juno",
+    "quote": "I think I see the enemy!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Juno_-_I_think_I_see_the_enemy.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🔵📡🎶"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Sin'dorei",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Symmetra_Skin_Sin%27dorei.png"
+    "name": "Widowmaker",
+    "skin_name": "Odette",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Widowmaker_Skin_Odette.png"
   }
 }
