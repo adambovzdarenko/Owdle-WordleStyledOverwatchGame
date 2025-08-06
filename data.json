@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Mauga",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "I think I see the enemy!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Juno_-_I_think_I_see_the_enemy.ogg"
+    "name": "D.Va",
+    "quote": "Come on! Let's get to the objective!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/D.Va_-_Come_on%2C_let%27s_get_to_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🧿🔷🖼️"
+    "name": "Mercy",
+    "emojis": "🏥🪄🔋"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Odette",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Widowmaker_Skin_Odette.png"
+    "name": "Zenyatta",
+    "skin_name": "Air",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png"
   }
 }
