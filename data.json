@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Come on! Let's get to the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/D.Va_-_Come_on%2C_let%27s_get_to_the_objective.ogg"
+    "name": "Winston",
+    "quote": "A cursory evaluation indicates time's running out.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Winston_-_A_cursory_evaluation_indicates_time%27s_running_out_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "🏥🪄🔋"
+    "name": "Brigitte",
+    "emojis": "🦾👩‍🔧🦁"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Air",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png"
+    "name": "Brigitte",
+    "skin_name": "Carbon Fiber",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Brigitte_Skin_Carbon_Fiber.png"
   }
 }
