@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "A cursory evaluation indicates time's running out.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Winston_-_A_cursory_evaluation_indicates_time%27s_running_out_%282%29.ogg"
+    "name": "Zarya",
+    "quote": "Enemy turret eliminated!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Zarya_-_Enemy_turret_eliminated.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🦾👩‍🔧🦁"
+    "name": "Tracer",
+    "emojis": "😄🌀⏱️"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Brigitte_Skin_Carbon_Fiber.png"
+    "name": "Venture",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Venture_Skin_Toxic.png"
   }
 }
