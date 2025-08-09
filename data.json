@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Enemy turret eliminated!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Zarya_-_Enemy_turret_eliminated.ogg"
+    "name": "D.Va",
+    "quote": "Ready!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/D.Va_-_Ready_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "😄🌀⏱️"
+    "name": "Zarya",
+    "emojis": "🎖️🛡️🌸"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Venture_Skin_Toxic.png"
+    "name": "Hanzo",
+    "skin_name": "Ultrawatch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Hanzo_Skin_Ultrawatch.png"
   }
 }
