@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Soldier: 76",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Ready!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/D.Va_-_Ready_%281%29.ogg"
+    "name": "Ashe",
+    "quote": "Attaboy, Bob!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Ashe_-_Attaboy%2C_Bob.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🎖️🛡️🌸"
+    "name": "Soldier: 76",
+    "emojis": "🇺🇸🎯👴"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Ultrawatch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Hanzo_Skin_Ultrawatch.png"
+    "name": "Winston",
+    "skin_name": "Gargoyle",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Winston_Skin_Gargoyle.png"
   }
 }
