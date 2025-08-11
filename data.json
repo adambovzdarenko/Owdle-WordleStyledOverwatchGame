@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
+    "name": "Sojourn",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Attaboy, Bob!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Ashe_-_Attaboy%2C_Bob.ogg"
+    "name": "Brigitte",
+    "quote": "Dig deep everyone, we can't afford to lose another.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Brigitte_-_Dig_deep_everyone%2C_we_can%27t_afford_to_lose_another.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🇺🇸🎯👴"
+    "name": "Tracer",
+    "emojis": "😄🌀⏱️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Gargoyle",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Winston_Skin_Gargoyle.png"
+    "name": "Juno",
+    "skin_name": "FEARLESS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
   }
 }
