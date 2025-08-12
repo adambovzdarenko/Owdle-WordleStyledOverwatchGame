@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Talon",
     "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "France 🇫🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Dig deep everyone, we can't afford to lose another.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Brigitte_-_Dig_deep_everyone%2C_we_can%27t_afford_to_lose_another.ogg"
+    "name": "Freja",
+    "quote": "Lead's ours. Not bad.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Freja_-_Lead%27s_ours._Not_bad.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "😄🌀⏱️"
+    "name": "Winston",
+    "emojis": "🐵⚡🧠"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "FEARLESS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
+    "name": "Doomfist",
+    "skin_name": "Tropical",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Doomfist_Skin_Tropical.png"
   }
 }
