@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
+    "name": "Doomfist",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Lead's ours. Not bad.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Freja_-_Lead%27s_ours._Not_bad.ogg"
+    "name": "Orisa",
+    "quote": "If we fail again, all is lost.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Orisa_-_If_we_fail_again%2C_all_is_lost.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🐵⚡🧠"
+    "name": "Sombra",
+    "emojis": "💻🕵️‍♀️💀"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Tropical",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Doomfist_Skin_Tropical.png"
+    "name": "Winston",
+    "skin_name": "Lab Technician",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Winston_Skin_Lab_Technician.png"
   }
 }
