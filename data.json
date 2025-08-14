@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "If we fail again, all is lost.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Orisa_-_If_we_fail_again%2C_all_is_lost.ogg"
+    "name": "Lifeweaver",
+    "quote": "*name* here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Lifeweaver_-_Lifeweaver_here.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "💻🕵️‍♀️💀"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Lab Technician",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Winston_Skin_Lab_Technician.png"
+    "name": "Kiriko",
+    "skin_name": "Visual Kei",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Kiriko_Skin_Visual_Kei.png"
   }
 }
