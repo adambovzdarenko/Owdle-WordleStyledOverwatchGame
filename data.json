@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
-    "role": "Damage",
-    "affiliation": "Junkers",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "*name* here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Lifeweaver_-_Lifeweaver_here.ogg"
+    "name": "Roadhog",
+    "quote": "About time you did something useful.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Roadhog_-_About_time_you_did_something_useful.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🎯🧔🏼🔥"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Visual Kei",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Kiriko_Skin_Visual_Kei.png"
+    "name": "Venture",
+    "skin_name": "Monarch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Venture_Skin_Monarch.png"
   }
 }
