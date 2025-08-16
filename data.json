@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "About time you did something useful.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Roadhog_-_About_time_you_did_something_useful.ogg"
+    "name": "Mercy",
+    "quote": "Feeling better yet?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Mercy_-_Feeling_better_yet.ogg"
   },
   "secretEmoji": {
     "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "emojis": "🌞🛐🇵🇪"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Monarch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Venture_Skin_Monarch.png"
+    "name": "Zarya",
+    "skin_name": "Polyanitsa‎ ‎ ‎",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Zarya_Skin_Polyanitsa.png"
   }
 }
