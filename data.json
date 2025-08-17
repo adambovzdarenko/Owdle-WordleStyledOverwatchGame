@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Feeling better yet?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Mercy_-_Feeling_better_yet.ogg"
+    "name": "D.Va",
+    "quote": "All out for the count!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/D.Va_-_All_out_for_the_count.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Doomfist",
+    "emojis": "🟥💥📈"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Polyanitsa‎ ‎ ‎",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Zarya_Skin_Polyanitsa.png"
+    "name": "Mei",
+    "skin_name": "Chang'e",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Mei_Skin_Chang%27e.png"
   }
 }
