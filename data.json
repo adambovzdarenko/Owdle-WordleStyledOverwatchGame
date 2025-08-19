@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "Attack the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Widowmaker_-_Attack_the_objective.ogg"
+    "name": "Doomfist",
+    "quote": "So mean, I make medicine sick.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Doomfist_-_So_mean_I_make_medicine_sick.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "⚫🧘‍♂️📢"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Rosewood",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ac/Moira_Skin_Rosewood.png"
+    "name": "Genji",
+    "skin_name": "Baihu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Genji_Skin_Baihu.png"
   }
 }
