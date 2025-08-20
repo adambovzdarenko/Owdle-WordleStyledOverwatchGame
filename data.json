@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
+    "name": "Ana",
     "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "So mean, I make medicine sick.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Doomfist_-_So_mean_I_make_medicine_sick.ogg"
+    "name": "Junkrat",
+    "quote": "I give it a 10!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Junkrat_-_I_give_it_a_10.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Baihu",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Genji_Skin_Baihu.png"
+    "name": "Bastion",
+    "skin_name": "Steambot",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Bastion_Skin_Steambot.png"
   }
 }
