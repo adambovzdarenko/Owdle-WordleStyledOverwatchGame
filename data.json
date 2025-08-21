@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "I give it a 10!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Junkrat_-_I_give_it_a_10.ogg"
+    "name": "Reinhardt",
+    "quote": "*name*: One day, you'll pay for all the crimes you've committed!Widowmaker: You're less handsome when you talk.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Reinhardt_-_One_day%2C_you%27ll_pay_for_all_the_crimes_you%27ve_committed.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Steambot",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Bastion_Skin_Steambot.png"
+    "name": "Pharah",
+    "skin_name": "Security Chief",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Pharah_Skin_Security_Chief.png"
   }
 }
