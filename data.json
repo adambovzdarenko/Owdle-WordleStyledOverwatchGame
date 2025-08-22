@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Soldier: 76",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Hamster",
+    "species": "Human",
     "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "*name*: One day, you'll pay for all the crimes you've committed!Widowmaker: You're less handsome when you talk.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Reinhardt_-_One_day%2C_you%27ll_pay_for_all_the_crimes_you%27ve_committed.ogg"
+    "name": "Venture",
+    "quote": "Lifeweaver: I saw you writing earlier. Diary?*name*: No, it's more like a record of my hopes and thoughts.Lifeweaver: That's... still a diary, I think.*name*: Nah, it can't be. Not enough stickers in this thing.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Lifeweaver_-_I_saw_you_writing_earlier._Diary.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Genji",
+    "emojis": "🍃⚔️🦾"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Security Chief",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Pharah_Skin_Security_Chief.png"
+    "name": "Sombra",
+    "skin_name": "Jester",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Sombra_Skin_Jester.png"
   }
 }
