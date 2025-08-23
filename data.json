@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
+    "name": "Mei",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "China 🇨🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Venture",
-    "quote": "Lifeweaver: I saw you writing earlier. Diary?*name*: No, it's more like a record of my hopes and thoughts.Lifeweaver: That's... still a diary, I think.*name*: Nah, it can't be. Not enough stickers in this thing.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Lifeweaver_-_I_saw_you_writing_earlier._Diary.ogg"
+    "quote": "I know \"Rome wasn't built in a day\", but we don't have that kind of time!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Venture_-_I_know_Rome_wasn%27t_built_in_a_day%2C_but_we_don%27t_have_that_kind_of_time.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🍃⚔️🦾"
+    "name": "Zenyatta",
+    "emojis": "🔮🕉️💭"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Jester",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Sombra_Skin_Jester.png"
+    "name": "Widowmaker",
+    "skin_name": "Ghostly Bride",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Widowmaker_Skin_Ghostly_Bride.png"
   }
 }
