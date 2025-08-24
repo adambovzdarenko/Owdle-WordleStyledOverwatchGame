@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "I know \"Rome wasn't built in a day\", but we don't have that kind of time!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Venture_-_I_know_Rome_wasn%27t_built_in_a_day%2C_but_we_don%27t_have_that_kind_of_time.ogg"
+    "name": "Kiriko",
+    "quote": "I'm a warrior, but I'm a girl too.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Kiriko_-_I%27m_a_warrior%2C_but_I%27m_a_girl_too.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🔮🕉️💭"
+    "name": "Wrecking Ball",
+    "emojis": "🟠🔧💣"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Ghostly Bride",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Widowmaker_Skin_Ghostly_Bride.png"
+    "name": "Ashe",
+    "skin_name": "Sunflower",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Ashe_Skin_Sunflower.png"
   }
 }
