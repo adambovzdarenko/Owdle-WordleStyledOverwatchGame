@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "China 🇨🇳",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "I'm a warrior, but I'm a girl too.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Kiriko_-_I%27m_a_warrior%2C_but_I%27m_a_girl_too.ogg"
+    "name": "Mercy",
+    "quote": "Birds of a feather get healed together.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_-_Birds_of_a_feather_get_healed_together.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🟠🔧💣"
+    "name": "Torbjörn",
+    "emojis": "🪛🛠️🔫"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Sunflower",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Ashe_Skin_Sunflower.png"
+    "name": "Pharah",
+    "skin_name": "Lifeguard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Pharah_Skin_Lifeguard.png"
   }
 }
