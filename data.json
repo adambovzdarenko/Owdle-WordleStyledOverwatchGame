@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "D.Va",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "South Korea 🇰🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Birds of a feather get healed together.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_-_Birds_of_a_feather_get_healed_together.ogg"
+    "name": "Mauga",
+    "quote": "Loosen up. This is supposed to be fun.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Mauga_-_Loosen_up._This_is_supposed_to_be_fun.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🪛🛠️🔫"
+    "name": "Freja",
+    "emojis": "🧊🏹🦸‍♀️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Lifeguard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Pharah_Skin_Lifeguard.png"
+    "name": "Moira",
+    "skin_name": "Plague Doctor",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Plague_Doctor.png"
   }
 }
