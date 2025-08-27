@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Loosen up. This is supposed to be fun.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Mauga_-_Loosen_up._This_is_supposed_to_be_fun.ogg"
+    "name": "Doomfist",
+    "quote": "Don't let them take the lead!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Doomfist_-_Don%27t_let_them_take_the_lead.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🧊🏹🦸‍♀️"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Plague Doctor",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Plague_Doctor.png"
+    "name": "Tracer",
+    "skin_name": "2018 Atlantic All-Stars",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Tracer_Skin_2018_Atlantic_All-Stars.png"
   }
 }
