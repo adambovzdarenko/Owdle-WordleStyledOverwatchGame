@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "France 🇫🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Don't let them take the lead!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Doomfist_-_Don%27t_let_them_take_the_lead.ogg"
+    "name": "Ramattra",
+    "quote": "Knock them from the payload, one by one!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Ramattra_-_Knock_them_from_the_payload%2C_one_by_one.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "2018 Atlantic All-Stars",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Tracer_Skin_2018_Atlantic_All-Stars.png"
+    "name": "Zenyatta",
+    "skin_name": "Water",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Zenyatta_Skin_Water.png"
   }
 }
