@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Knock them from the payload, one by one!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Ramattra_-_Knock_them_from_the_payload%2C_one_by_one.ogg"
+    "name": "Winston",
+    "quote": "Curious...",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Winston_-_Curious.ogg"
   },
   "secretEmoji": {
     "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "emojis": "⚙️🟡🌍"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Water",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Zenyatta_Skin_Water.png"
+    "name": "Mercy",
+    "skin_name": "Formalwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png"
   }
 }
