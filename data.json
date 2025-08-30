@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
+    "name": "Hazard",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Phreaks",
     "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Curious...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Winston_-_Curious.ogg"
+    "name": "Kiriko",
+    "quote": "Don't let her pull that switch!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Kiriko_-_Don%27t_let_her_pull_that_switch.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "⚙️🟡🌍"
+    "name": "Bastion",
+    "emojis": "📡🛡️💥"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Formalwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png"
+    "name": "Torbjörn",
+    "skin_name": "Chopper",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Torbj%C3%B6rn_Skin_Chopper.png"
   }
 }
