@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "species": "Human",
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "Don't let her pull that switch!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Kiriko_-_Don%27t_let_her_pull_that_switch.ogg"
+    "name": "Zarya",
+    "quote": "I will make my country proud.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Zarya_-_I_will_make_my_country_proud.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "📡🛡️💥"
+    "name": "Hazard",
+    "emojis": "☣️🧥📦"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Chopper",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Torbj%C3%B6rn_Skin_Chopper.png"
+    "name": "Mauga",
+    "skin_name": "OWCS 2024 Away",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mauga_Skin_OWCS_2024_Away.png"
   }
 }
