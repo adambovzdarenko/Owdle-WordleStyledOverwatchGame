@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
+    "name": "Lucio",
     "role": "Support",
-    "affiliation": "The Collective",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "nationality": "Brazil 🇧🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "I will make my country proud.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Zarya_-_I_will_make_my_country_proud.ogg"
+    "name": "Mei",
+    "quote": "Are you okay, Snowball?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Mei_-_Are_you_okay%2C_Snowball.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "☣️🧥📦"
+    "name": "Junker Queen",
+    "emojis": "👑🪓🎤"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "OWCS 2024 Away",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mauga_Skin_OWCS_2024_Away.png"
+    "name": "Bastion",
+    "skin_name": "Gwishin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Bastion_Skin_Gwishin.png"
   }
 }
