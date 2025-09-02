@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
+    "name": "Lifeweaver",
     "role": "Support",
-    "affiliation": "Overwatch",
+    "affiliation": "The Collective",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Are you okay, Snowball?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Mei_-_Are_you_okay%2C_Snowball.ogg"
+    "name": "Baptiste",
+    "quote": "Look out for each other, 'cause I'm only human.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Baptiste_-_Look_out_for_each_other%2C_%27cause_I%27m_only_human.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "👑🪓🎤"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Gwishin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Bastion_Skin_Gwishin.png"
+    "name": "Junkrat",
+    "skin_name": "Hong Hai Er",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Junkrat_Skin_Hong_Hai_Er.png"
   }
 }
