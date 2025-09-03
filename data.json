@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
-    "role": "Support",
-    "affiliation": "The Collective",
+    "name": "Soldier: 76",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Look out for each other, 'cause I'm only human.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Baptiste_-_Look_out_for_each_other%2C_%27cause_I%27m_only_human.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "I've reached the objective. Why don't you mosey on over?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Cassidy_-_I%27ve_reached_the_objective._Why_don%27t_you_mosey_on_over.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Juno",
+    "emojis": "👁️⚡🧭"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Hong Hai Er",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Junkrat_Skin_Hong_Hai_Er.png"
+    "name": "Illari",
+    "skin_name": "Llama Pajamas",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Illari_Skin_Llama_Pajamas.png"
   }
 }
