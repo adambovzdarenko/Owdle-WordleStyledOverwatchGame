@@ -1,5 +1,7 @@
 # OWDLE - Overwatch 2 Daily Guessing Game
 
+<img width="1306" height="593" alt="изображение" src="https://github.com/user-attachments/assets/97dca615-a2ab-4fc7-949a-c61e79b3b15c" />
+
 OWDLE is a fan-made daily guessing game where players try to identify Overwatch 2 heroes, phrases, emojis, or skins. Inspired by Wordle, OWDLE challenges your Overwatch knowledge with new puzzles every day at 00:00 UTC.
 
 ## Features
