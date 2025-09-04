@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
+    "name": "Mei",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "China 🇨🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "I've reached the objective. Why don't you mosey on over?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Cassidy_-_I%27ve_reached_the_objective._Why_don%27t_you_mosey_on_over.ogg"
+    "name": "Baptiste",
+    "quote": "Copy that.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Baptiste_-_Copy_that_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "👁️⚡🧭"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Llama Pajamas",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Illari_Skin_Llama_Pajamas.png"
+    "name": "Bastion",
+    "skin_name": "Brick",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Brick.png"
   }
 }
