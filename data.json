@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "China 🇨🇳",
-    "releaseYear": 2016
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Copy that.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Baptiste_-_Copy_that_%282%29.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "I've reached the objective. Why don't you mosey on over?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Cassidy_-_I%27ve_reached_the_objective._Why_don%27t_you_mosey_on_over.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "name": "Reaper",
+    "emojis": "🔥💣🖤"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Brick",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Brick.png"
+    "name": "Baptiste",
+    "skin_name": "Combat Medic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png"
   }
 }
