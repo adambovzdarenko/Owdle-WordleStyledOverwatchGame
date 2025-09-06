@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Reinhardt",
+    "role": "Tank",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "I've reached the objective. Why don't you mosey on over?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Cassidy_-_I%27ve_reached_the_objective._Why_don%27t_you_mosey_on_over.ogg"
+    "name": "Mercy",
+    "quote": "Don't worry, I'll be right behind you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mercy_-_Don%27t_worry%2C_I%27ll_be_right_behind_you.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🔥💣🖤"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Combat Medic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png"
+    "name": "Kiriko",
+    "skin_name": "Hinotori",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Kiriko_Skin_Hinotori.png"
   }
 }
