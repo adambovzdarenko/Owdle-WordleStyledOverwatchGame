@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Sigma",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Don't worry, I'll be right behind you.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mercy_-_Don%27t_worry%2C_I%27ll_be_right_behind_you.ogg"
+    "name": "Mauga",
+    "quote": "Are you gonna let me get away with this?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Mauga_-_Are_you_gonna_let_me_get_away_with_this.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Ashe",
+    "emojis": "🤠🔥🪙"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Hinotori",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Kiriko_Skin_Hinotori.png"
+    "name": "Reaper",
+    "skin_name": "Calavera",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Reaper_Skin_Calavera.png"
   }
 }
