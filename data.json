@@ -9,17 +9,17 @@
     "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Are you gonna let me get away with this?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Mauga_-_Are_you_gonna_let_me_get_away_with_this.ogg"
+    "name": "Tracer",
+    "quote": "Nice save!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Tracer_-_Nice_save.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🤠🔥🪙"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Calavera",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Reaper_Skin_Calavera.png"
+    "name": "Moira",
+    "skin_name": "Wicked",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Moira_Skin_Wicked.png"
   }
 }
