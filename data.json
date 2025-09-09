@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "Nice save!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Tracer_-_Nice_save.ogg"
+    "name": "Brigitte",
+    "quote": "Hej.English:Hello.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Brigitte_-_%28Swedish%29_Hi_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🛡️💣🎶"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Wicked",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Moira_Skin_Wicked.png"
+    "name": "Widowmaker",
+    "skin_name": "Spellbinder",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Widowmaker_Skin_Spellbinder.png"
   }
 }
