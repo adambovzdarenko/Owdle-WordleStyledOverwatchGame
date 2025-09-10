@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "Soldier: 76",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Hej.English:Hello.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Brigitte_-_%28Swedish%29_Hi_%282%29.ogg"
+    "name": "Echo",
+    "quote": "Moira Selected",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Echo_-_Moira.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "D.Va",
+    "emojis": "🎮🐰🛡️"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Spellbinder",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Widowmaker_Skin_Spellbinder.png"
+    "name": "D.Va",
+    "skin_name": "Gentle Tokki Fuchsia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/D.Va_Skin_Gentle_Tokki_Fuchsia.png"
   }
 }
