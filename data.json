@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Moira Selected",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Echo_-_Moira.ogg"
+    "name": "Sojourn",
+    "quote": "Sombra: Vivian Chase. Your Overwatch record was spotless. And your retirement was just as quiet, right?*name*: It was. And I plan to keep it that way.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Sombra_-_Vivian_Chase._Your_Overwatch_record_was_spotless._And_your_retirement_was_just_as_quiet%2C_right.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "🎮🐰🛡️"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Gentle Tokki Fuchsia",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/D.Va_Skin_Gentle_Tokki_Fuchsia.png"
+    "name": "Hazard",
+    "skin_name": "Mobster",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Hazard_Skin_Mobster.png"
   }
 }
