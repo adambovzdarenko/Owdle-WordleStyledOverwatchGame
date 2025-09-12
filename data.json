@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Sombra: Vivian Chase. Your Overwatch record was spotless. And your retirement was just as quiet, right?*name*: It was. And I plan to keep it that way.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Sombra_-_Vivian_Chase._Your_Overwatch_record_was_spotless._And_your_retirement_was_just_as_quiet%2C_right.ogg"
+    "name": "Zenyatta",
+    "quote": "I am grateful for what we have taught each other.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Zenyatta_-_I_am_grateful_for_what_we_have_taught_each_other.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Mobster",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Hazard_Skin_Mobster.png"
+    "name": "Mei",
+    "skin_name": "Heliotrope",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Mei_Skin_Heliotrope.png"
   }
 }
