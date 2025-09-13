@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Sombra",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "I am grateful for what we have taught each other.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Zenyatta_-_I_am_grateful_for_what_we_have_taught_each_other.ogg"
+    "name": "Sigma",
+    "quote": "Emperor *name*: Speak to me, Seer! What is the fate of the Nebula?Infinite Seer Mercy: It is infinite, Your Excellency.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sigma_-_Speak_to_me%2C_Seer%21_What_is_the_fate_of_the_Nebula.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "💠🔲📐"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Heliotrope",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Mei_Skin_Heliotrope.png"
+    "name": "Mauga",
+    "skin_name": "Jötunn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mauga_Skin_J%C3%B6tunn.png"
   }
 }
