@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Mexico 🇲🇽",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Emperor *name*: Speak to me, Seer! What is the fate of the Nebula?Infinite Seer Mercy: It is infinite, Your Excellency.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sigma_-_Speak_to_me%2C_Seer%21_What_is_the_fate_of_the_Nebula.ogg"
+    "name": "Zarya",
+    "quote": "Are you taking a nap?Come here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Zarya_-_Are_you_taking_a_nap._Come_here.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Jötunn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mauga_Skin_J%C3%B6tunn.png"
+    "name": "Orisa",
+    "skin_name": "Bull Demon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Orisa_Skin_Bull_Demon.png"
   }
 }
