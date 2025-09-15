@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Are you taking a nap?Come here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Zarya_-_Are_you_taking_a_nap._Come_here.ogg"
+    "name": "Lucio",
+    "quote": "God of merchants and multi-kills.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/L%C3%BAcio_-_God_of_merchants_and_multikills.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Bull Demon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Orisa_Skin_Bull_Demon.png"
+    "name": "Baptiste",
+    "skin_name": "Snowboarder",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Baptiste_Skin_Snowboarder.png"
   }
 }
