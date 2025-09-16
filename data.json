@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
+    "name": "Ana",
     "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "God of merchants and multi-kills.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/L%C3%BAcio_-_God_of_merchants_and_multikills.ogg"
+    "name": "Roadhog",
+    "quote": "They're taking the point!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Roadhog_-_They%27re_taking_the_point.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Reinhardt",
+    "emojis": "🛡️🧔‍♂️🔥"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Snowboarder",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Baptiste_Skin_Snowboarder.png"
+    "name": "Reaper",
+    "skin_name": "Shiver",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Reaper_Skin_Shiver.png"
   }
 }
