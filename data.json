@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
+    "name": "Mercy",
     "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "They're taking the point!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Roadhog_-_They%27re_taking_the_point.ogg"
+    "name": "Widowmaker",
+    "quote": "We are simply on different levels.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Widowmaker_-_We_are_simply_on_different_levels.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🛡️🧔‍♂️🔥"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Shiver",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Reaper_Skin_Shiver.png"
+    "name": "Brigitte",
+    "skin_name": "Feskarn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Brigitte_Skin_Feskarn.png"
   }
 }
