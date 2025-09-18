@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2016
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "We are simply on different levels.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Widowmaker_-_We_are_simply_on_different_levels.ogg"
+    "name": "Illari",
+    "quote": "Done.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Illari_-_Done.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "💫🎯🗿"
+    "name": "Kiriko",
+    "emojis": "🗻💨🍡"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Feskarn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Brigitte_Skin_Feskarn.png"
+    "name": "Hazard",
+    "skin_name": "Away OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Hazard_Skin_Away_OWCS.png"
   }
 }
