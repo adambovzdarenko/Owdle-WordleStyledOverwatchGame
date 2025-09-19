@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Ashe",
+    "role": "Damage",
+    "affiliation": "Deadlock Gang",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Done.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Illari_-_Done.ogg"
+    "name": "Mauga",
+    "quote": "Come on, we gotta catch up!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Mauga_-_Come_on%2C_we_gotta_catch_up.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "🗻💨🍡"
+    "name": "Wrecking Ball",
+    "emojis": "🟠🔧💣"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Away OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Hazard_Skin_Away_OWCS.png"
+    "name": "Illari",
+    "skin_name": "Anqas",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
   }
 }
