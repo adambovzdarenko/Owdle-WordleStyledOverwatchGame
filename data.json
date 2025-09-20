@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Deadlock Gang",
+    "affiliation": "Vishkar",
     "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Come on, we gotta catch up!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Mauga_-_Come_on%2C_we_gotta_catch_up.ogg"
+    "name": "Mercy",
+    "quote": "Affirmative.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Mercy_-_Affirmative.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🟠🔧💣"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Anqas",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
+    "name": "Roadhog",
+    "skin_name": "Butcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
   }
 }
