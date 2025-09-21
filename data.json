@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
+    "name": "Echo",
     "role": "Damage",
-    "affiliation": "Vishkar",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Affirmative.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Mercy_-_Affirmative.ogg"
+    "name": "Lifeweaver",
+    "quote": "A little further, and the lead is ours!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Lifeweaver_-_A_little_further%2C_and_the_lead_is_ours.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Illari",
+    "emojis": "🌞🛐🇵🇪"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Butcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
+    "name": "Winston",
+    "skin_name": "Atmosphere",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Atmosphere.png"
   }
 }
