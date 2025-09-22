@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
+    "name": "Soldier: 76",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "A little further, and the lead is ours!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Lifeweaver_-_A_little_further%2C_and_the_lead_is_ours.ogg"
+    "name": "Moira",
+    "quote": "The enemy team has been vanquished.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Moira_-_The_enemy_team_has_been_vanquished.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Atmosphere",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Atmosphere.png"
+    "name": "Mercy",
+    "skin_name": "Sugar Plum Fairy",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Sugar_Plum_Fairy.png"
   }
 }
