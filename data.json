@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
+    "name": "Hanzo",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "The enemy team has been vanquished.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Moira_-_The_enemy_team_has_been_vanquished.ogg"
+    "name": "Junker Queen",
+    "quote": "Stop ticklin' it, and let's go!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Junker_Queen_-_Stop_tickling_it%2C_and_let%27s_go.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Sugar Plum Fairy",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Sugar_Plum_Fairy.png"
+    "name": "Orisa",
+    "skin_name": "Twilight",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Orisa_Skin_Twilight.png"
   }
 }
