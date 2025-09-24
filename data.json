@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Soldier: 76",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Stop ticklin' it, and let's go!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Junker_Queen_-_Stop_tickling_it%2C_and_let%27s_go.ogg"
+    "name": "Mauga",
+    "quote": "Come get some of this!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/Mauga_-_Come_get_some_of_this.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Hanzo",
+    "emojis": "🌀🧘‍♂️⛰️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Twilight",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Orisa_Skin_Twilight.png"
+    "name": "Venture",
+    "skin_name": "Ice Cream",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Venture_Skin_Ice_Cream.png"
   }
 }
