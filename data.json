@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Illari",
+    "role": "Support",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Come get some of this!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/Mauga_-_Come_get_some_of_this.ogg"
+    "name": "Genji",
+    "quote": "Don't blink next time.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Genji_-_Don%27t_blink_next_time.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Ice Cream",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Venture_Skin_Ice_Cream.png"
+    "name": "Bastion",
+    "skin_name": "BlizzCon 2016",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Bastion_Skin_BlizzCon_2016.png"
   }
 }
