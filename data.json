@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
-    "gender": "Female",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Don't blink next time.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Genji_-_Don%27t_blink_next_time.ogg"
+    "name": "Winston",
+    "quote": "My ultimate is charging.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Winston_-_My_ultimate_is_charging.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Echo",
+    "emojis": "☁️🪶💫"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "BlizzCon 2016",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Bastion_Skin_BlizzCon_2016.png"
+    "name": "Wrecking Ball",
+    "skin_name": "High Roller",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Wrecking_Ball_Skin_High_Roller.png"
   }
 }
