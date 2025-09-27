@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "My ultimate is charging.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Winston_-_My_ultimate_is_charging.ogg"
+    "name": "Ana",
+    "quote": "So be it.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Ana_-_So_be_it.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "☁️🪶💫"
+    "name": "Freja",
+    "emojis": "🧊🏹🦸‍♀️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "High Roller",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Wrecking_Ball_Skin_High_Roller.png"
+    "name": "Mercy",
+    "skin_name": "Combat Medic Ziegler",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_Skin_Combat_Medic_Ziegler.png"
   }
 }
