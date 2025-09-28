@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "So be it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Ana_-_So_be_it.ogg"
+    "name": "Ashe",
+    "quote": "Moira: Aggression is no substitute for ability.*name*: Reckon that's true. Good thing I have both.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Moira_-_Aggression_is_no_substitute_for_ability.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🧊🏹🦸‍♀️"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Combat Medic Ziegler",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_Skin_Combat_Medic_Ziegler.png"
+    "name": "Zenyatta",
+    "skin_name": "Celestial",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Zenyatta_Skin_Celestial.png"
   }
 }
