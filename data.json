@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Moira: Aggression is no substitute for ability.*name*: Reckon that's true. Good thing I have both.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Moira_-_Aggression_is_no_substitute_for_ability.ogg"
+    "name": "Soldier: 76",
+    "quote": "Respawn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Soldier_76_-_Sic_transit_gloria.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
     "name": "Zenyatta",
-    "skin_name": "Celestial",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Zenyatta_Skin_Celestial.png"
+    "skin_name": "Air",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png"
   }
 }
