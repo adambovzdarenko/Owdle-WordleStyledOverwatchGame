@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Respawn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Soldier_76_-_Sic_transit_gloria.ogg"
+    "name": "Illari",
+    "quote": "I'll take the point.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Illari_-_I%27ll_take_the_point.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Air",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png"
+    "name": "Pharah",
+    "skin_name": "Hades",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Pharah_Skin_Hades.png"
   }
 }
