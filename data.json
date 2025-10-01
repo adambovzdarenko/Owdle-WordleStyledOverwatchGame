@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Illari",
+    "role": "Support",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "I'll take the point.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Illari_-_I%27ll_take_the_point.ogg"
+    "name": "Reaper",
+    "quote": "Get our flag back!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Reaper_-_Get_our_flag_back_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🧿🔷🖼️"
+    "name": "Freja",
+    "emojis": "💙🦸‍♀️🪶"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Hades",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Pharah_Skin_Hades.png"
+    "name": "Zarya",
+    "skin_name": "Cyberian",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Zarya_Skin_Cyberian.png"
   }
 }
