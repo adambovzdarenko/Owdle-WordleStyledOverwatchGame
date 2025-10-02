@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Get our flag back!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Reaper_-_Get_our_flag_back_%281%29.ogg"
+    "name": "Sojourn",
+    "quote": "I'll make it worth your while.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Sojourn_-_I%27ll_make_it_worth_your_while.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "💙🦸‍♀️🪶"
+    "name": "Hanzo",
+    "emojis": "🏹🐉👹"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Cyberian",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Zarya_Skin_Cyberian.png"
+    "name": "Sojourn",
+    "skin_name": "Tundra",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Sojourn_Skin_Tundra.png"
   }
 }
