@@ -1,7 +1,7 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
+    "name": "Junkrat",
+    "role": "Damage",
     "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "I'll make it worth your while.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Sojourn_-_I%27ll_make_it_worth_your_while.ogg"
+    "name": "Hazard",
+    "quote": "Clear the path.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Hazard_-_Clear_the_path.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🏹🐉👹"
+    "name": "Bastion",
+    "emojis": "🤖🔫🎶"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Tundra",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Sojourn_Skin_Tundra.png"
+    "name": "Brigitte",
+    "skin_name": "General",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_General.png"
   }
 }
