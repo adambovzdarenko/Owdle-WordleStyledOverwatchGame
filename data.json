@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Vishkar",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Clear the path.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Hazard_-_Clear_the_path.ogg"
+    "name": "Mauga",
+    "quote": "*name*:Better watch it, kid, or those relics might end up in my pocket.Venture:Don't do that! You don't even know their cultural value!*name*:Uh, I know the value of 'a lot of money'.Venture:Well... I know the value of... 'bopping you on the head'!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Mauga_-_Better_watch_it%2C_kid%2C_or_those_relics_might_end_up_in_my_pocket.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🤖🔫🎶"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "General",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_General.png"
+    "name": "Torbjörn",
+    "skin_name": "Cathode",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Torbj%C3%B6rn_Skin_Cathode.png"
   }
 }
