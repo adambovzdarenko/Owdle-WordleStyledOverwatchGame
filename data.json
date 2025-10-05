@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "*name*:Better watch it, kid, or those relics might end up in my pocket.Venture:Don't do that! You don't even know their cultural value!*name*:Uh, I know the value of 'a lot of money'.Venture:Well... I know the value of... 'bopping you on the head'!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Mauga_-_Better_watch_it%2C_kid%2C_or_those_relics_might_end_up_in_my_pocket.ogg"
+    "name": "Hazard",
+    "quote": "Good of ye!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/43/Hazard_-_Good_of_ye.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Ana",
+    "emojis": "🎯💤🧕"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Cathode",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Torbj%C3%B6rn_Skin_Cathode.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Crustacean",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Wrecking_Ball_Skin_Crustacean.png"
   }
 }
