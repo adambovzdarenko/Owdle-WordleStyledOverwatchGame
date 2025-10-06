@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Good of ye!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/43/Hazard_-_Good_of_ye.ogg"
+    "name": "Sombra",
+    "quote": "The ferry's getting hit!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Sombra_-_The_Ferry%27s_getting_hit.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🎯💤🧕"
+    "name": "Genji",
+    "emojis": "🗡️🐉🧘‍♂️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Crustacean",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Wrecking_Ball_Skin_Crustacean.png"
+    "name": "Orisa",
+    "skin_name": "Fiend",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Fiend.png"
   }
 }
