@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
+    "species": "Human",
     "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "The ferry's getting hit!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Sombra_-_The_Ferry%27s_getting_hit.ogg"
+    "name": "Ana",
+    "quote": "Let's do it again, from the top.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Ana_-_Let%27s_do_it_again%2C_from_the_top.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🗡️🐉🧘‍♂️"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Fiend",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Fiend.png"
+    "name": "Symmetra",
+    "skin_name": "Technomancer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Symmetra_Skin_Technomancer.png"
   }
 }
