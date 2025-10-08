@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Let's do it again, from the top.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Ana_-_Let%27s_do_it_again%2C_from_the_top.ogg"
+    "name": "Baptiste",
+    "quote": "D.Va: Hey! Who took myNano Cola?*name*: That stuff's no good for you. Have some water instead.D.Va: You just wanted to drink it yourself!*name*: Ah... maybe.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/D.Va_-_Hey%21_Who_took_my_Nano_Cola.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Technomancer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Symmetra_Skin_Technomancer.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Smoke",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Wrecking_Ball_Skin_Smoke.png"
   }
 }
