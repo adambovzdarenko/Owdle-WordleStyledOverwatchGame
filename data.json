@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "name": "Pharah",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "D.Va: Hey! Who took myNano Cola?*name*: That stuff's no good for you. Have some water instead.D.Va: You just wanted to drink it yourself!*name*: Ah... maybe.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/D.Va_-_Hey%21_Who_took_my_Nano_Cola.ogg"
+    "name": "Lifeweaver",
+    "quote": "*name*: I envy your amicable relationship with your family.Brigitte: You aren't in touch with yours?*name*: We had a shouting match not long ago, if that counts.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Lifeweaver_-_I_envy_your_amicable_relationship_with_your_family.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Tracer",
+    "emojis": "🏃‍♀️↩️🔫"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Smoke",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Wrecking_Ball_Skin_Smoke.png"
+    "name": "Illari",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Illari_Skin_Overwatch_2.png"
   }
 }
