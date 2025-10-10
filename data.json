@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
-    "releaseYear": 2016
+    "name": "Hazard",
+    "role": "Tank",
+    "affiliation": "Phreaks",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "*name*: I envy your amicable relationship with your family.Brigitte: You aren't in touch with yours?*name*: We had a shouting match not long ago, if that counts.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Lifeweaver_-_I_envy_your_amicable_relationship_with_your_family.ogg"
+    "name": "Ana",
+    "quote": "*name*: Is Fareeha getting enough rest between missions?Mercy: *name*, your daughter is more than capable of caring for herself.*name*: She never napped when she was little. She was cranky all the time.Pharah: Mom! Everyone can hear you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Ana_-_Is_Fareeha_getting_enough_rest_between_missions.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "🏃‍♀️↩️🔫"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Illari_Skin_Overwatch_2.png"
+    "name": "Mei",
+    "skin_name": "Luna",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Mei_Skin_Luna.png"
   }
 }
