@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
-    "gender": "Male",
+    "name": "Sojourn",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "*name*: Is Fareeha getting enough rest between missions?Mercy: *name*, your daughter is more than capable of caring for herself.*name*: She never napped when she was little. She was cranky all the time.Pharah: Mom! Everyone can hear you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Ana_-_Is_Fareeha_getting_enough_rest_between_missions.ogg"
+    "name": "Illari",
+    "quote": "Their barricade is on the move. Stop them!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Illari_-_Their_barricade_is_on_the_move._Stop_them.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Luna",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Mei_Skin_Luna.png"
+    "name": "Ana",
+    "skin_name": "Wasteland",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ana_Skin_Wasteland.png"
   }
 }
