@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Pharah",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Their barricade is on the move. Stop them!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Illari_-_Their_barricade_is_on_the_move._Stop_them.ogg"
+    "name": "D.Va",
+    "quote": "Enemy turret destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/D.Va_-_Enemy_turret_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Echo",
+    "emojis": "🦋🔊🤖"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Wasteland",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ana_Skin_Wasteland.png"
+    "name": "Hanzo",
+    "skin_name": "Streetwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Hanzo_Skin_Streetwear.png"
   }
 }
