@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
-    "releaseYear": 2016
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Enemy turret destroyed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/D.Va_-_Enemy_turret_destroyed.ogg"
+    "name": "Symmetra",
+    "quote": "Beaut of a teleporter, no?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Symmetra_-_Beaut_of_a_teleporter%2C_no.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🦋🔊🤖"
+    "name": "Mauga",
+    "emojis": "🔥🧔🏾🔫"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Streetwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Hanzo_Skin_Streetwear.png"
+    "name": "Orisa",
+    "skin_name": "Dynastinae",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Orisa_Skin_Dynastinae.png"
   }
 }
