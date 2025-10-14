@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Beaut of a teleporter, no?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Symmetra_-_Beaut_of_a_teleporter%2C_no.ogg"
+    "name": "Sojourn",
+    "quote": "Junkrat: United again! TheOverwatchstrike team prepares for action!*name*: Hey. Keep the comms clear, please.Junkrat: This is the discipline the commander is known for.*name*: I'm about to be known for kicking your butt.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Junkrat_-_United_again%2C_the_Overwatch_strike_team_prepares_for_action.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🔥🧔🏾🔫"
+    "name": "Freja",
+    "emojis": "💙🦸‍♀️🪶"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Dynastinae",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Orisa_Skin_Dynastinae.png"
+    "name": "D.Va",
+    "skin_name": "2020 Pacific All-Stars",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/D.Va_Skin_2020_Pacific_All-Stars.png"
   }
 }
