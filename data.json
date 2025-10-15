@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
-    "role": "Support",
-    "affiliation": "Shambali",
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Junkrat: United again! TheOverwatchstrike team prepares for action!*name*: Hey. Keep the comms clear, please.Junkrat: This is the discipline the commander is known for.*name*: I'm about to be known for kicking your butt.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Junkrat_-_United_again%2C_the_Overwatch_strike_team_prepares_for_action.ogg"
+    "name": "Tracer",
+    "quote": "Loads of Slicers, coming in!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Tracer_-_Loads_of_Slicers%2C_coming_in.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "💙🦸‍♀️🪶"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "2020 Pacific All-Stars",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/D.Va_Skin_2020_Pacific_All-Stars.png"
+    "name": "Ana",
+    "skin_name": "Polar",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Ana_Skin_Polar.png"
   }
 }
