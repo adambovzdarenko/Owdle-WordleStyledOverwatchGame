@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Echo",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "Loads of Slicers, coming in!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Tracer_-_Loads_of_Slicers%2C_coming_in.ogg"
+    "name": "Freja",
+    "quote": "Heading there now.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Freja_-_Heading_there_now.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "☀️🔫🕊️"
+    "name": "Sojourn",
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Polar",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Ana_Skin_Polar.png"
+    "name": "Junker Queen",
+    "skin_name": "Punker Queen",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Junker_Queen_Skin_Punker_Queen.png"
   }
 }
