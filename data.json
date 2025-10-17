@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Heading there now.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Freja_-_Heading_there_now.ogg"
+    "name": "Pharah",
+    "quote": "Converge on the enemy flag carrier!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Pharah_-_Converge_on_the_enemy_flag_carrier.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Symmetra",
+    "emojis": "🌐🧠📊"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Punker Queen",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Junker_Queen_Skin_Punker_Queen.png"
+    "name": "Echo",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Echo_Skin_Classic.png"
   }
 }
