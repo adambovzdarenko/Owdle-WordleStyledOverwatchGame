@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
+    "name": "Mercy",
     "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Converge on the enemy flag carrier!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Pharah_-_Converge_on_the_enemy_flag_carrier.ogg"
+    "name": "Lucio",
+    "quote": "Give yourself to the rhythm.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/L%C3%BAcio_-_Give_yourself_to_the_rhythm.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🌐🧠📊"
+    "name": "Winston",
+    "emojis": "🔬🛡️🍌"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Echo_Skin_Classic.png"
+    "name": "Venture",
+    "skin_name": "Alexandria",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Venture_Skin_Alexandria.png"
   }
 }
