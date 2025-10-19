@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Give yourself to the rhythm.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/L%C3%BAcio_-_Give_yourself_to_the_rhythm.ogg"
+    "name": "Brigitte",
+    "quote": "The Repair Station is under fire!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Brigitte_-_The_Repair_Station_is_under_fire.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🔬🛡️🍌"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Alexandria",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Venture_Skin_Alexandria.png"
+    "name": "Juno",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png"
   }
 }
