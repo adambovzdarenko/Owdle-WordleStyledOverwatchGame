@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "The Repair Station is under fire!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Brigitte_-_The_Repair_Station_is_under_fire.ogg"
+    "name": "Juno",
+    "quote": "My pleasure!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Juno_-_My_pleasure.ogg"
   },
   "secretEmoji": {
     "name": "Doomfist",
     "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png"
+    "name": "Hazard",
+    "skin_name": "Away OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Hazard_Skin_Away_OWCS.png"
   }
 }
