@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "My pleasure!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Juno_-_My_pleasure.ogg"
+    "name": "Moira",
+    "quote": "Master your fear.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Moira_-_Master_your_fear.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Mauga",
+    "emojis": "🍖💥🎯"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Away OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Hazard_Skin_Away_OWCS.png"
+    "name": "Moira",
+    "skin_name": "Scientist",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Moira_Skin_Scientist.png"
   }
 }
