@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Hanzo",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "Master your fear.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Moira_-_Master_your_fear.ogg"
+    "name": "Hazard",
+    "quote": "Flag's mine.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Hazard_-_Flag%27s_mine.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🍖💥🎯"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Scientist",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Moira_Skin_Scientist.png"
+    "name": "Sojourn",
+    "skin_name": "Sea Soldier",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Sojourn_Skin_Sea_Soldier.png"
   }
 }
