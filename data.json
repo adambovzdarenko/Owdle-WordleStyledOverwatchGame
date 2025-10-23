@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
-    "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Flag's mine.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Hazard_-_Flag%27s_mine.ogg"
+    "name": "Symmetra",
+    "quote": "The objective is critically weakened!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Symmetra_-_The_objective_is_critically_weakened.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Sea Soldier",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Sojourn_Skin_Sea_Soldier.png"
+    "name": "Mauga",
+    "skin_name": "Rugby",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Mauga_Skin_Rugby.png"
   }
 }
