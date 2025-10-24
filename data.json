@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
+    "name": "Sigma",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "The objective is critically weakened!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Symmetra_-_The_objective_is_critically_weakened.ogg"
+    "name": "Bastion",
+    "quote": "(falling beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Bastion_-_%28falling_beeps%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🎯🧔🏼🔥"
+    "name": "Widowmaker",
+    "emojis": "🎯💋🕷️"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Rugby",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Mauga_Skin_Rugby.png"
+    "name": "Mercy",
+    "skin_name": "Rainy Day",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Mercy_Skin_Rainy_Day.png"
   }
 }
