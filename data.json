@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
+    "name": "Reaper",
+    "role": "Damage",
     "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(falling beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Bastion_-_%28falling_beeps%29_%281%29.ogg"
+    "name": "Junker Queen",
+    "quote": "Artillery! Get cover!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Junker_Queen_-_Artillery%21_Get_cover.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🎯💋🕷️"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Rainy Day",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Mercy_Skin_Rainy_Day.png"
+    "name": "Mauga",
+    "skin_name": "Magma",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Mauga_Skin_Magma.png"
   }
 }
