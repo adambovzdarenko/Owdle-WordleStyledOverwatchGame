@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
+    "name": "Hanzo",
     "role": "Damage",
-    "affiliation": "Talon",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Artillery! Get cover!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Junker_Queen_-_Artillery%21_Get_cover.ogg"
+    "name": "Lucio",
+    "quote": "Cannon's almost destroyed!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/L%C3%BAcio_-_Cannon%27s_almost_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "☀️🔫🕊️"
+    "name": "Zarya",
+    "emojis": "💪🔫🇷🇺"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Magma",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Mauga_Skin_Magma.png"
+    "name": "D.Va",
+    "skin_name": "Watermelon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/D.Va_Skin_Watermelon.png"
   }
 }
