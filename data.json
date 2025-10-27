@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
-    "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Cannon's almost destroyed!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/L%C3%BAcio_-_Cannon%27s_almost_destroyed.ogg"
+    "name": "Mercy",
+    "quote": "Dein Teufel ist da!English:Your devil is here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Mercy_-_%28German%29_Your_devil_is_here.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "💪🔫🇷🇺"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Watermelon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/D.Va_Skin_Watermelon.png"
+    "name": "Ana",
+    "skin_name": "Mummy",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Ana_Skin_Mummy.png"
   }
 }
