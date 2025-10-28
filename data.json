@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Dein Teufel ist da!English:Your devil is here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Mercy_-_%28German%29_Your_devil_is_here.ogg"
+    "name": "Soldier: 76",
+    "quote": "Only one of these teams is walking out of here.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Soldier_76_-_Only_one_of_these_teams_is_walking_out_of_here.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Mummy",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Ana_Skin_Mummy.png"
+    "name": "Reaper",
+    "skin_name": "Mariachi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
   }
 }
