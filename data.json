@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Venture",
+    "role": "Damage",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
+    "species": "Human",
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Only one of these teams is walking out of here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Soldier_76_-_Only_one_of_these_teams_is_walking_out_of_here.ogg"
+    "name": "Bastion",
+    "quote": "(alerting beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Bastion_-_%28alerting_beeps%29_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🎯🧔🏼🔥"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Mariachi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
+    "name": "Echo",
+    "skin_name": "Marina",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Echo_Skin_Marina.png"
   }
 }
