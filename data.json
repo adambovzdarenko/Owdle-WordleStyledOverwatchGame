@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(alerting beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Bastion_-_%28alerting_beeps%29_%282%29.ogg"
+    "name": "Orisa",
+    "quote": "En route!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Orisa_-_En_route.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Mei",
+    "emojis": "🧥🧪☃️"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Marina",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Echo_Skin_Marina.png"
+    "name": "Roadhog",
+    "skin_name": "Stitched",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Roadhog_Skin_Stitched.png"
   }
 }
