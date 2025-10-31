@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "En route!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Orisa_-_En_route.ogg"
+    "name": "Mercy",
+    "quote": "Ultimate",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Mercy_-_Do_I_have_to.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🧥🧪☃️"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Stitched",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Roadhog_Skin_Stitched.png"
+    "name": "Kiriko",
+    "skin_name": "Sakura",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Kiriko_Skin_Sakura.png"
   }
 }
