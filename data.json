@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Genji",
     "role": "Damage",
-    "affiliation": "Junkers",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Ultimate",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Mercy_-_Do_I_have_to.ogg"
+    "name": "Sombra",
+    "quote": "Keep moving forward!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Sombra_-_Keep_moving_forward.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🦜🪖🌲"
+    "name": "Widowmaker",
+    "emojis": "🎯💋🕷️"
   },
   "secretSkin": {
     "name": "Kiriko",
-    "skin_name": "Sakura",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Kiriko_Skin_Sakura.png"
+    "skin_name": "Festive",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Kiriko_Skin_Festive.png"
   }
 }
