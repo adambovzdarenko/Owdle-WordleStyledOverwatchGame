@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
+    "name": "Freja",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "affiliation": "Danish Armed Forces / Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Keep moving forward!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Sombra_-_Keep_moving_forward.ogg"
+    "name": "Sigma",
+    "quote": "A massive assault impends!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Sigma_-_A_massive_assault_impends.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🎯💋🕷️"
+    "name": "Wrecking Ball",
+    "emojis": "🐹🔩⚙️"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Festive",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Kiriko_Skin_Festive.png"
+    "name": "Mercy",
+    "skin_name": "Cosmic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Mercy_Skin_Cosmic.png"
   }
 }
