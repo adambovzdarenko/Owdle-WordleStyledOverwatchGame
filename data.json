@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
-    "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "A massive assault impends!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Sigma_-_A_massive_assault_impends.ogg"
+    "name": "Torbjörn",
+    "quote": "Mo'weefo du spreegeenu!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Torbj%C3%B6rn_-_Mo%27weefo_du_spreegeenu.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🐹🔩⚙️"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Cosmic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Mercy_Skin_Cosmic.png"
+    "name": "Torbjörn",
+    "skin_name": "Tentacle Horror",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Torbj%C3%B6rn_Skin_Tentacle_Horror.png"
   }
 }
