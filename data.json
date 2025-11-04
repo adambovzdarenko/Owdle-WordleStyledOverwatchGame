@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
+    "name": "Baptiste",
     "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
+    "affiliation": "Talon (formerly) Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Mo'weefo du spreegeenu!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Torbj%C3%B6rn_-_Mo%27weefo_du_spreegeenu.ogg"
+    "name": "Juno",
+    "quote": "Here is my Hyper Ring!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Juno_-_Here_is_my_Hyper_Ring.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Illari",
+    "emojis": "🌞🛐🇵🇪"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Tentacle Horror",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Torbj%C3%B6rn_Skin_Tentacle_Horror.png"
+    "name": "Bastion",
+    "skin_name": "Dawn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Bastion_Skin_Dawn.png"
   }
 }
