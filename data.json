@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "name": "Hazard",
+    "role": "Tank",
+    "affiliation": "Phreaks",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Here is my Hyper Ring!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Juno_-_Here_is_my_Hyper_Ring.ogg"
+    "name": "Sombra",
+    "quote": "Sigma: Hm? Ah, there you are, my friend!*name*: What, are you surprised to see me?Sigma: Well, it's not unlike you to disappear without warning.*name*: Someone has to keep you from wandering off!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Sigma_-_Ah%2C_there_you_are%2C_my_friend.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Tracer",
+    "emojis": "🏃‍♀️↩️🔫"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Dawn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Bastion_Skin_Dawn.png"
+    "name": "Winston",
+    "skin_name": "Catcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
   }
 }
