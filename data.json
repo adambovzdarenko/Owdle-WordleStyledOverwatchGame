@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
-    "gender": "Male",
+    "name": "Sojourn",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Sigma: Hm? Ah, there you are, my friend!*name*: What, are you surprised to see me?Sigma: Well, it's not unlike you to disappear without warning.*name*: Someone has to keep you from wandering off!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Sigma_-_Ah%2C_there_you_are%2C_my_friend.ogg"
+    "name": "Soldier: 76",
+    "quote": "Enemy team down. Push forward now!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Soldier_76_-_Enemy_team_down._Push_forward_now.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "🏃‍♀️↩️🔫"
+    "name": "Ramattra",
+    "emojis": "⚫🧘‍♂️📢"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Catcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
+    "name": "Junkrat",
+    "skin_name": "Inferno",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Junkrat_Skin_Inferno.png"
   }
 }
