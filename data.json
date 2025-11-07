@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Enemy team down. Push forward now!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Soldier_76_-_Enemy_team_down._Push_forward_now.ogg"
+    "name": "Ramattra",
+    "quote": "Find cover and hold. We have almost won!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Ramattra_-_Find_cover_and_hold._We_have_almost_won.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "⚫🧘‍♂️📢"
+    "name": "Bastion",
+    "emojis": "🤖🔫🎶"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Inferno",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Junkrat_Skin_Inferno.png"
+    "name": "Pharah",
+    "skin_name": "P-900 Warhead",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Pharah_Skin_P-900_Warhead.png"
   }
 }
