@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
+    "name": "Torbjörn",
     "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Protect the uplink! It's our last chance!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Zarya_-_Protect_the_Uplink%21_It%27s_our_last_chance.ogg"
+    "name": "Widowmaker",
+    "quote": "I'm out for blood.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Widowmaker_-_I%27m_out_for_blood.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🔵📡🎶"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Dragon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Symmetra_Skin_Dragon.png"
+    "name": "Ana",
+    "skin_name": "Merciful",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png"
   }
 }
