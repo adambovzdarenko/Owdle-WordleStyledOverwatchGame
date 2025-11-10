@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "I'm out for blood.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Widowmaker_-_I%27m_out_for_blood.ogg"
+    "name": "Torbjörn",
+    "quote": "I'm a little... embarrassed of some things I said here. But I'm doing my best to learn.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Torbj%C3%B6rn_-_I%27m_a_little..._embarrassed_of_some_things_I_said_here._But_I%27m_doing_my_best_to_learn.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
     "name": "Ana",
-    "skin_name": "Merciful",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png"
+    "skin_name": "Blackbraid",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ana_Skin_Blackbraid.png"
   }
 }
