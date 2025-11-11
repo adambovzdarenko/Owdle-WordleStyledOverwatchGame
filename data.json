@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
+    "name": "Sombra",
+    "role": "Damage",
     "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Mexico 🇲🇽",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "I'm a little... embarrassed of some things I said here. But I'm doing my best to learn.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Torbj%C3%B6rn_-_I%27m_a_little..._embarrassed_of_some_things_I_said_here._But_I%27m_doing_my_best_to_learn.ogg"
+    "name": "Reaper",
+    "quote": "Fall! Fall! Fall!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Reaper_-_Fall%21_Fall%21_Fall.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "💠🔲📐"
+    "name": "Juno",
+    "emojis": "🛰️🎯🧠"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Blackbraid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ana_Skin_Blackbraid.png"
+    "name": "Roadhog",
+    "skin_name": "Militia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/46/Roadhog_Skin_Militia.png"
   }
 }
