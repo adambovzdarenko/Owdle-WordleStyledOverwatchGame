@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Fall! Fall! Fall!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Reaper_-_Fall%21_Fall%21_Fall.ogg"
+    "name": "Zenyatta",
+    "quote": "Halt the robot.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Zenyatta_-_Halt_the_robot.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🛰️🎯🧠"
+    "name": "Lifeweaver",
+    "emojis": "🖐️🛌🌀"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Militia",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/46/Roadhog_Skin_Militia.png"
+    "name": "Baptiste",
+    "skin_name": "Formalwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Baptiste_Skin_Formalwear.png"
   }
 }
