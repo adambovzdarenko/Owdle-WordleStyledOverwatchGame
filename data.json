@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Halt the robot.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Zenyatta_-_Halt_the_robot.ogg"
+    "name": "Illari",
+    "quote": "Ashe: That is a mighty fine rifle. Mind if I give it a whirl?*name*: You don't seem like the type to give it back.Ashe: *gasp* Come on now... I'm a woman of my word.*name*: Youractionsspeak louder.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Ashe_-_That_is_a_mighty_fine_rifle._Mind_if_I_give_it_a_whirl.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🖐️🛌🌀"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Formalwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Baptiste_Skin_Formalwear.png"
+    "name": "Pharah",
+    "skin_name": "Emerald",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Pharah_Skin_Emerald.png"
   }
 }
