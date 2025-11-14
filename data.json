@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
-    "role": "Damage",
-    "affiliation": "Shimada Clan",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Ashe: That is a mighty fine rifle. Mind if I give it a whirl?*name*: You don't seem like the type to give it back.Ashe: *gasp* Come on now... I'm a woman of my word.*name*: Youractionsspeak louder.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Ashe_-_That_is_a_mighty_fine_rifle._Mind_if_I_give_it_a_whirl.ogg"
+    "name": "Reaper",
+    "quote": "Junkrat: I like what you've got going on... the ghost powers, the magically replenishing shotguns, the mysterious identity...*light chuckle*You're a real character!*name*: Shut. Up.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Junkrat_-_I_like_what_you%27ve_got_going_on..._the_ghost_powers%2C_the_magically_replenishing_shotguns%2C_the_mysterious_identity.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Echo",
+    "emojis": "☁️🪶💫"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Emerald",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Pharah_Skin_Emerald.png"
+    "name": "Zenyatta",
+    "skin_name": "Ifrit",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Zenyatta_Skin_Ifrit.png"
   }
 }
