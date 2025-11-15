@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
+    "name": "Junker Queen",
     "role": "Tank",
     "affiliation": "Junkers",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
     "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Junkrat: I like what you've got going on... the ghost powers, the magically replenishing shotguns, the mysterious identity...*light chuckle*You're a real character!*name*: Shut. Up.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Junkrat_-_I_like_what_you%27ve_got_going_on..._the_ghost_powers%2C_the_magically_replenishing_shotguns%2C_the_mysterious_identity.ogg"
+    "name": "Junker Queen",
+    "quote": "Ha ha ha! I have your flag! Try and stop me.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Junker_Queen_-_I_have_your_flag%21_Try_and_stop_me.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "☁️🪶💫"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Ifrit",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Zenyatta_Skin_Ifrit.png"
+    "name": "Echo",
+    "skin_name": "Cosmic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Echo_Skin_Cosmic.png"
   }
 }
