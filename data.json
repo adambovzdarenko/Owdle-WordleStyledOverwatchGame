@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Echo",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Ha ha ha! I have your flag! Try and stop me.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Junker_Queen_-_I_have_your_flag%21_Try_and_stop_me.ogg"
+    "name": "Zenyatta",
+    "quote": "Push forward.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Zenyatta_-_Push_forward.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "Mei",
+    "emojis": "🧥🧪☃️"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Cosmic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Echo_Skin_Cosmic.png"
+    "name": "Reinhardt",
+    "skin_name": "Wujing",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Reinhardt_Skin_Wujing.png"
   }
 }
