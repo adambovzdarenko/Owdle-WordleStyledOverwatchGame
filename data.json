@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Vishkar",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "species": "Human",
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Push forward.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Zenyatta_-_Push_forward.ogg"
+    "name": "Sigma",
+    "quote": "Deksels... We've fallen behind!English:Curses... We've fallen behind!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Sigma_-_%28Dutch%29_Curses..._We_have_fallen_behind.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🧥🧪☃️"
+    "name": "Kiriko",
+    "emojis": "🗻💨🍡"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Wujing",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Reinhardt_Skin_Wujing.png"
+    "name": "Tracer",
+    "skin_name": "Constable",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Tracer_Skin_Constable.png"
   }
 }
