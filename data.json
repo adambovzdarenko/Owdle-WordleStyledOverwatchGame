@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Deksels... We've fallen behind!English:Curses... We've fallen behind!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Sigma_-_%28Dutch%29_Curses..._We_have_fallen_behind.ogg"
+    "name": "Sombra",
+    "quote": "Borrowing the robot. Don't expect it back.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Sombra_-_Borrowing_the_robot._Don%27t_expect_it_back.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "🗻💨🍡"
+    "name": "Zenyatta",
+    "emojis": "🧘‍♂️🔵☯️"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Constable",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Tracer_Skin_Constable.png"
+    "name": "Hazard",
+    "skin_name": "Corrosive",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Hazard_Skin_Corrosive.png"
   }
 }
