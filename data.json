@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Borrowing the robot. Don't expect it back.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Sombra_-_Borrowing_the_robot._Don%27t_expect_it_back.ogg"
+    "name": "Ramattra",
+    "quote": "I am the guardian and the gateway.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Ramattra_-_I_am_the_guardian_and_the_gateway.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🧘‍♂️🔵☯️"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Corrosive",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Hazard_Skin_Corrosive.png"
+    "name": "Junkrat",
+    "skin_name": "Junkfood",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Junkrat_Skin_Junkfood.png"
   }
 }
