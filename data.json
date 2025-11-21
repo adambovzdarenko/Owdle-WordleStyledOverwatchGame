@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "Roadhog",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Oh no, we're about to lose the lead!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Mei_-_Oh_no%2C_we%27re_about_to_lose_the_lead.ogg"
+    "name": "Sigma",
+    "quote": "You're welcome.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Sigma_-_You%27re_welcome.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "🔥🦴🏚️"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Harbinger",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Lifeweaver_Skin_Harbinger.png"
+    "name": "Tracer",
+    "skin_name": "Neon Streets",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Tracer_Skin_Neon_Streets.png"
   }
 }
