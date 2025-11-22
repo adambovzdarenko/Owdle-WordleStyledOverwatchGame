@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "You're welcome.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Sigma_-_You%27re_welcome.ogg"
+    "name": "Baptiste",
+    "quote": "*sigh*Got dust stuck in my teeth.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Baptiste_-_Got_dust_stuck_in_my_teeth.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "💠🔲📐"
+    "name": "Mercy",
+    "emojis": "💉🕊️✨"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Neon Streets",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Tracer_Skin_Neon_Streets.png"
+    "name": "Reinhardt",
+    "skin_name": "Conductor",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Reinhardt_Skin_Conductor.png"
   }
 }
