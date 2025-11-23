@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "*sigh*Got dust stuck in my teeth.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Baptiste_-_Got_dust_stuck_in_my_teeth.ogg"
+    "name": "Sombra",
+    "quote": "Keep your hands to yourself,chica.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Sombra_-_Keep_your_hands_to_yourself%2C_chica.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "💉🕊️✨"
+    "name": "Juno",
+    "emojis": "👁️⚡🧭"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Conductor",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Reinhardt_Skin_Conductor.png"
+    "name": "Orisa",
+    "skin_name": "Star Sheep",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Orisa_Skin_Star_Sheep.png"
   }
 }
