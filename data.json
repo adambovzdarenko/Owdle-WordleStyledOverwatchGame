@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "Echo",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Keep your hands to yourself,chica.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Sombra_-_Keep_your_hands_to_yourself%2C_chica.ogg"
+    "name": "D.Va",
+    "quote": "Boosters",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/D.Va_-_Taking_flight.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "👁️⚡🧭"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Star Sheep",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Orisa_Skin_Star_Sheep.png"
+    "name": "Tracer",
+    "skin_name": "Adventurer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Tracer_Skin_Adventurer.png"
   }
 }
