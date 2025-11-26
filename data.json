@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Ashe",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Deadlock Gang",
     "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "PoorReinhardt. What he must have seen here...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Sojourn_-_Poor_Reinhardt._What_he_must_have_seen_here.ogg"
+    "name": "Junker Queen",
+    "quote": "Turret... crushed!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Junker_Queen_-_Turret_crushed.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Junkrat_Skin_Overwatch_2.png"
+    "name": "Moira",
+    "skin_name": "Wicked",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Moira_Skin_Wicked.png"
   }
 }
