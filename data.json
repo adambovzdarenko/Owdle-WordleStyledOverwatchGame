@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Echo",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Ialwaysdeliver.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Freja_-_I_always_deliver.ogg"
+    "name": "Ana",
+    "quote": "You are of use to our cause.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Ana_-_You_are_of_use_to_our_cause.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Bastion_Skin_Overwatch_2.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Asteroid",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Wrecking_Ball_Skin_Asteroid.png"
   }
 }
