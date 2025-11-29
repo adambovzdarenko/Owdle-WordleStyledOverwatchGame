@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
+    "name": "Mercy",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Omnic",
+    "species": "Human",
     "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "You are of use to our cause.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Ana_-_You_are_of_use_to_our_cause.ogg"
+    "name": "Tracer",
+    "quote": "Aren't you a sight for sore eyes!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Tracer_-_Aren%27t_you_a_sight_for_sore_eyes.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Asteroid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Wrecking_Ball_Skin_Asteroid.png"
+    "name": "Symmetra",
+    "skin_name": "Art Deco",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Symmetra_Skin_Art_Deco.png"
   }
 }
