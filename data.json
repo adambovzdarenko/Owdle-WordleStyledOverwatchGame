@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "Aren't you a sight for sore eyes!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Tracer_-_Aren%27t_you_a_sight_for_sore_eyes.ogg"
+    "name": "Lucio",
+    "quote": "Let's kick the beat!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/L%C3%BAcio_-_Let%27s_kick_the_beat.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Hazard",
+    "emojis": "🧤🧪🔧"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Art Deco",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Symmetra_Skin_Art_Deco.png"
+    "name": "Ashe",
+    "skin_name": "Intergalactic Smuggler",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Ashe_Skin_Intergalactic_Smuggler.png"
   }
 }
