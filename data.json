@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "name": "Sombra",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Let's kick the beat!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/L%C3%BAcio_-_Let%27s_kick_the_beat.ogg"
+    "name": "Winston",
+    "quote": "My ultimate is ready. Let's get in there!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Winston_-_My_ultimate_is_ready._Let%27s_get_in_there.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🧤🧪🔧"
+    "name": "Zenyatta",
+    "emojis": "🧘‍♂️🔵☯️"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Intergalactic Smuggler",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Ashe_Skin_Intergalactic_Smuggler.png"
+    "name": "Junker Queen",
+    "skin_name": "Radium",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Junker_Queen_Skin_Radium.png"
   }
 }
