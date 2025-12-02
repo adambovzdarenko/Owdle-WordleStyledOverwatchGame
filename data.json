@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "My ultimate is ready. Let's get in there!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Winston_-_My_ultimate_is_ready._Let%27s_get_in_there.ogg"
+    "name": "Baptiste",
+    "quote": "I could use a heal!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Baptiste_-_I_could_use_a_heal.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🧘‍♂️🔵☯️"
+    "name": "Wrecking Ball",
+    "emojis": "🐹🔩⚙️"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Radium",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Junker_Queen_Skin_Radium.png"
+    "name": "Hazard",
+    "skin_name": "OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Hazard_Skin_OWCS.png"
   }
 }
