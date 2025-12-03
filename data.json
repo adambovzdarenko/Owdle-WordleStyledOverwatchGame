@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "I could use a heal!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Baptiste_-_I_could_use_a_heal.ogg"
+    "name": "Mercy",
+    "quote": "Slicers at the objective!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Mercy_-_Slicers_at_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🐹🔩⚙️"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Hazard_Skin_OWCS.png"
+    "name": "Zarya",
+    "skin_name": "Barbarian",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Zarya_Skin_Barbarian.png"
   }
 }
