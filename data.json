@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
+    "name": "Illari",
     "role": "Support",
-    "affiliation": "The Collective",
-    "gender": "Male",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
+    "nationality": "Peru 🇵🇪",
     "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Slicers at the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Mercy_-_Slicers_at_the_objective.ogg"
+    "name": "Illari",
+    "quote": "Torbjörn: Who do I have to bother to get my hands on your pylon's blueprints?*name*: I don't know, those files were destroyed in... an accident.Torbjörn: Oh, that's a shame. I'll just reverse engineer it, then!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Torbj%C3%B6rn_-_Who_do_I_have_to_bother_to_get_my_hands_on_your_pylon%27s_blueprints.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Ana",
+    "emojis": "💉👵🔭"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Barbarian",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Zarya_Skin_Barbarian.png"
+    "name": "Orisa",
+    "skin_name": "Star Sheep",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Orisa_Skin_Star_Sheep.png"
   }
 }
