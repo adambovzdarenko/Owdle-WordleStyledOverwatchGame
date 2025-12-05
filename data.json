@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Torbjörn: Who do I have to bother to get my hands on your pylon's blueprints?*name*: I don't know, those files were destroyed in... an accident.Torbjörn: Oh, that's a shame. I'll just reverse engineer it, then!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Torbj%C3%B6rn_-_Who_do_I_have_to_bother_to_get_my_hands_on_your_pylon%27s_blueprints.ogg"
+    "name": "Zenyatta",
+    "quote": "Assistance would be appreciated.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_-_Assistance_would_be_appreciated.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "💉👵🔭"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Star Sheep",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Orisa_Skin_Star_Sheep.png"
+    "name": "Zarya",
+    "skin_name": "Cybergoth",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Zarya_Skin_Cybergoth.png"
   }
 }
