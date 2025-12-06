@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
+    "name": "Hazard",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Phreaks",
     "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Assistance would be appreciated.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_-_Assistance_would_be_appreciated.ogg"
+    "name": "Roadhog",
+    "quote": "*laughter*(self and hostile)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Roadhog_-_%28Whole_Hog%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Junker Queen",
+    "emojis": "🩸⚔️🧿"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Cybergoth",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Zarya_Skin_Cybergoth.png"
+    "name": "Tracer",
+    "skin_name": "Sprinter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Tracer_Skin_Sprinter.png"
   }
 }
