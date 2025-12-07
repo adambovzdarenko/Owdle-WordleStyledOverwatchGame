@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "*laughter*(self and hostile)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Roadhog_-_%28Whole_Hog%29_%281%29.ogg"
+    "name": "Torbjörn",
+    "quote": "Tools in hand; brain in gear.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Torbj%C3%B6rn_-_Tools_in_hand._Brain_in_gear.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🩸⚔️🧿"
+    "name": "Ashe",
+    "emojis": "💣📯🔫"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Sprinter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Tracer_Skin_Sprinter.png"
+    "name": "Baptiste",
+    "skin_name": "Pirate",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Baptiste_Skin_Pirate.png"
   }
 }
