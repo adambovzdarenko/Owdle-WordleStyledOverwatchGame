@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Flag's mine.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Hazard_-_Flag%27s_mine.ogg"
+    "name": "Lifeweaver",
+    "quote": "How kind!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/Lifeweaver_-_How_kind.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🎯👓☀️"
+    "name": "Widowmaker",
+    "emojis": "🎯💋🕷️"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Ultraviolet",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Tracer_Skin_Ultraviolet.png"
+    "name": "Baptiste",
+    "skin_name": "Spec Ops",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Baptiste_Skin_Spec_Ops.png"
   }
 }
