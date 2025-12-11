@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Sigma:If you know what you're looking for, inquiry is unnecessary. But if you don't know, how do you inquire?*name*:Ah,Xeno's Paradox!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Sigma_-_If_you_know_what_you%27re_looking_for%2C_inquiry_is_unnecessary._But_if_you_don%27t_know%2C_how_do_you_inquire.ogg"
+    "name": "Venture",
+    "quote": "Aren't we trying to keep the lead?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Venture_-_Aren%27t_we_trying_to_keep_the_lead.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Toph",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Venture_Skin_Toph.png"
+    "name": "Mauga",
+    "skin_name": "Lava",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Mauga_Skin_Lava.png"
   }
 }
