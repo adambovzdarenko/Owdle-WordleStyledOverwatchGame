@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "France 🇫🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Aren't we trying to keep the lead?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Venture_-_Aren%27t_we_trying_to_keep_the_lead.ogg"
+    "name": "Zenyatta",
+    "quote": "Zarya: Tell me, omnic. Do you dream?*name*: I dream of peace. And, sometimes, falling.Zarya: Perhaps we have more in common than I thought.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Zarya_-_Tell_me%2C_omnic._Do_you_dream.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Venture",
+    "emojis": "🦴🐛🔦"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Lava",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Mauga_Skin_Lava.png"
+    "name": "Sojourn",
+    "skin_name": "Water Warrior",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Sojourn_Skin_Water_Warrior.png"
   }
 }
