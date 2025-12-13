@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "name": "Hazard",
+    "role": "Tank",
+    "affiliation": "Phreaks",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Zarya: Tell me, omnic. Do you dream?*name*: I dream of peace. And, sometimes, falling.Zarya: Perhaps we have more in common than I thought.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Zarya_-_Tell_me%2C_omnic._Do_you_dream.ogg"
+    "name": "Roadhog",
+    "quote": "How's that ice pick?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Roadhog_-_How%27s_that_ice_pick.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "🦴🐛🔦"
+    "name": "Bastion",
+    "emojis": "🤖🔫🎶"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Water Warrior",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Sojourn_Skin_Water_Warrior.png"
+    "name": "Pharah",
+    "skin_name": "Copper",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Pharah_Skin_Copper.png"
   }
 }
