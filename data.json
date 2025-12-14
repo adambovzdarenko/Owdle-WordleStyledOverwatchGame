@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "How's that ice pick?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Roadhog_-_How%27s_that_ice_pick.ogg"
+    "name": "Sombra",
+    "quote": "Got the relay.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Sombra_-_Got_the_relay.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🤖🔫🎶"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Copper",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Pharah_Skin_Copper.png"
+    "name": "Ashe",
+    "skin_name": "Mobster",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Mobster.png"
   }
 }
