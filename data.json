@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "Sojourn",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Got the relay.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Sombra_-_Got_the_relay.ogg"
+    "name": "Junker Queen",
+    "quote": "*name*: You look like a bruiser. Wanna be my bodyguard?Zarya: Ha. I think you can take care of yourself.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Junker_Queen_-_You_look_like_a_bruiser._Wanna_be_my_bodyguard.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🟣🪬☠️"
+    "name": "D.Va",
+    "emojis": "👾🚀💥"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Mobster",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Mobster.png"
+    "name": "Winston",
+    "skin_name": "Desert",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Winston_Skin_Desert.png"
   }
 }
