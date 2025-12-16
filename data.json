@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Bastion",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "*name*: You look like a bruiser. Wanna be my bodyguard?Zarya: Ha. I think you can take care of yourself.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Junker_Queen_-_You_look_like_a_bruiser._Wanna_be_my_bodyguard.ogg"
+    "name": "Genji",
+    "quote": "Final push! Capture the robot!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Genji_-_Final_push%21_Capture_the_robot.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "👾🚀💥"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Desert",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Winston_Skin_Desert.png"
+    "name": "Moira",
+    "skin_name": "Selkie",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Moira_Skin_Selkie.png"
   }
 }
