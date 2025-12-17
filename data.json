@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
+    "affiliation": "Vishkar",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Final push! Capture the robot!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Genji_-_Final_push%21_Capture_the_robot.ogg"
+    "name": "Zenyatta",
+    "quote": "Experience nothingness.(self & friendly)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Zenyatta_-_Experience_nothingness.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🦜🪖🌲"
+    "name": "Reinhardt",
+    "emojis": "🛡️🧔‍♂️🔥"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Selkie",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Moira_Skin_Selkie.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Junker",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Wrecking_Ball_Skin_Junker.png"
   }
 }
