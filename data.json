@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
+    "name": "Torbjörn",
     "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Zenyatta",
-    "quote": "Experience nothingness.(self & friendly)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Zenyatta_-_Experience_nothingness.ogg"
+    "quote": "A blessing to be among such capable hands.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Zenyatta_-_A_blessing_to_be_among_such_capable_hands.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🛡️🧔‍♂️🔥"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Junker",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Wrecking_Ball_Skin_Junker.png"
+    "name": "Orisa",
+    "skin_name": "Null Sector",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Orisa_Skin_Null_Sector.png"
   }
 }
