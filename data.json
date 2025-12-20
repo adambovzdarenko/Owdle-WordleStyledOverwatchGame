@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "Get them away from the robot!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Hanzo_-_Get_them_away_from_the_robot.ogg"
+    "name": "Bastion",
+    "quote": "(warning beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Bastion_-_%28warning_beeps%29_%289%29.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🦋🔊🤖"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Gingerbread (1)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Bastion_Skin_Gingerbread.png"
+    "name": "Tracer",
+    "skin_name": "Formalwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Tracer_Skin_Formalwear.png"
   }
 }
