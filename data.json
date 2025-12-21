@@ -9,17 +9,17 @@
     "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(warning beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Bastion_-_%28warning_beeps%29_%289%29.ogg"
+    "name": "Genji",
+    "quote": "*name*: You have an admirable peace about you.Orisa: Things are simple when you protect the innocent.*name*: And when you meet the... less-than-innocent?Orisa: Oh! They getthe javelin.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Genji_-_You_have_an_admirable_peace_about_you.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Moira",
+    "emojis": "☯️🧬🦠"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Formalwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Tracer_Skin_Formalwear.png"
+    "name": "Mercy",
+    "skin_name": "Snow Angel",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Mercy_Skin_Snow_Angel.png"
   }
 }
