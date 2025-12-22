@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
+    "name": "D.Va",
+    "role": "Tank",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "South Korea 🇰🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "*name*: You have an admirable peace about you.Orisa: Things are simple when you protect the innocent.*name*: And when you meet the... less-than-innocent?Orisa: Oh! They getthe javelin.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Genji_-_You_have_an_admirable_peace_about_you.ogg"
+    "name": "Sigma",
+    "quote": "Behind you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Sigma_-_Behind_you.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "☯️🧬🦠"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Snow Angel",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Mercy_Skin_Snow_Angel.png"
+    "name": "Sojourn",
+    "skin_name": "Firefighter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
   }
 }
