@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "South Korea 🇰🇷",
+    "name": "Bastion",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Behind you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Sigma_-_Behind_you.ogg"
+    "name": "Sojourn",
+    "quote": "(prolonged screaming)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Sojourn_-_%28prolonged_screaming%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "name": "Zarya",
+    "emojis": "💪🔫🇷🇺"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Firefighter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
+    "name": "Torbjörn",
+    "skin_name": "Lumberjack",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Torbj%C3%B6rn_Skin_Lumberjack.png"
   }
 }
