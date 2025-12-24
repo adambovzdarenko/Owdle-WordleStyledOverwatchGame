@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
+    "gender": "Female",
     "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "(prolonged screaming)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Sojourn_-_%28prolonged_screaming%29_%281%29.ogg"
+    "name": "Ramattra",
+    "quote": "I am ready.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ramattra_-_I_am_ready.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "💪🔫🇷🇺"
+    "name": "Reinhardt",
+    "emojis": "🇩🇪🦁🛠️"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Lumberjack",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Torbj%C3%B6rn_Skin_Lumberjack.png"
+    "name": "Ramattra",
+    "skin_name": "Wandering Monk",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Ramattra_Skin_Wandering_Monk.png"
   }
 }
