@@ -9,17 +9,17 @@
     "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "I am ready.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ramattra_-_I_am_ready.ogg"
+    "name": "Doomfist",
+    "quote": "Rocket Punch!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Doomfist_-_Rocket_Punch.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🇩🇪🦁🛠️"
+    "name": "Juno",
+    "emojis": "👁️⚡🧭"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Wandering Monk",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Ramattra_Skin_Wandering_Monk.png"
+    "name": "Soldier: 76",
+    "skin_name": "Smoke",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/S76_Skin_Smoke.png"
   }
 }
