@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Rocket Punch!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Doomfist_-_Rocket_Punch.ogg"
+    "name": "Zenyatta",
+    "quote": "*name*: Seeking progress by sowing chaos is like planting a tree in a volcano.Doomfist: Exactly.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Zenyatta_-_Seeking_progress_by_sowing_chaos_is_like_planting_a_tree_in_a_volcano.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "👁️⚡🧭"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
     "name": "Soldier: 76",
-    "skin_name": "Smoke",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/S76_Skin_Smoke.png"
+    "skin_name": "Survivor: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/S76_Skin_Survivor.png"
   }
 }
