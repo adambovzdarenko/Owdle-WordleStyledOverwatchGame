@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "*name*: Seeking progress by sowing chaos is like planting a tree in a volcano.Doomfist: Exactly.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Zenyatta_-_Seeking_progress_by_sowing_chaos_is_like_planting_a_tree_in_a_volcano.ogg"
+    "name": "Echo",
+    "quote": "I'm on the attack!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Echo_-_I%27m_on_the_attack.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Reinhardt",
+    "emojis": "🇩🇪🦁🛠️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Survivor: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/S76_Skin_Survivor.png"
+    "name": "Junkrat",
+    "skin_name": "Rusted",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Junkrat_Skin_Rusted.png"
   }
 }
