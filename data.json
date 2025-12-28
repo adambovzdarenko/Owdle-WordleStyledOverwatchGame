@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "D.Va",
+    "role": "Tank",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "South Korea 🇰🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "I'm on the attack!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Echo_-_I%27m_on_the_attack.ogg"
+    "name": "Juno",
+    "quote": "A shield generator has been created!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Juno_-_A_shield_generator_has_been_created.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🇩🇪🦁🛠️"
+    "name": "Torbjörn",
+    "emojis": "🔧🏗️🐻"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Rusted",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Junkrat_Skin_Rusted.png"
+    "name": "Illari",
+    "skin_name": "Sundown",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Sundown.png"
   }
 }
