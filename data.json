@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
-    "gender": "Female",
+    "name": "Venture",
+    "role": "Damage",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "A shield generator has been created!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Juno_-_A_shield_generator_has_been_created.ogg"
+    "name": "Symmetra",
+    "quote": "Fall back.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Symmetra_-_Fall_back.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🔧🏗️🐻"
+    "name": "Echo",
+    "emojis": "🦋🔊🤖"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Sundown",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Sundown.png"
+    "name": "Brigitte",
+    "skin_name": "Mechanic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Brigitte_Skin_Mechanic.png"
   }
 }
