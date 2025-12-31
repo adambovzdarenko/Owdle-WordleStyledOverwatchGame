@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "A plague of arrows.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Hanzo_-_A_plague_of_arrows.ogg"
+    "name": "Baptiste",
+    "quote": "Heads up.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Baptiste_-_Heads_up.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "👢💥🌀"
+    "name": "Sigma",
+    "emojis": "🔮🌌🧠"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Jade Totem",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Ramattra_Skin_Jade_Totem.png"
+    "name": "Zarya",
+    "skin_name": "Siberian Front",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Zarya_Skin_Siberian_Front.png"
   }
 }
