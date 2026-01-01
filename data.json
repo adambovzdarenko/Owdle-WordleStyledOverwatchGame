@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Heads up.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Baptiste_-_Heads_up.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "Now this is one place that knows how to throw a party.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Cassidy_-_Now_this_is_one_place_that_knows_how_to_throw_a_party.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🔮🌌🧠"
+    "name": "Lifeweaver",
+    "emojis": "🌸🪴🌈"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Siberian Front",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Zarya_Skin_Siberian_Front.png"
+    "name": "Venture",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Venture_Skin_Toxic.png"
   }
 }
