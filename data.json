@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Ireland 🇮🇪",
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
     "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Now this is one place that knows how to throw a party.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Cassidy_-_Now_this_is_one_place_that_knows_how_to_throw_a_party.ogg"
+    "name": "Ashe",
+    "quote": "Get in and snatch their flag!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Ashe_-_Get_in_and_snatch_their_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🌸🪴🌈"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Venture_Skin_Toxic.png"
+    "name": "Ana",
+    "skin_name": "Shrike",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png"
   }
 }
