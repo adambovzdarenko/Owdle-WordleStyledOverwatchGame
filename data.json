@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "Wrecking Ball",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Get in and snatch their flag!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Ashe_-_Get_in_and_snatch_their_flag.ogg"
+    "name": "Doomfist",
+    "quote": "Our future will be forged in conflict.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Doomfist_-_Our_future_will_be_forged_in_conflict.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "name": "Mei",
+    "emojis": "❄️🧊🐧"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Shrike",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png"
+    "name": "Orisa",
+    "skin_name": "Sunrise",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Sunrise.png"
   }
 }
