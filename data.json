@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Our future will be forged in conflict.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Doomfist_-_Our_future_will_be_forged_in_conflict.ogg"
+    "name": "Bastion",
+    "quote": "(relieved beep)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Bastion_-_%28relieved_beeps%29_%283%29.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "❄️🧊🐧"
+    "name": "Reaper",
+    "emojis": "🔥💣🖤"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Sunrise",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Sunrise.png"
+    "name": "Reaper",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Reaper_Skin_Overwatch_2.png"
   }
 }
