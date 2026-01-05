@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
+    "name": "Pharah",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(relieved beep)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Bastion_-_%28relieved_beeps%29_%283%29.ogg"
+    "name": "Mercy",
+    "quote": "Enemy over here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Mercy_-_Enemy_over_here.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🔥💣🖤"
+    "name": "Ana",
+    "emojis": "🎯💤🧕"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Reaper_Skin_Overwatch_2.png"
+    "name": "Zenyatta",
+    "skin_name": "Takoyaki",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_Takoyaki.png"
   }
 }
