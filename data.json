@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Vishkar",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Enemy over here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Mercy_-_Enemy_over_here.ogg"
+    "name": "Soldier: 76",
+    "quote": "What are you fighting for?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Soldier_76_-_What_are_you_fighting_for.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🎯💤🧕"
+    "name": "Mercy",
+    "emojis": "💉🕊️✨"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Takoyaki",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_Takoyaki.png"
+    "name": "Ana",
+    "skin_name": "Bog Witch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Ana_Skin_Bog_Witch.png"
   }
 }
