@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
+    "name": "D.Va",
+    "role": "Tank",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "South Korea 🇰🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "What are you fighting for?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Soldier_76_-_What_are_you_fighting_for.ogg"
+    "name": "Hazard",
+    "quote": "Baddie here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Hazard_-_Baddie_here.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "💉🕊️✨"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Bog Witch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Ana_Skin_Bog_Witch.png"
+    "name": "Junkrat",
+    "skin_name": "Fawksey James",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Junkrat_Skin_Fawksey_James.png"
   }
 }
