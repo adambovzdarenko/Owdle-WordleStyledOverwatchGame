@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Baddie here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Hazard_-_Baddie_here.ogg"
+    "name": "Juno",
+    "quote": "The enemy took our flag!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Juno_-_The_enemy_took_our_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Genji",
+    "emojis": "👤💚🎴"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Fawksey James",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Junkrat_Skin_Fawksey_James.png"
+    "name": "Doomfist",
+    "skin_name": "Avatar",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Doomfist_Skin_Avatar.png"
   }
 }
