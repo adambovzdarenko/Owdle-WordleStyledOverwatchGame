@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "France 🇫🇷",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "The enemy took our flag!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Juno_-_The_enemy_took_our_flag.ogg"
+    "name": "Sigma",
+    "quote": "Do not disappoint me!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Sigma_-_Do_not_disappoint_me.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "👤💚🎴"
+    "name": "Lifeweaver",
+    "emojis": "🌸🪴🌈"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Avatar",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Doomfist_Skin_Avatar.png"
+    "name": "Hanzo",
+    "skin_name": "Huang Zhong",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Hanzo_Skin_Huang_Zhong.png"
   }
 }
