@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Do not disappoint me!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/Sigma_-_Do_not_disappoint_me.ogg"
+    "name": "Symmetra",
+    "quote": "Sigma: Your work is to be admired! Form and function, working in harmony...*name*: Form is vital to function. The two are inseparable, like movement and music.Sigma: Ah, well... perhaps I will take your word for it.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Sigma_-_Your_work_is_to_be_admired%21_Form_and_function%2C_working_in_harmony.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🌸🪴🌈"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Huang Zhong",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Hanzo_Skin_Huang_Zhong.png"
+    "name": "Hazard",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Hazard_Skin_Overwatch_2.png"
   }
 }
