@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Sigma: Your work is to be admired! Form and function, working in harmony...*name*: Form is vital to function. The two are inseparable, like movement and music.Sigma: Ah, well... perhaps I will take your word for it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Sigma_-_Your_work_is_to_be_admired%21_Form_and_function%2C_working_in_harmony.ogg"
+    "name": "Genji",
+    "quote": "At times, I can almost hear the voices of those who lost their lives here.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Genji_-_At_times%2C_I_can_almost_hear_the_voices_of_those_who_lost_their_lives_here.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Reaper",
+    "emojis": "💀🌫️🕶️"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Hazard_Skin_Overwatch_2.png"
+    "name": "Mei",
+    "skin_name": "Snow Plum",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mei_Skin_Snow_Plum.png"
   }
 }
