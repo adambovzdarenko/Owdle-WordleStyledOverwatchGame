@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
-    "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "At times, I can almost hear the voices of those who lost their lives here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Genji_-_At_times%2C_I_can_almost_hear_the_voices_of_those_who_lost_their_lives_here.ogg"
+    "name": "Zarya",
+    "quote": "Enemy turret ahead!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Zarya_-_Enemy_turret_ahead.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Hazard",
+    "emojis": "🧤🧪🔧"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Snow Plum",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mei_Skin_Snow_Plum.png"
+    "name": "Reaper",
+    "skin_name": "Mariachi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
   }
 }
