@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
     "gender": "Male",
     "species": "Omnic",
     "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Enemy turret ahead!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Zarya_-_Enemy_turret_ahead.ogg"
+    "name": "Sigma",
+    "quote": "A massive assault impends!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Sigma_-_A_massive_assault_impends.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🧤🧪🔧"
+    "name": "Freja",
+    "emojis": "💙🦸‍♀️🪶"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Mariachi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Mariachi.png"
+    "name": "Bastion",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Toxic.png"
   }
 }
