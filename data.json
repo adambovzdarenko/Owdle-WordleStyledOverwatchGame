@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
-    "role": "Support",
-    "affiliation": "Shambali",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "A massive assault impends!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Sigma_-_A_massive_assault_impends.ogg"
+    "name": "Zarya",
+    "quote": "Strong as the mountain.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Zarya_-_Strong_as_the_mountain.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "💙🦸‍♀️🪶"
+    "name": "D.Va",
+    "emojis": "🎮🐰🛡️"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Toxic.png"
+    "name": "Widowmaker",
+    "skin_name": "Wild Tracker",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Widowmaker_Skin_Wild_Tracker.png"
   }
 }
