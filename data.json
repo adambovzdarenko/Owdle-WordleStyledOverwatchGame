@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Strong as the mountain.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Zarya_-_Strong_as_the_mountain.ogg"
+    "name": "D.Va",
+    "quote": "Did that sting?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/D.Va_-_Did_that_sting.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "🎮🐰🛡️"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Wild Tracker",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Widowmaker_Skin_Wild_Tracker.png"
+    "name": "Reaper",
+    "skin_name": "Blood",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Reaper_Skin_Blood.png"
   }
 }
