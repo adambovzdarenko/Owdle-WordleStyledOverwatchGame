@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "Roadhog",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Did that sting?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/D.Va_-_Did_that_sting.ogg"
+    "name": "Illari",
+    "quote": "Enemy turret ahead.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Illari_-_Enemy_turret_ahead.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Blood",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Reaper_Skin_Blood.png"
+    "name": "Illari",
+    "skin_name": "Qumir",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png"
   }
 }
