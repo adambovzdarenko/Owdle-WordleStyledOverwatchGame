@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
+    "name": "Mauga",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Enemy turret ahead.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Illari_-_Enemy_turret_ahead.ogg"
+    "name": "Sigma",
+    "quote": "The unfathomable weight of gravity!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Sigma_-_The_unfathomable_weight_of_gravity.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Qumir",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png"
+    "name": "Widowmaker",
+    "skin_name": "Mousquetaire",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Widowmaker_Skin_Mousquetaire.png"
   }
 }
