@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
+    "name": "Tracer",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "*name*: You're so old-fashioned, Reinhardt. A hammer? How marvelous!Reinhardt: I suppose you think I should have a giant laser gun?*name*: No, lean into it! Get Lindholm to build you one of his bigrobotic horses.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Lifeweaver_-_You%27re_so_old-fashioned%2C_Reinhardt._A_hammer%21_How_marvelous.ogg"
+    "name": "Ramattra",
+    "quote": "Don't touch me!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Ramattra_-_Don%27t_touch_me.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "🗻💨🍡"
+    "name": "Widowmaker",
+    "emojis": "🔭🧊🎻"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Steelhardt",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Reinhardt_Skin_Steelhardt.png"
+    "name": "Kiriko",
+    "skin_name": "Sakura",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Kiriko_Skin_Sakura.png"
   }
 }
