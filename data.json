@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Don't touch me!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Ramattra_-_Don%27t_touch_me.ogg"
+    "name": "Mauga",
+    "quote": "Both hearts pumping!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mauga_-_Both_hearts_pumping.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🔭🧊🎻"
+    "name": "Hanzo",
+    "emojis": "🎯👁️‍🗨️🪓"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Sakura",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Kiriko_Skin_Sakura.png"
+    "name": "D.Va",
+    "skin_name": "Palanquin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/D.Va_Skin_Palanquin.png"
   }
 }
