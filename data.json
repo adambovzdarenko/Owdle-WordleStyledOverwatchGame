@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "My ultimate is charging.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Juno_-_My_ultimate_is_charging.ogg"
+    "name": "D.Va",
+    "quote": "We need a healer!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/D.Va_-_We_need_a_healer.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Bushi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/Genji_Skin_Bushi.png"
+    "name": "Reaper",
+    "skin_name": "Lü Bu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Reaper_Skin_L%C3%BC_Bu.png"
   }
 }
