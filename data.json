@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
+    "name": "McCree / Cassidy",
     "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "We need a healer!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/D.Va_-_We_need_a_healer.ogg"
+    "name": "Genji",
+    "quote": "No deed is forgotten.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Genji_-_No_deed_is_forgotten.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Lü Bu",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Reaper_Skin_L%C3%BC_Bu.png"
+    "name": "Ashe",
+    "skin_name": "FEARLESS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Ashe_Skin_FEARLESS.png"
   }
 }
