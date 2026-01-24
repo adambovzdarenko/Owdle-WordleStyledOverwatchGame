@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "No deed is forgotten.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Genji_-_No_deed_is_forgotten.ogg"
+    "name": "Zarya",
+    "quote": "Damn!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Zarya_-_Damn.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Mercy",
+    "emojis": "🏥🪄🔋"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "FEARLESS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Ashe_Skin_FEARLESS.png"
+    "name": "Mei",
+    "skin_name": "Hu Tou Mao",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Mei_Skin_Hu_Tou_Mao.png"
   }
 }
