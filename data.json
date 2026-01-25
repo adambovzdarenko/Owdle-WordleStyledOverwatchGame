@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
+    "name": "Illari",
     "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Damn!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Zarya_-_Damn.ogg"
+    "name": "Illari",
+    "quote": "Ferry's not looking good!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Illari_-_Ferry%27s_not_looking_good.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "🏥🪄🔋"
+    "name": "Kiriko",
+    "emojis": "⛩️🐾🧃"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Hu Tou Mao",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Mei_Skin_Hu_Tou_Mao.png"
+    "name": "Zarya",
+    "skin_name": "Taiga",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Zarya_Skin_Taiga.png"
   }
 }
