@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Ferry's not looking good!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Illari_-_Ferry%27s_not_looking_good.ogg"
+    "name": "D.Va",
+    "quote": "Widowmaker: You claim you are skilled. That remains to be seen.*name*: What's that? You're hiding so far in the backline, I can barely hear you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Widowmaker_-_You_claim_you_are_skilled._That_remains_to_be_seen.ogg"
   },
   "secretEmoji": {
     "name": "Kiriko",
     "emojis": "⛩️🐾🧃"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Taiga",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Zarya_Skin_Taiga.png"
+    "name": "Ana",
+    "skin_name": "A-7000 Wargod",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Ana_Skin_A-7000_Wargod.png"
   }
 }
