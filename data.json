@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Pharah",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Widowmaker: You claim you are skilled. That remains to be seen.*name*: What's that? You're hiding so far in the backline, I can barely hear you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Widowmaker_-_You_claim_you_are_skilled._That_remains_to_be_seen.ogg"
+    "name": "Soldier: 76",
+    "quote": "Behind you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Soldier_76_-_Behind_you.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "⛩️🐾🧃"
+    "name": "Brigitte",
+    "emojis": "🛡️🔧🐶"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "A-7000 Wargod",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Ana_Skin_A-7000_Wargod.png"
+    "name": "Sombra",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Sombra_Skin_Classic.png"
   }
 }
