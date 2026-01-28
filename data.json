@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "D.Va",
+    "role": "Tank",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "South Korea 🇰🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Behind you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Soldier_76_-_Behind_you.ogg"
+    "name": "Zarya",
+    "quote": "Do not let the enemy take the point!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Zarya_-_Do_not_let_the_enemy_take_the_point.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🛡️🔧🐶"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Sombra_Skin_Classic.png"
+    "name": "Pharah",
+    "skin_name": "Lifeguard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Pharah_Skin_Lifeguard.png"
   }
 }
