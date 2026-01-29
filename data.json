@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Do not let the enemy take the point!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Zarya_-_Do_not_let_the_enemy_take_the_point.ogg"
+    "name": "Lucio",
+    "quote": "And, slide!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/L%C3%BAcio_-_And_slide.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "Ramattra",
+    "emojis": "🕉️🦾⚔️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Lifeguard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Pharah_Skin_Lifeguard.png"
+    "name": "Ashe",
+    "skin_name": "Faye Valentine",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Ashe_Skin_Faye_Valentine.png"
   }
 }
