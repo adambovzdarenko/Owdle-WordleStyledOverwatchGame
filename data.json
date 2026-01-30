@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "And, slide!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/L%C3%BAcio_-_And_slide.ogg"
+    "name": "Roadhog",
+    "quote": "*name*:Cutemech.D.Va:Cute hook!*name*:Heh.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Roadhog_-_Cute_mech.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🕉️🦾⚔️"
+    "name": "Junkrat",
+    "emojis": "🔥🦴🏚️"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Faye Valentine",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Ashe_Skin_Faye_Valentine.png"
+    "name": "Winston",
+    "skin_name": "Catcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
   }
 }
