@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "*name*:Cutemech.D.Va:Cute hook!*name*:Heh.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Roadhog_-_Cute_mech.ogg"
+    "name": "Tracer",
+    "quote": "All in a day's work!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Tracer_-_All_in_a_day%27s_work.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "🔥🦴🏚️"
+    "name": "Venture",
+    "emojis": "🛠️⛏️🌍"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Catcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
+    "name": "Doomfist",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
   }
 }
