@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
+    "name": "Winston",
+    "role": "Tank",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "All in a day's work!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Tracer_-_All_in_a_day%27s_work.ogg"
+    "name": "Roadhog",
+    "quote": "Cyclops style.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Roadhog_-_Cyclops_style.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "🛠️⛏️🌍"
+    "name": "Echo",
+    "emojis": "🦋🔊🤖"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Deep Sea",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Wrecking_Ball_Skin_Deep_Sea.png"
   }
 }
