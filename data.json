@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
-    "role": "Tank",
+    "name": "Echo",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Gorilla",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "Cyclops style.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Roadhog_-_Cyclops_style.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "(crushed sounds)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Cassidy_-_%28crushed_sounds%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🦋🔊🤖"
+    "name": "Sigma",
+    "emojis": "🧪🚀🛏️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Deep Sea",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Wrecking_Ball_Skin_Deep_Sea.png"
+    "name": "Mei",
+    "skin_name": "Earthen",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mei_Skin_Earthen.png"
   }
 }
