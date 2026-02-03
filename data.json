@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Netherlands 🇳🇱",
     "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "(crushed sounds)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Cassidy_-_%28crushed_sounds%29_%281%29.ogg"
+    "name": "Reaper",
+    "quote": "Sniper.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Reaper_-_Sniper.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🧪🚀🛏️"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Earthen",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mei_Skin_Earthen.png"
+    "name": "Torbjörn",
+    "skin_name": "Captain",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Torbj%C3%B6rn_Skin_Captain.png"
   }
 }
