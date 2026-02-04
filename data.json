@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
+    "name": "Sombra",
+    "role": "Damage",
     "affiliation": "Talon",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Mexico 🇲🇽",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Sniper.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Reaper_-_Sniper.ogg"
+    "name": "Junker Queen",
+    "quote": "Cannon's about to fall apart!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Junker_Queen_-_Cannon%27s_about_to_fall_apart.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Mercy",
+    "emojis": "🏥🪄🔋"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Captain",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Torbj%C3%B6rn_Skin_Captain.png"
+    "name": "Pharah",
+    "skin_name": "Bedouin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Pharah_Skin_Bedouin.png"
   }
 }
