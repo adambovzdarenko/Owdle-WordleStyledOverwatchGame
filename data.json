@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
+    "name": "Sigma",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Cannon's about to fall apart!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Junker_Queen_-_Cannon%27s_about_to_fall_apart.ogg"
+    "name": "Sombra",
+    "quote": "Enemy turret destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Sombra_-_Enemy_turret_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "🏥🪄🔋"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Bedouin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Pharah_Skin_Bedouin.png"
+    "name": "Zenyatta",
+    "skin_name": "Zhuge Liang",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Zenyatta_Skin_Zhuge_Liang.png"
   }
 }
