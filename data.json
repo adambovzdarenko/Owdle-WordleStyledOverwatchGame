@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Defend the payload or they will take it from us!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Ramattra_-_Defend_the_payload_or_they_will_take_it_from_us.ogg"
+    "name": "Junkrat",
+    "quote": "Did I hear a Stalker?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Junkrat_-_Did_I_hear_a_Stalker.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "name": "D.Va",
+    "emojis": "👾🚀💥"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Antifragile Slay Star",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Sombra_Skin_Antifragile_Slay_Star.png"
+    "name": "Pharah",
+    "skin_name": "Carbon Fiber",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Pharah_Skin_Carbon_Fiber.png"
   }
 }
