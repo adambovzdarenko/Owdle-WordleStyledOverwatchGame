@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Pharah",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Did I hear a Stalker?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Junkrat_-_Did_I_hear_a_Stalker.ogg"
+    "name": "Kiriko",
+    "quote": "*name*: \"Swift as the wind\", huh, Genji?Genji: Even swifter, thanks to you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Kiriko_-_Swift_as_the_wind%2C_huh%2C_Genji.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "👾🚀💥"
+    "name": "Mercy",
+    "emojis": "👼🩺💛"
   },
   "secretSkin": {
-    "name": "Pharah",
+    "name": "Echo",
     "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Pharah_Skin_Carbon_Fiber.png"
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Echo_Skin_Carbon_Fiber.png"
   }
 }
