@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "*name*: \"Swift as the wind\", huh, Genji?Genji: Even swifter, thanks to you.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Kiriko_-_Swift_as_the_wind%2C_huh%2C_Genji.ogg"
+    "name": "Reaper",
+    "quote": "Fall in line, mortals.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Reaper_-_Fall_in_line%2C_mortals.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "👼🩺💛"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Echo_Skin_Carbon_Fiber.png"
+    "name": "Sigma",
+    "skin_name": "Galactic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Sigma_Skin_Galactic.png"
   }
 }
