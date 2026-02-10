@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
-    "role": "Support",
-    "affiliation": "Shambali",
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
     "gender": "Male",
     "species": "Omnic",
     "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2016
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Fall in line, mortals.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Reaper_-_Fall_in_line%2C_mortals.ogg"
+    "name": "Soldier: 76",
+    "quote": "*name*: Ha! Up top, Doctor!Sigma: Hm? Up where?*name*: Too slow! Um... never mind...",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Soldier_76_-_Ha%21_Up_top%2C_Doctor.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Roadhog",
+    "emojis": "⛓️🚬🦴"
   },
   "secretSkin": {
-    "name": "Sigma",
-    "skin_name": "Galactic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Sigma_Skin_Galactic.png"
+    "name": "Torbjörn",
+    "skin_name": "Viking",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Torbj%C3%B6rn_Skin_Viking.png"
   }
 }
