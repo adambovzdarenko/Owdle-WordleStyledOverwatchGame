@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "*name*: Ha! Up top, Doctor!Sigma: Hm? Up where?*name*: Too slow! Um... never mind...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Soldier_76_-_Ha%21_Up_top%2C_Doctor.ogg"
+    "name": "Mei",
+    "quote": "I tried my best.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Mei_-_I_tried_my_best.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "⛓️🚬🦴"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Viking",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Torbj%C3%B6rn_Skin_Viking.png"
+    "name": "Mauga",
+    "skin_name": "Jet Black",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Mauga_Skin_Jet_Black.png"
   }
 }
