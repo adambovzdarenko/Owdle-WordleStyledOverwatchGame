@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "species": "Human",
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "I tried my best.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Mei_-_I_tried_my_best.ogg"
+    "name": "Symmetra",
+    "quote": "Our efforts yield progress!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Symmetra_-_Our_efforts_yield_progress.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Jet Black",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Mauga_Skin_Jet_Black.png"
+    "name": "Juno",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png"
   }
 }
