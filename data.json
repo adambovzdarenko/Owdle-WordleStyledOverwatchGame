@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "name": "Bastion",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Our efforts yield progress!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Symmetra_-_Our_efforts_yield_progress.ogg"
+    "name": "Mei",
+    "quote": "(gasps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Mei_-_%28gasps%29.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Hanzo",
+    "emojis": "🌀🧘‍♂️⛰️"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png"
+    "name": "Pharah",
+    "skin_name": "Dragon Hunter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Pharah_Skin_Dragon_Hunter.png"
   }
 }
