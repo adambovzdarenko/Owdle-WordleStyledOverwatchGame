@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Torbjörn",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
+    "species": "Human",
     "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "(gasps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Mei_-_%28gasps%29.ogg"
+    "name": "Torbjörn",
+    "quote": "(screams)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Torbj%C3%B6rn_-_%28screams%29_%284%29.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "Pharah",
+    "emojis": "🦅💥🛡️"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Dragon Hunter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Pharah_Skin_Dragon_Hunter.png"
+    "name": "Reaper",
+    "skin_name": "Cursed Captain",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Reaper_Skin_Cursed_Captain.png"
   }
 }
