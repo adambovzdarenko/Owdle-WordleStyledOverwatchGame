@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
+    "name": "Pharah",
     "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "(screams)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Torbj%C3%B6rn_-_%28screams%29_%284%29.ogg"
+    "name": "Junker Queen",
+    "quote": "Any last words?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Junker_Queen_-_Any_last_words.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🦅💥🛡️"
+    "name": "Mercy",
+    "emojis": "👼🩺💛"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Cursed Captain",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Reaper_Skin_Cursed_Captain.png"
+    "name": "Zarya",
+    "skin_name": "Goldenrod",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Zarya_Skin_Goldenrod.png"
   }
 }
