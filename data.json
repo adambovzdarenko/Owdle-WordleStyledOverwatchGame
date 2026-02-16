@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "Freja",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Any last words?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Junker_Queen_-_Any_last_words.ogg"
+    "name": "Soldier: 76",
+    "quote": "I've been doing this for years. Who the hell are you?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Soldier_76_-_I%27ve_been_doing_this_for_years._Who_the_hell_are_you.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "👼🩺💛"
+    "name": "Mei",
+    "emojis": "❄️🧊🐧"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Goldenrod",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Zarya_Skin_Goldenrod.png"
+    "name": "Kiriko",
+    "skin_name": "Himiko Toga",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Kiriko_Skin_Himiko_Toga.png"
   }
 }
