@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Genji",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "I've been doing this for years. Who the hell are you?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Soldier_76_-_I%27ve_been_doing_this_for_years._Who_the_hell_are_you.ogg"
+    "name": "Mei",
+    "quote": "Yes.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Mei_-_Yes.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "❄️🧊🐧"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Himiko Toga",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Kiriko_Skin_Himiko_Toga.png"
+    "name": "Bastion",
+    "skin_name": "Pumpkin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Bastion_Skin_Pumpkin.png"
   }
 }
