@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Yes.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Mei_-_Yes.ogg"
+    "name": "Juno",
+    "quote": "Many thanks!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Juno_-_Many_thanks.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Zarya",
+    "emojis": "🎖️🛡️🌸"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Pumpkin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Bastion_Skin_Pumpkin.png"
+    "name": "Reaper",
+    "skin_name": "Soldier: 24",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Soldier_24.png"
   }
 }
