@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Many thanks!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Juno_-_Many_thanks.ogg"
+    "name": "Bastion",
+    "quote": "(excited, aggressive beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Bastion_-_%28excited%2C_aggressive_beeps%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🎖️🛡️🌸"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Soldier: 24",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reaper_Skin_Soldier_24.png"
+    "name": "D.Va",
+    "skin_name": "2020 Pacific All-Stars",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/D.Va_Skin_2020_Pacific_All-Stars.png"
   }
 }
