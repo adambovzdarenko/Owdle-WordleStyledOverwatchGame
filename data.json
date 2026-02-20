@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(excited, aggressive beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Bastion_-_%28excited%2C_aggressive_beeps%29_%281%29.ogg"
+    "name": "Orisa",
+    "quote": "Mei: Have you gottenbigger, *name*?*name*: My dimensions have not changed. Does the javelin make me look taller?Mei: A little. But I still think you're just as cute as before!*name*: Oh! That is... thank you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Mei_-_Have_you_gotten_bigger%2C_Orisa.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "2020 Pacific All-Stars",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/D.Va_Skin_2020_Pacific_All-Stars.png"
+    "name": "Bastion",
+    "skin_name": "Gingerbread (1)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Bastion_Skin_Gingerbread.png"
   }
 }
