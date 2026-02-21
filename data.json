@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
+    "name": "Junkrat",
+    "role": "Damage",
     "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Mei: Have you gottenbigger, *name*?*name*: My dimensions have not changed. Does the javelin make me look taller?Mei: A little. But I still think you're just as cute as before!*name*: Oh! That is... thank you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Mei_-_Have_you_gotten_bigger%2C_Orisa.ogg"
+    "name": "Soldier: 76",
+    "quote": "Prepare to be boarded.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Soldier_76_-_Prepare_to_be_boarded.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Gingerbread (1)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Bastion_Skin_Gingerbread.png"
+    "name": "Mauga",
+    "skin_name": "Jet Black",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Mauga_Skin_Jet_Black.png"
   }
 }
