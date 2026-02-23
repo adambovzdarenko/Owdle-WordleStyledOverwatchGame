@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Lifeweaver: You're so old-fashioned, Reinhardt. A hammer? How marvelous!Reinhardt: I suppose you think I should have a giant laser gun.Lifeweaver: No, lean into it! Get Lindholm to build you one of his bigrobotic horses.*name*: What did you just say?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Lifeweaver_-_You%27re_so_old-fashioned%2C_Reinhardt._A_hammer%21_How_marvelous.ogg"
+    "name": "Sombra",
+    "quote": "In my world, there are no secrets.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Sombra_-_In_my_world%2C_there_are_no_secrets.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🏋️‍♀️🟣🔥"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Ashe_Skin_Classic.png"
+    "name": "Junkrat",
+    "skin_name": "Jailbird",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Junkrat_Skin_Jailbird.png"
   }
 }
