@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Echo",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "In my world, there are no secrets.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Sombra_-_In_my_world%2C_there_are_no_secrets.ogg"
+    "name": "Junkrat",
+    "quote": "Flag's going back to base!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Junkrat_-_Flag%27s_going_back_to_base.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "🦾🛡️🦒"
+    "name": "Junkrat",
+    "emojis": "😂💥🧺"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Jailbird",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Junkrat_Skin_Jailbird.png"
+    "name": "Sombra",
+    "skin_name": "Oro",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Sombra_Skin_Oro.png"
   }
 }
