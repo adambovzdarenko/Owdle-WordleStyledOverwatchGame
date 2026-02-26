@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Hazard",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Phreaks",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Hold it together, hold it together...!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Sigma_-_Hold_it_together%2C_hold_it_together.ogg"
+    "name": "Reaper",
+    "quote": "Busy day.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Reaper_-_Busy_day.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🔧🏗️🐻"
+    "name": "Hanzo",
+    "emojis": "🌀🧘‍♂️⛰️"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Blå",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Torbj%C3%B6rn_Skin_Bl%C3%A5.png"
+    "name": "Tracer",
+    "skin_name": "Hot Pink",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Tracer_Skin_Hot_Pink.png"
   }
 }
