@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Busy day.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Reaper_-_Busy_day.ogg"
+    "name": "Genji",
+    "quote": "Help me! I cannot escape!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Genji_-_Help_me%21_I_cannot_escape.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "Ashe",
+    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Hot Pink",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Tracer_Skin_Hot_Pink.png"
+    "name": "Reaper",
+    "skin_name": "Tiger Luchador",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Reaper_Skin_Tiger_Luchador.png"
   }
 }
