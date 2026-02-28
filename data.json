@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Help me! I cannot escape!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Genji_-_Help_me%21_I_cannot_escape.ogg"
+    "name": "Sombra",
+    "quote": "Taken care of.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Sombra_-_Taken_care_of.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
+    "name": "Brigitte",
+    "emojis": "🦾👩‍🔧🦁"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Tiger Luchador",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Reaper_Skin_Tiger_Luchador.png"
+    "name": "Lifeweaver",
+    "skin_name": "Synthwave",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Synthwave.png"
   }
 }
