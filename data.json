@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
+    "name": "Zarya",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Taken care of.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Sombra_-_Taken_care_of.ogg"
+    "name": "Tracer",
+    "quote": "Outnumbered. Careful!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Tracer_-_Outnumbered._Careful.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🦾👩‍🔧🦁"
+    "name": "Hazard",
+    "emojis": "🧤🧪🔧"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Synthwave",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Synthwave.png"
+    "name": "Hazard",
+    "skin_name": "OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Hazard_Skin_OWCS.png"
   }
 }
