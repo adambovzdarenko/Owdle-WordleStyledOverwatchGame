@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
+    "name": "D.Va",
     "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "affiliation": "MEKA / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "South Korea 🇰🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "Outnumbered. Careful!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Tracer_-_Outnumbered._Careful.ogg"
+    "name": "Ana",
+    "quote": "Hm. Impressive!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Ana_-_Hm._Impressive.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🧤🧪🔧"
+    "name": "Kiriko",
+    "emojis": "🗻💨🍡"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Hazard_Skin_OWCS.png"
+    "name": "Ashe",
+    "skin_name": "Winter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Ashe_Skin_Winter.png"
   }
 }
