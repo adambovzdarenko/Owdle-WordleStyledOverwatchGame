@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
     "gender": "Female",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Hm. Impressive!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Ana_-_Hm._Impressive.ogg"
+    "name": "Ramattra",
+    "quote": "Do not let them take what is ours!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Ramattra_-_Do_not_let_them_take_what_is_ours.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "🗻💨🍡"
+    "name": "Roadhog",
+    "emojis": "😶💤💥"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Winter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Ashe_Skin_Winter.png"
+    "name": "Ana",
+    "skin_name": "Tal",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Ana_Skin_Tal.png"
   }
 }
