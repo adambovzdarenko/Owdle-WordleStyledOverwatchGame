@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Do not let them take what is ours!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Ramattra_-_Do_not_let_them_take_what_is_ours.ogg"
+    "name": "Venture",
+    "quote": "My ultimate's charging!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Venture_-_My_ultimate%27s_charging.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "😶💤💥"
+    "name": "Pharah",
+    "emojis": "⛓️☁️⚔️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Tal",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Ana_Skin_Tal.png"
+    "name": "Junkrat",
+    "skin_name": "Hong Hai Er",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Junkrat_Skin_Hong_Hai_Er.png"
   }
 }
