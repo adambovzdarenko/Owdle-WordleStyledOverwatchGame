@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "My ultimate's charging!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Venture_-_My_ultimate%27s_charging.ogg"
+    "name": "Winston",
+    "quote": "Let's get the payload moving!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Winston_-_Let%27s_get_the_payload_moving.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "⛓️☁️⚔️"
+    "name": "Zenyatta",
+    "emojis": "🔮🕉️💭"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Hong Hai Er",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Junkrat_Skin_Hong_Hai_Er.png"
+    "name": "Juno",
+    "skin_name": "FEARLESS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
   }
 }
