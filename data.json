@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Let's get the payload moving!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Winston_-_Let%27s_get_the_payload_moving.ogg"
+    "name": "Torbjörn",
+    "quote": "Juno: Does your turret have a name?*name*: I... never considered giving it one.Juno: But you are always calling it your baby. I thought all babies had names.*name*: You've got a point! I'll have Brigitte come up with something.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Juno_-_Does_your_turret_have_a_name.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🔮🕉️💭"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "FEARLESS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
+    "name": "Roadhog",
+    "skin_name": "Toa",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Roadhog_Skin_Toa.png"
   }
 }
