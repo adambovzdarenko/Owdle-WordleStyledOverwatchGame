@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
+    "name": "Moira",
+    "role": "Support",
     "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Ireland 🇮🇪",
     "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Juno: Does your turret have a name?*name*: I... never considered giving it one.Juno: But you are always calling it your baby. I thought all babies had names.*name*: You've got a point! I'll have Brigitte come up with something.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Juno_-_Does_your_turret_have_a_name.ogg"
+    "name": "Reinhardt",
+    "quote": "Almost there! We must protect the robot at all costs!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Reinhardt_-_Almost_there%21_We_must_protect_the_robot_at_all_costs.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Genji",
+    "emojis": "🗡️🐉🧘‍♂️"
   },
   "secretSkin": {
     "name": "Roadhog",
-    "skin_name": "Toa",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Roadhog_Skin_Toa.png"
+    "skin_name": "Sand",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Roadhog_Skin_Sand.png"
   }
 }
