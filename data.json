@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "Almost there! We must protect the robot at all costs!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Reinhardt_-_Almost_there%21_We_must_protect_the_robot_at_all_costs.ogg"
+    "name": "Doomfist",
+    "quote": "Fliers overhead!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Doomfist_-_Fliers_overhead.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🗡️🐉🧘‍♂️"
+    "name": "Wrecking Ball",
+    "emojis": "🐹🔩⚙️"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Sand",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Roadhog_Skin_Sand.png"
+    "name": "Genji",
+    "skin_name": "Nihon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Genji_Skin_Nihon.png"
   }
 }
