@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "species": "Human",
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Fliers overhead!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Doomfist_-_Fliers_overhead.ogg"
+    "name": "Moira",
+    "quote": "The payload is in our care.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Moira_-_The_payload_is_in_our_care.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🐹🔩⚙️"
+    "name": "Lifeweaver",
+    "emojis": "🧘‍♂️✨📦"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Nihon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Genji_Skin_Nihon.png"
+    "name": "Zenyatta",
+    "skin_name": "Leaf",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Leaf.png"
   }
 }
