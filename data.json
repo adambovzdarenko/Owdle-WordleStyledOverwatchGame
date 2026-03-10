@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "The payload is in our care.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Moira_-_The_payload_is_in_our_care.ogg"
+    "name": "Bastion",
+    "quote": "Sombra: Did you know you have a locked storage drive?*name*:*inquisitive beeps*Sombra:*whistle*Good encryption. You should be proud.*name*:*proud beeps*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Sombra_-_Did_you_know_you_have_a_locked_storage_drive.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🧘‍♂️✨📦"
+    "name": "Winston",
+    "emojis": "🔬🛡️🍌"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Leaf",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Leaf.png"
+    "name": "Soldier: 76",
+    "skin_name": "Alpine: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
   }
 }
