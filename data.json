@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
     "name": "Bastion",
-    "quote": "Sombra: Did you know you have a locked storage drive?*name*:*inquisitive beeps*Sombra:*whistle*Good encryption. You should be proud.*name*:*proud beeps*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Sombra_-_Did_you_know_you_have_a_locked_storage_drive.ogg"
+    "quote": "(concentrating beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Bastion_-_%28concentrating_beeps%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🔬🛡️🍌"
+    "name": "Ashe",
+    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Alpine: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
+    "name": "D.Va",
+    "skin_name": "Gentle Tokki Fuchsia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/D.Va_Skin_Gentle_Tokki_Fuchsia.png"
   }
 }
