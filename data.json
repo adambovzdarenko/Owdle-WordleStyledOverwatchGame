@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
-    "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "name": "Winston",
+    "role": "Tank",
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(concentrating beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Bastion_-_%28concentrating_beeps%29_%281%29.ogg"
+    "name": "Sombra",
+    "quote": "Sigma: Hm? Ah, there you are, my friend!*name*: What, are you surprised to see me?Sigma: Well, it's not unlike you to disappear without warning.*name*: Someone has to keep you from wandering off!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Sigma_-_Ah%2C_there_you_are%2C_my_friend.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Gentle Tokki Fuchsia",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/D.Va_Skin_Gentle_Tokki_Fuchsia.png"
+    "name": "Doomfist",
+    "skin_name": "Cursed Warrior",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Doomfist_Skin_Cursed_Warrior.png"
   }
 }
