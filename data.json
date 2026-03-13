@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
-    "role": "Tank",
+    "name": "Echo",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Gorilla",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Sigma: Hm? Ah, there you are, my friend!*name*: What, are you surprised to see me?Sigma: Well, it's not unlike you to disappear without warning.*name*: Someone has to keep you from wandering off!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Sigma_-_Ah%2C_there_you_are%2C_my_friend.ogg"
+    "name": "Juno",
+    "quote": "Greetings!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Juno_-_Greetings.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🟣🪬☠️"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Cursed Warrior",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Doomfist_Skin_Cursed_Warrior.png"
+    "name": "Brigitte",
+    "skin_name": "Engineer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Brigitte_Skin_Engineer.png"
   }
 }
