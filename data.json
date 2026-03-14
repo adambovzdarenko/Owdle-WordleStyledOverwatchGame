@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Greetings!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Juno_-_Greetings.ogg"
+    "name": "Reinhardt",
+    "quote": "Come, the battlefront is moving!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Reinhardt_-_Come%2C_the_battlefront_is_moving.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Torbjörn",
+    "emojis": "🔧🏗️🐻"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Engineer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Brigitte_Skin_Engineer.png"
+    "name": "Ashe",
+    "skin_name": "Prosperity",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Ashe_Skin_Prosperity.png"
   }
 }
