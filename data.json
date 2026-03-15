@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "Come, the battlefront is moving!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Reinhardt_-_Come%2C_the_battlefront_is_moving.ogg"
+    "name": "Zenyatta",
+    "quote": "I like being near the ocean. It reminds me of where I was born.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Zenyatta_-_I_like_being_near_the_ocean._It_reminds_me_of_where_I_was_born.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🔧🏗️🐻"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Prosperity",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Ashe_Skin_Prosperity.png"
+    "name": "Kiriko",
+    "skin_name": "Idunn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Kiriko_Skin_Idunn.png"
   }
 }
