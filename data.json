@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
+    "name": "Winston",
     "role": "Tank",
-    "affiliation": "Null Sector",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "I like being near the ocean. It reminds me of where I was born.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Zenyatta_-_I_like_being_near_the_ocean._It_reminds_me_of_where_I_was_born.ogg"
+    "name": "Freja",
+    "quote": "Going in.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Freja_-_Going_in.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Idunn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Kiriko_Skin_Idunn.png"
+    "name": "Soldier: 76",
+    "skin_name": "Alpine: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
   }
 }
