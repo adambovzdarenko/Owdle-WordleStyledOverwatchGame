@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
+    "name": "Zarya",
     "role": "Tank",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Gorilla",
-    "nationality": "United States 🇺🇸",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Going in.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Freja_-_Going_in.ogg"
+    "name": "Soldier: 76",
+    "quote": "Careful, there's more of them than us.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Soldier_76_-_Careful%2C_there%27s_more_of_them_than_us.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🛡️💣🎶"
+    "name": "Orisa",
+    "emojis": "⚙️🟡🌍"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Alpine: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
+    "name": "Sojourn",
+    "skin_name": "Commando",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Sojourn_Skin_Commando.png"
   }
 }
