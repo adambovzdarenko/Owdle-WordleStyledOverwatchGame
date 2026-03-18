@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
+    "name": "Orisa",
     "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Russia 🇷🇺",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Careful, there's more of them than us.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Soldier_76_-_Careful%2C_there%27s_more_of_them_than_us.ogg"
+    "name": "Genji",
+    "quote": "Dragonblade",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Genji_-_%28Japanese%29_Take_the_blade_of_the_white_tiger.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "⚙️🟡🌍"
+    "name": "Reaper",
+    "emojis": "💀🌫️🕶️"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Commando",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Sojourn_Skin_Commando.png"
+    "name": "Illari",
+    "skin_name": "Shadowchild",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
   }
 }
