@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "France 🇫🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Dragonblade",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Genji_-_%28Japanese%29_Take_the_blade_of_the_white_tiger.ogg"
+    "name": "Brigitte",
+    "quote": "Come here, I'll heal you up!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Brigitte_-_Come_here%2C_I%27ll_heal_you_up.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Junker Queen",
+    "emojis": "🩸⚔️🧿"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Shadowchild",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
+    "name": "Mei",
+    "skin_name": "Cartographer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Mei_Skin_Cartographer.png"
   }
 }
