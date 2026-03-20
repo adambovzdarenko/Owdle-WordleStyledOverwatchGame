@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
+    "name": "Pharah",
     "role": "Damage",
-    "affiliation": "Talon",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "France 🇫🇷",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Come here, I'll heal you up!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Brigitte_-_Come_here%2C_I%27ll_heal_you_up.ogg"
+    "name": "Orisa",
+    "quote": "Do not move.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Orisa_-_Do_not_move.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🩸⚔️🧿"
+    "name": "McCree / Cassidy",
+    "emojis": "🌵🛠️🐍"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Cartographer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Mei_Skin_Cartographer.png"
+    "name": "Sojourn",
+    "skin_name": "Firefighter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
   }
 }
