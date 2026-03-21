@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Do not move.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Orisa_-_Do_not_move.ogg"
+    "name": "Kiriko",
+    "quote": "The stars have aligned!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Kiriko_-_The_stars_have_aligned.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🌵🛠️🐍"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Firefighter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
+    "name": "Zarya",
+    "skin_name": "Midnight",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Zarya_Skin_Midnight.png"
   }
 }
