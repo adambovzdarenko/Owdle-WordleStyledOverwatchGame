@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "name": "Mercy",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "The stars have aligned!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Kiriko_-_The_stars_have_aligned.ogg"
+    "name": "Bastion",
+    "quote": "(worried beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Bastion_-_%28worried_beeps%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Midnight",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Zarya_Skin_Midnight.png"
+    "name": "D.Va",
+    "skin_name": "B.Va",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/D.Va_Skin_B.Va.png"
   }
 }
