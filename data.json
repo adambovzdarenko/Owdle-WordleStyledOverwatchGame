@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
+    "name": "Soldier: 76",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(worried beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Bastion_-_%28worried_beeps%29_%281%29.ogg"
+    "name": "Lifeweaver",
+    "quote": "Enemy revived! Oh dear.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Lifeweaver_-_Enemy_revived%21_Oh_dear.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "B.Va",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/D.Va_Skin_B.Va.png"
+    "name": "Symmetra",
+    "skin_name": "Oasis",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Symmetra_Skin_Oasis.png"
   }
 }
