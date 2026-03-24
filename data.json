@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Lifeweaver",
-    "quote": "Enemy revived! Oh dear.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Lifeweaver_-_Enemy_revived%21_Oh_dear.ogg"
+    "name": "Genji",
+    "quote": "Hero Selected",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Genji_-_%28Japanese%29_Death_comes_to_those_who_wish_for_it.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Junker Queen",
+    "emojis": "🐀🏋️‍♀️💉"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Oasis",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Symmetra_Skin_Oasis.png"
+    "name": "Sojourn",
+    "skin_name": "Witchbane",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Sojourn_Skin_Witchbane.png"
   }
 }
