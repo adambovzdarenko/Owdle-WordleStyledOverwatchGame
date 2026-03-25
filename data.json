@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "name": "Pharah",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Hero Selected",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Genji_-_%28Japanese%29_Death_comes_to_those_who_wish_for_it.ogg"
+    "name": "Pharah",
+    "quote": "Breacher on the approach!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Pharah_-_Breacher_on_the_approach.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🐀🏋️‍♀️💉"
+    "name": "Tracer",
+    "emojis": "⚡🕒🇬🇧"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Witchbane",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Sojourn_Skin_Witchbane.png"
+    "name": "Kiriko",
+    "skin_name": "Bai Ze",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Kiriko_Skin_Bai_Ze.png"
   }
 }
