@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Breacher on the approach!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Pharah_-_Breacher_on_the_approach.ogg"
+    "name": "Reinhardt",
+    "quote": "Don't thank me. Put it on my tab.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Reinhardt_-_Don%27t_thank_me._Put_it_on_my_tab.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "⚡🕒🇬🇧"
+    "name": "Junker Queen",
+    "emojis": "🩸⚔️🧿"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Bai Ze",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Kiriko_Skin_Bai_Ze.png"
+    "name": "D.Va",
+    "skin_name": "Rosy Hanbok",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/D.Va_Skin_Rosy_Hanbok.png"
   }
 }
