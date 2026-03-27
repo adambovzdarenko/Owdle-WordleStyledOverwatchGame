@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "Don't thank me. Put it on my tab.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Reinhardt_-_Don%27t_thank_me._Put_it_on_my_tab.ogg"
+    "name": "Juno",
+    "quote": "They are catching up to us!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Juno_-_They_are_catching_up_to_us.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🩸⚔️🧿"
+    "name": "Echo",
+    "emojis": "☁️🪶💫"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Rosy Hanbok",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/D.Va_Skin_Rosy_Hanbok.png"
+    "name": "Junker Queen",
+    "skin_name": "Necrotic Witch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Junker_Queen_Skin_Necrotic_Witch.png"
   }
 }
