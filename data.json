@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "They are catching up to us!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Juno_-_They_are_catching_up_to_us.ogg"
+    "name": "Roadhog",
+    "quote": "Welcome to the apocalypse.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Roadhog_-_Welcome_to_the_apocalypse.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "☁️🪶💫"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Necrotic Witch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Junker_Queen_Skin_Necrotic_Witch.png"
+    "name": "Pharah",
+    "skin_name": "Porsche",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Pharah_Skin_Porsche.png"
   }
 }
