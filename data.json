@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "Welcome to the apocalypse.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Roadhog_-_Welcome_to_the_apocalypse.ogg"
+    "name": "Bastion",
+    "quote": "(sad, hurt beeps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Bastion_-_%28sad%2C_hurt_beeps%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Baptiste",
+    "emojis": "🛡️📦💊"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Porsche",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Pharah_Skin_Porsche.png"
+    "name": "Tracer",
+    "skin_name": "Nezha",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Tracer_Skin_Nezha.png"
   }
 }
