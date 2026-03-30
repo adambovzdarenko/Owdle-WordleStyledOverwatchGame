@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "(sad, hurt beeps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Bastion_-_%28sad%2C_hurt_beeps%29_%281%29.ogg"
+    "name": "Brigitte",
+    "quote": "That bridge collapsed from a little explosion? Seems like bad engineering to me.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Brigitte_-_That_bridge_collapsed_from_a_little_explosion._Seems_like_bad_engineering_to_me.ogg"
   },
   "secretEmoji": {
     "name": "Baptiste",
-    "emojis": "🛡️📦💊"
+    "emojis": "🎯👓☀️"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Nezha",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Tracer_Skin_Nezha.png"
+    "name": "Orisa",
+    "skin_name": "Immortal",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Orisa_Skin_Immortal.png"
   }
 }
