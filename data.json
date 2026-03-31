@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
+    "name": "Kiriko",
     "role": "Support",
-    "affiliation": "The Collective",
-    "gender": "Male",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "That bridge collapsed from a little explosion? Seems like bad engineering to me.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Brigitte_-_That_bridge_collapsed_from_a_little_explosion._Seems_like_bad_engineering_to_me.ogg"
+    "name": "Mercy",
+    "quote": "A Stalker is hunting us.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Mercy_-_A_Stalker_is_hunting_us.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🎯👓☀️"
+    "name": "Ana",
+    "emojis": "🎯💤🧕"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Immortal",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Orisa_Skin_Immortal.png"
+    "name": "Zarya",
+    "skin_name": "Xuanwu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Zarya_Skin_Xuanwu.png"
   }
 }
