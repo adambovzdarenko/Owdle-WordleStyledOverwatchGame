@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "name": "Sojourn",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "A Stalker is hunting us.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Mercy_-_A_Stalker_is_hunting_us.ogg"
+    "name": "Ashe",
+    "quote": "Ain't nobody in twelve parsecs can beat me.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Ashe_-_Ain%27t_nobody_in_twelve_parsecs_can_beat_me.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🎯💤🧕"
+    "name": "Junkrat",
+    "emojis": "💣😜🧨"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Xuanwu",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Zarya_Skin_Xuanwu.png"
+    "name": "Winston",
+    "skin_name": "Monkey Business",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Winston_Skin_Monkey_Business.png"
   }
 }
