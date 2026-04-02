@@ -9,17 +9,17 @@
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Ain't nobody in twelve parsecs can beat me.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Ashe_-_Ain%27t_nobody_in_twelve_parsecs_can_beat_me.ogg"
+    "name": "Sigma",
+    "quote": "Go!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Sigma_-_Go.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "💣😜🧨"
+    "name": "Pharah",
+    "emojis": "🦅💥🛡️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Monkey Business",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Winston_Skin_Monkey_Business.png"
+    "name": "Symmetra",
+    "skin_name": "Saffron",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Symmetra_Skin_Saffron.png"
   }
 }
