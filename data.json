@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
     "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Go!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Sigma_-_Go.ogg"
+    "name": "Lucio",
+    "quote": "I love these cars! Wonder if they'd let me drive one.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/L%C3%BAcio_-_I_love_these_cars._Wonder_if_they%27d_let_me_drive_one.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🦅💥🛡️"
+    "name": "Sigma",
+    "emojis": "🔮🌌🧠"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Saffron",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Symmetra_Skin_Saffron.png"
+    "name": "Baptiste",
+    "skin_name": "Talon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Baptiste_Skin_Talon.png"
   }
 }
