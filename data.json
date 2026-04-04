@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
+    "name": "Sigma",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "I love these cars! Wonder if they'd let me drive one.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/L%C3%BAcio_-_I_love_these_cars._Wonder_if_they%27d_let_me_drive_one.ogg"
+    "name": "Junkrat",
+    "quote": "*growls*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Junkrat_-_%28growls%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🔮🌌🧠"
+    "name": "Baptiste",
+    "emojis": "🧴💉🩹"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Talon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Baptiste_Skin_Talon.png"
+    "name": "Juno",
+    "skin_name": "Saturn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Saturn.png"
   }
 }
