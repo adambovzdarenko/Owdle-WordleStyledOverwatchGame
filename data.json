@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "Winston",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "*growls*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Junkrat_-_%28growls%29_%281%29.ogg"
+    "name": "Mei",
+    "quote": "Soldier: 76: Dr. Zhou. DidCaptain Oparamake it back as well?*name*: I'm afraid not.Soldier: 76: *sigh* He was a good man.*name*: He thought the same about you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Soldier_76_-_Dr._Zhou._Did_Captain_Opara_make_it_back_as_well.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🧴💉🩹"
+    "name": "Reinhardt",
+    "emojis": "⚒️⚔️🦾"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Saturn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Saturn.png"
+    "name": "Soldier: 76",
+    "skin_name": "Biker: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/S76_Skin_Biker.png"
   }
 }
