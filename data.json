@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
-    "role": "Tank",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Gorilla",
-    "nationality": "United States 🇺🇸",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Soldier: 76: Dr. Zhou. DidCaptain Oparamake it back as well?*name*: I'm afraid not.Soldier: 76: *sigh* He was a good man.*name*: He thought the same about you.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Soldier_76_-_Dr._Zhou._Did_Captain_Opara_make_it_back_as_well.ogg"
+    "name": "Zarya",
+    "quote": "Artillery! Get down!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Zarya_-_Artillery%21_Get_down.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "⚒️⚔️🦾"
+    "name": "Reaper",
+    "emojis": "🔥💣🖤"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Biker: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/S76_Skin_Biker.png"
+    "name": "Doomfist",
+    "skin_name": "General",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Doomfist_Skin_General.png"
   }
 }
