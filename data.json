@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Artillery! Get down!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Zarya_-_Artillery%21_Get_down.ogg"
+    "name": "Widowmaker",
+    "quote": "I knew you'd look at me.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Widowmaker_-_I_knew_you%27d_look_at_me.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🔥💣🖤"
+    "name": "Tracer",
+    "emojis": "⚡🕒🇬🇧"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "General",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Doomfist_Skin_General.png"
+    "name": "Symmetra",
+    "skin_name": "Architech",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Symmetra_Skin_Architech.png"
   }
 }
