@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Illari",
+    "role": "Support",
+    "affiliation": "Inti Warriors",
     "gender": "Female",
     "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "I knew you'd look at me.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Widowmaker_-_I_knew_you%27d_look_at_me.ogg"
+    "name": "Ana",
+    "quote": "(Arabic: Do not give up now!)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Ana_-_%28Arabic%29_Do_not_give_up_now.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "⚡🕒🇬🇧"
+    "name": "McCree / Cassidy",
+    "emojis": "🤠🔫🕰️"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Architech",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Symmetra_Skin_Architech.png"
+    "name": "Soldier: 76",
+    "skin_name": "Infinite Guard: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
   }
 }
