@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
-    "gender": "Female",
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "(Arabic: Do not give up now!)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Ana_-_%28Arabic%29_Do_not_give_up_now.ogg"
+    "name": "Junkrat",
+    "quote": "Flag's going back to base!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Junkrat_-_Flag%27s_going_back_to_base.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🤠🔫🕰️"
+    "name": "Reaper",
+    "emojis": "🔥💣🖤"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Infinite Guard: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/S76_Skin_Infinite_Guard.png"
+    "name": "Echo",
+    "skin_name": "Good and Evil",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Echo_Skin_Good_and_Evil.png"
   }
 }
