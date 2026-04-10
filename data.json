@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
-    "role": "Damage",
-    "affiliation": "Junkers",
+    "name": "Reinhardt",
+    "role": "Tank",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Flag's going back to base!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Junkrat_-_Flag%27s_going_back_to_base.ogg"
+    "name": "Tracer",
+    "quote": "Don't know when to stop, do ya?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Tracer_-_Don%27t_know_when_to_stop%2C_do_you.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🔥💣🖤"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Good and Evil",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Echo_Skin_Good_and_Evil.png"
+    "name": "Junkrat",
+    "skin_name": "Bilgerat",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Junkrat_Skin_Bilgerat.png"
   }
 }
