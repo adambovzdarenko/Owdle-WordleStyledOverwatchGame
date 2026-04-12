@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Someone call the ambulance.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Cassidy_-_Someone_call_the_ambulance.ogg"
+    "name": "Sombra",
+    "quote": "I wonder what the landlord's password is. Hah...*tch tch*So simple! Let's change that for you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Sombra_-_I_wonder_what_the_landlord%27s_password_is._%28tch_tch%29_So_simple%21_Let%27s_change_that_for_you.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "⚒️⚔️🦾"
+    "name": "Hanzo",
+    "emojis": "🏹🐉👹"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Amethyst",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Pharah_Skin_Amethyst.png"
+    "name": "Sombra",
+    "skin_name": "Azúcar",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sombra_Skin_Az%C3%BAcar.png"
   }
 }
