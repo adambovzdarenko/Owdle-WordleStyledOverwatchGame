@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "I wonder what the landlord's password is. Hah...*tch tch*So simple! Let's change that for you.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Sombra_-_I_wonder_what_the_landlord%27s_password_is._%28tch_tch%29_So_simple%21_Let%27s_change_that_for_you.ogg"
+    "name": "Lucio",
+    "quote": "Don't give up! The objective's still standing!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/L%C3%BAcio_-_Don%27t_give_up%21_The_objective%27s_still_standing.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🏹🐉👹"
+    "name": "Junkrat",
+    "emojis": "😂💥🧺"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Azúcar",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sombra_Skin_Az%C3%BAcar.png"
+    "name": "Winston",
+    "skin_name": "Undersea",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Winston_Skin_Undersea.png"
   }
 }
