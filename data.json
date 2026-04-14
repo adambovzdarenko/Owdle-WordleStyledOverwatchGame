@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Don't give up! The objective's still standing!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/L%C3%BAcio_-_Don%27t_give_up%21_The_objective%27s_still_standing.ogg"
+    "name": "Mei",
+    "quote": "Loading In",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Mei_%28Announcer%29_-_Time_for_Mischief_and_Magic.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "😂💥🧺"
+    "name": "Echo",
+    "emojis": "🔵📡🎶"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Undersea",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Winston_Skin_Undersea.png"
+    "name": "Kiriko",
+    "skin_name": "Oni",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Kiriko_Skin_Oni.png"
   }
 }
