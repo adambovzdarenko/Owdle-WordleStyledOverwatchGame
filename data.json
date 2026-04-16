@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Bob! Do somethin'!(self and hostile)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Ashe_-_Bob%21_Do_something_%281%29.ogg"
+    "name": "Moira",
+    "quote": "*laughs*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Moira_-_%28laughs%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🇺🇸🎯👴"
+    "name": "Reinhardt",
+    "emojis": "🇩🇪🦁🛠️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Red Planet",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Winston_Skin_Red_Planet.png"
+    "name": "Moira",
+    "skin_name": "Overwatch League Gray",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Moira_Skin_Overwatch_League_Gray.png"
   }
 }
