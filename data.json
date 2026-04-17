@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
-    "gender": "Female",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "*laughs*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Moira_-_%28laughs%29_%281%29.ogg"
+    "name": "Junkrat",
+    "quote": "Can't put me down. Or my pals. We just get back up!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Junkrat_-_Can%27t_put_me_down._Or_my_pals._We_just_get_back_up.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🇩🇪🦁🛠️"
+    "name": "Venture",
+    "emojis": "🛠️⛏️🌍"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Overwatch League Gray",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Moira_Skin_Overwatch_League_Gray.png"
+    "name": "Orisa",
+    "skin_name": "Reindeer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Orisa_Skin_Reindeer.png"
   }
 }
