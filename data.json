@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
+    "name": "D.Va",
     "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "affiliation": "MEKA / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "South Korea 🇰🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Can't put me down. Or my pals. We just get back up!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Junkrat_-_Can%27t_put_me_down._Or_my_pals._We_just_get_back_up.ogg"
+    "name": "Sombra",
+    "quote": "Bringing the flag back to base.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Sombra_-_Bringing_the_flag_back_to_base.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "🛠️⛏️🌍"
+    "name": "Mei",
+    "emojis": "🧥🧪☃️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Reindeer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Orisa_Skin_Reindeer.png"
+    "name": "Sigma",
+    "skin_name": "Bronze Drake",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_Skin_Bronze_Drake.png"
   }
 }
