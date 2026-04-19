@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Bringing the flag back to base.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Sombra_-_Bringing_the_flag_back_to_base.ogg"
+    "name": "Winston",
+    "quote": "Coming through!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Winston_-_Coming_through.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🧥🧪☃️"
+    "name": "Brigitte",
+    "emojis": "🦾👩‍🔧🦁"
   },
   "secretSkin": {
-    "name": "Sigma",
-    "skin_name": "Bronze Drake",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_Skin_Bronze_Drake.png"
+    "name": "Illari",
+    "skin_name": "Anqas",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
   }
 }
