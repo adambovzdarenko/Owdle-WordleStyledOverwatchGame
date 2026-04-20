@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
-    "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
     "gender": "Female",
     "species": "Human",
-    "nationality": "South Korea 🇰🇷",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Coming through!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Winston_-_Coming_through.ogg"
+    "name": "Zarya",
+    "quote": "Watch here.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Zarya_-_Watch_here.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🦾👩‍🔧🦁"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Anqas",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png"
+    "name": "Ramattra",
+    "skin_name": "Construction",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Ramattra_Skin_Construction.png"
   }
 }
