@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "Watch here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Zarya_-_Watch_here.ogg"
+    "name": "Mauga",
+    "quote": "Dammit!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Mauga_-_Dammit.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Mauga",
+    "emojis": "🍖💥🎯"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Construction",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Ramattra_Skin_Construction.png"
+    "name": "Roadhog",
+    "skin_name": "Roadbot",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Roadhog_Skin_Roadbot.png"
   }
 }
