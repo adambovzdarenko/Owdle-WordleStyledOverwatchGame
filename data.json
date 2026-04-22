@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Dammit!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Mauga_-_Dammit.ogg"
+    "name": "Junker Queen",
+    "quote": "I don't like losing.Youwon't like it, either!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Junker_Queen_-_I_don%27t_like_losing._You_won%27t_like_it_either.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🍖💥🎯"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Roadbot",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Roadhog_Skin_Roadbot.png"
+    "name": "Venture",
+    "skin_name": "Babylon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
   }
 }
