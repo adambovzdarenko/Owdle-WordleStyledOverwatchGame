@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "I don't like losing.Youwon't like it, either!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Junker_Queen_-_I_don%27t_like_losing._You_won%27t_like_it_either.ogg"
+    "name": "Venture",
+    "quote": "Tectonic Shock's ready when you are!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Venture_-_Tectonic_Shock%27s_ready_when_you_are.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Sombra",
+    "emojis": "🫥🔓👾"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Babylon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
+    "name": "Reinhardt",
+    "skin_name": "Lionhardt",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Reinhardt_Skin_Lionhardt.png"
   }
 }
