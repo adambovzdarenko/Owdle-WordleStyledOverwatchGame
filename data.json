@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Bastion",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Tectonic Shock's ready when you are!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Venture_-_Tectonic_Shock%27s_ready_when_you_are.ogg"
+    "name": "Hazard",
+    "quote": "Better than ever!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Hazard_-_Better_than_ever.ogg"
   },
   "secretEmoji": {
     "name": "Sombra",
-    "emojis": "🫥🔓👾"
+    "emojis": "💻🕵️‍♀️💀"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Lionhardt",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Reinhardt_Skin_Lionhardt.png"
+    "name": "Lifeweaver",
+    "skin_name": "Eros",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Lifeweaver_Skin_Eros.png"
   }
 }
