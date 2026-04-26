@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
+    "name": "Kiriko",
     "role": "Support",
-    "affiliation": "Overwatch",
+    "affiliation": "Yamagami Blades Yōkai",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Drop pods incoming!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Brigitte_-_Drop_pods_incoming.ogg"
+    "name": "Torbjörn",
+    "quote": "Get this hunk of junk moving!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Torbj%C3%B6rn_-_Get_this_hunk_of_junk_moving.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Moira",
+    "emojis": "☯️🧬🦠"
   },
   "secretSkin": {
     "name": "Ramattra",
-    "skin_name": "Necromancer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ramattra_Skin_Necromancer.png"
+    "skin_name": "Summoner",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Ramattra_Skin_Summoner.png"
   }
 }
