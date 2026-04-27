@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "name": "Widowmaker",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "France 🇫🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Get this hunk of junk moving!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Torbj%C3%B6rn_-_Get_this_hunk_of_junk_moving.ogg"
+    "name": "Hanzo",
+    "quote": "Do not falter now, and victory will be ours.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Hanzo_-_Do_not_falter_now%2C_and_victory_will_be_ours.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "☯️🧬🦠"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Summoner",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Ramattra_Skin_Summoner.png"
+    "name": "Baptiste",
+    "skin_name": "Camouflage",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Baptiste_Skin_Camouflage.png"
   }
 }
