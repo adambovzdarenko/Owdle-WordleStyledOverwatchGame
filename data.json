@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "France 🇫🇷",
+    "nationality": "Brazil 🇧🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "Do not falter now, and victory will be ours.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Hanzo_-_Do_not_falter_now%2C_and_victory_will_be_ours.ogg"
+    "name": "Doomfist",
+    "quote": "Damn!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Doomfist_-_Damn.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Camouflage",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Baptiste_Skin_Camouflage.png"
+    "name": "Mauga",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Mauga_Skin_Overwatch_2.png"
   }
 }
