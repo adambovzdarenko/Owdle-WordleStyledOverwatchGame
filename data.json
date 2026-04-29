@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
+    "name": "Echo",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "Damn!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Doomfist_-_Damn.ogg"
+    "name": "Sojourn",
+    "quote": "Elementary.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Sojourn_-_Elementary.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Mauga_Skin_Overwatch_2.png"
+    "name": "Ashe",
+    "skin_name": "Mobster",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Mobster.png"
   }
 }
