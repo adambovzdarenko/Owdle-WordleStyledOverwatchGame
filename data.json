@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sojourn",
-    "quote": "Elementary.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Sojourn_-_Elementary.ogg"
+    "name": "Zarya",
+    "quote": "*name*:Just like we practised, Amari: I pull them together, you blow them up!Pharah:I'm not waiting, I'm going to blow them up right away!*name*:Yes, but when I pull them together, then you blow them up especially.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Zarya_-_Yes%2C_but_when_I_pull_them_together%2C_then_you_blow_them_up_especially.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Mobster",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Mobster.png"
+    "name": "Orisa",
+    "skin_name": "Sanye",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Orisa_Skin_Sanye.png"
   }
 }
