@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
-    "affiliation": "Overwatch",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zarya",
-    "quote": "*name*:Just like we practised, Amari: I pull them together, you blow them up!Pharah:I'm not waiting, I'm going to blow them up right away!*name*:Yes, but when I pull them together, then you blow them up especially.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Zarya_-_Yes%2C_but_when_I_pull_them_together%2C_then_you_blow_them_up_especially.ogg"
+    "name": "D.Va",
+    "quote": "Move that robot!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/43/D.Va_-_Move_that_robot.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🎯🧔🏼🔥"
+    "name": "Reaper",
+    "emojis": "💀🌫️🕶️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Sanye",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Orisa_Skin_Sanye.png"
+    "name": "Kiriko",
+    "skin_name": "Hinotori",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Kiriko_Skin_Hinotori.png"
   }
 }
