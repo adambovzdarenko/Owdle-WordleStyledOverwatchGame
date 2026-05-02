@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
-    "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Move that robot!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/43/D.Va_-_Move_that_robot.ogg"
+    "name": "Zenyatta",
+    "quote": "One's tragedy is another's triumph.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_-_One%27s_tragedy_is_another%27s_triumph.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Echo",
+    "emojis": "🔵📡🎶"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Hinotori",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Kiriko_Skin_Hinotori.png"
+    "name": "Mei",
+    "skin_name": "Alchemist",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Mei_Skin_Alchemist.png"
   }
 }
