@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "One's tragedy is another's triumph.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_-_One%27s_tragedy_is_another%27s_triumph.ogg"
+    "name": "Reaper",
+    "quote": "Die... die... die...(self and hostile)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Reaper_-_Die..._Die..._Die.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🔵📡🎶"
+    "name": "Bastion",
+    "emojis": "🤖🔫🎶"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Alchemist",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Mei_Skin_Alchemist.png"
+    "name": "Pharah",
+    "skin_name": "Punk",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Pharah_Skin_Punk.png"
   }
 }
