@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
-    "role": "Support",
-    "affiliation": "The Collective",
+    "name": "Mauga",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
+    "nationality": "Samoa 🇼🇸",
     "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "I dropped it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Symmetra_-_I_dropped_it.ogg"
+    "name": "Junkrat",
+    "quote": "Concussion MineWaiting to Activate",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Junkrat_-_Tick-tock%2C_tick-tock%2C_tick-tock%2C_tick-tock.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "💄🔫🧍‍♀️"
+    "name": "Genji",
+    "emojis": "🗡️🐉🧘‍♂️"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Barbarossa",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Torbj%C3%B6rn_Skin_Barbarossa.png"
+    "name": "D.Va",
+    "skin_name": "Varsity",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/D.Va_Skin_Varsity.png"
   }
 }
