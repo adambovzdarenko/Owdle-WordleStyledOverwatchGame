@@ -9,17 +9,17 @@
     "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Concussion MineWaiting to Activate",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Junkrat_-_Tick-tock%2C_tick-tock%2C_tick-tock%2C_tick-tock.ogg"
+    "name": "Roadhog",
+    "quote": "I've killed someone for less than that.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Roadhog_-_I%27ve_killed_someone_for_less_than_that.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🗡️🐉🧘‍♂️"
+    "name": "Junker Queen",
+    "emojis": "👑🪓🎤"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Varsity",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/D.Va_Skin_Varsity.png"
+    "name": "Moira",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Moira_Skin_Classic.png"
   }
 }
