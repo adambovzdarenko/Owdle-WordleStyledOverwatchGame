@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
+    "name": "Zarya",
     "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "I've killed someone for less than that.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Roadhog_-_I%27ve_killed_someone_for_less_than_that.ogg"
+    "name": "Lifeweaver",
+    "quote": "Life protects life!(self and allies)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Lifeweaver_-_Life_protects_life.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "👑🪓🎤"
+    "name": "Orisa",
+    "emojis": "🦾🛡️🦒"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Moira_Skin_Classic.png"
+    "name": "Mercy",
+    "skin_name": "Zombie Doctor",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Mercy_Skin_Zombie_Doctor.png"
   }
 }
