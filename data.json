@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Ashe",
+    "role": "Damage",
+    "affiliation": "Deadlock Gang",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Winston: Anyone wanna hear my favorite joke about the periodic table?*name*: I do not.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_-_Anyone_want_to_hear_my_favorite_joke_about_the_periodic_table_%281%29.ogg"
+    "name": "Pharah",
+    "quote": "Affirmative.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Pharah_-_Affirmative.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🦾👩‍🔧🦁"
+    "name": "Mauga",
+    "emojis": "🔥🧔🏾🔫"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Witch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Kiriko_Skin_Witch.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Jack-O'-Lantern",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Wrecking_Ball_Skin_Jack-O%27-Lantern.png"
   }
 }
