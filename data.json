@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
+    "name": "Genji",
     "role": "Damage",
-    "affiliation": "Deadlock Gang",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Affirmative.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Pharah_-_Affirmative.ogg"
+    "name": "Ramattra",
+    "quote": "Nothing but ashes remain.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Ramattra_-_Nothing_but_ashes_remain.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🔥🧔🏾🔫"
+    "name": "McCree / Cassidy",
+    "emojis": "👢💥🌀"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Jack-O'-Lantern",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Wrecking_Ball_Skin_Jack-O%27-Lantern.png"
+    "name": "Ramattra",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Ramattra_Skin_Classic.png"
   }
 }
