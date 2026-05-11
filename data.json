@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Junkers",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Ramattra",
-    "quote": "Nothing but ashes remain.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Ramattra_-_Nothing_but_ashes_remain.ogg"
+    "quote": "One of our enemies is being revived!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ramattra_-_One_of_our_enemies_is_being_revived.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "👢💥🌀"
+    "name": "Ramattra",
+    "emojis": "⚫🧘‍♂️📢"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Ramattra_Skin_Classic.png"
+    "name": "Juno",
+    "skin_name": "Uravity",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png"
   }
 }
