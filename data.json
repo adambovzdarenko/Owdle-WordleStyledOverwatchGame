@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
-    "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "One of our enemies is being revived!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ramattra_-_One_of_our_enemies_is_being_revived.ogg"
+    "name": "Venture",
+    "quote": "Let's make history!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Venture_-_Let%E2%80%99s_make_history.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "⚫🧘‍♂️📢"
+    "name": "Reinhardt",
+    "emojis": "🛡️🧔‍♂️🔥"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Uravity",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Critter Egg",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Wrecking_Ball_Skin_Critter_Egg.png"
   }
 }
