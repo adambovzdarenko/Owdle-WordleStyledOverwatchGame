@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "name": "Sombra",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Let's make history!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Venture_-_Let%E2%80%99s_make_history.ogg"
+    "name": "Tracer",
+    "quote": "*name*: I don't know how you do it, Ana!Ana: Do what?*name*: Stay still for hours, waiting for the perfect shot!Ana: I don't know how you zip around without getting dizzy.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Tracer_-_I_don%27t_know_how_you_do_it%2C_Ana.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🛡️🧔‍♂️🔥"
+    "name": "Sigma",
+    "emojis": "🔮🌌🧠"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Critter Egg",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Wrecking_Ball_Skin_Critter_Egg.png"
+    "name": "Illari",
+    "skin_name": "Thoth",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Illari_Skin_Thoth.png"
   }
 }
