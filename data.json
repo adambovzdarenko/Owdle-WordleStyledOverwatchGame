@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
+    "name": "Pharah",
     "role": "Damage",
-    "affiliation": "Talon",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "*name*: I don't know how you do it, Ana!Ana: Do what?*name*: Stay still for hours, waiting for the perfect shot!Ana: I don't know how you zip around without getting dizzy.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Tracer_-_I_don%27t_know_how_you_do_it%2C_Ana.ogg"
+    "name": "D.Va",
+    "quote": "[sigh]AFK.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_AFK.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🔮🌌🧠"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Thoth",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Illari_Skin_Thoth.png"
+    "name": "Roadhog",
+    "skin_name": "Noxious",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Roadhog_Skin_Noxious.png"
   }
 }
