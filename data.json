@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "McCree / Cassidy",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "[sigh]AFK.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_AFK.ogg"
+    "name": "Symmetra",
+    "quote": "You're welcome.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Symmetra_-_You%27re_welcome.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "💫🎯🗿"
+    "name": "Hazard",
+    "emojis": "🧤🧪🔧"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Noxious",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Roadhog_Skin_Noxious.png"
+    "name": "Lifeweaver",
+    "skin_name": "Black Swan",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Lifeweaver_Skin_Black_Swan.png"
   }
 }
