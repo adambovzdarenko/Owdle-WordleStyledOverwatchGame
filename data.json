@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "You're welcome.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Symmetra_-_You%27re_welcome.ogg"
+    "name": "Ramattra",
+    "quote": "Flag captured.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Ramattra_-_Flag_captured.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🧤🧪🔧"
+    "name": "Zenyatta",
+    "emojis": "✨🤖👐"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Black Swan",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Lifeweaver_Skin_Black_Swan.png"
+    "name": "D.Va",
+    "skin_name": "Dainty Cat",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/D.Va_Skin_Dainty_Cat.png"
   }
 }
