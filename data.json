@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Flag captured.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Ramattra_-_Flag_captured.ogg"
+    "name": "Pharah",
+    "quote": "Claiming the objective.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Pharah_-_Claiming_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "✨🤖👐"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Dainty Cat",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/D.Va_Skin_Dainty_Cat.png"
+    "name": "Lifeweaver",
+    "skin_name": "Amsonia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Lifeweaver_Skin_Amsonia.png"
   }
 }
