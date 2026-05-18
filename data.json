@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Ashe",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Deadlock Gang",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Claiming the objective.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Pharah_-_Claiming_the_objective.ogg"
+    "name": "Genji",
+    "quote": "Herwork is efficient, as always.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Genji_-_Her_work_is_efficient%2C_as_always.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🛡️💣🎶"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Amsonia",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Lifeweaver_Skin_Amsonia.png"
+    "name": "Sigma",
+    "skin_name": "Drowned Warrior",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Sigma_Skin_Drowned_Warrior.png"
   }
 }
