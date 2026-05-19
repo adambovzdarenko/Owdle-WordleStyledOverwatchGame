@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
-    "role": "Damage",
-    "affiliation": "Deadlock Gang",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Herwork is efficient, as always.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Genji_-_Her_work_is_efficient%2C_as_always.ogg"
+    "name": "Kiriko",
+    "quote": "Can't fight fate.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Kiriko_-_Can%27t_fight_fate.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🟣🪬☠️"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
-    "name": "Sigma",
-    "skin_name": "Drowned Warrior",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Sigma_Skin_Drowned_Warrior.png"
+    "name": "Kiriko",
+    "skin_name": "Antifragile Kira-Kira",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Kiriko_Skin_Antifragile_Kira-Kira.png"
   }
 }
