@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "Can't fight fate.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Kiriko_-_Can%27t_fight_fate.ogg"
+    "name": "Echo",
+    "quote": "Embrace tranquility.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Echo_-_Embrace_tranquility.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "💠🔲📐"
+    "name": "Baptiste",
+    "emojis": "🧴💉🩹"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Antifragile Kira-Kira",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Kiriko_Skin_Antifragile_Kira-Kira.png"
+    "name": "Symmetra",
+    "skin_name": "Hyacinth",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Symmetra_Skin_Hyacinth.png"
   }
 }
