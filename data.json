@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Sentry Turret",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Symmetra_-_Casting_a_sentry_ward.ogg"
+    "name": "Soldier: 76",
+    "quote": "(gasps)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Soldier_76_-_%28gasps%29.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🎯💋🕷️"
+    "name": "Soldier: 76",
+    "emojis": "🇺🇸🎯👴"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Corsair",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Ana_Skin_Corsair.png"
+    "name": "Winston",
+    "skin_name": "Catcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
   }
 }
