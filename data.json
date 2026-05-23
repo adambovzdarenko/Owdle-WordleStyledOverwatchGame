@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Talon",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "(gasps)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Soldier_76_-_%28gasps%29.ogg"
+    "name": "Sigma",
+    "quote": "I see the infinite universe!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_-_I_see_the_infinite_universe.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🇺🇸🎯👴"
+    "name": "Widowmaker",
+    "emojis": "🔭🧊🎻"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Catcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
+    "name": "Juno",
+    "skin_name": "FEARLESS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
   }
 }
