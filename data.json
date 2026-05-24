@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "I see the infinite universe!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_-_I_see_the_infinite_universe.ogg"
+    "name": "Pharah",
+    "quote": "Death from above.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Pharah_-_Death_from_above_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🔭🧊🎻"
+    "name": "Orisa",
+    "emojis": "⚙️🟡🌍"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "FEARLESS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png"
+    "name": "Mei",
+    "skin_name": "Arcane Apprentice",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Mei_Skin_Arcane_Apprentice.png"
   }
 }
