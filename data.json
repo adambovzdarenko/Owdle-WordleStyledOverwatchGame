@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
+    "name": "Freja",
     "role": "Damage",
-    "affiliation": "Vishkar",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
     "name": "Pharah",
-    "quote": "Death from above.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Pharah_-_Death_from_above_%281%29.ogg"
+    "quote": "It's taking damage! Hold them off!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Pharah_-_It%27s_taking_damage%21_Hold_them_off.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "⚙️🟡🌍"
+    "name": "Genji",
+    "emojis": "👤💚🎴"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Arcane Apprentice",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Mei_Skin_Arcane_Apprentice.png"
+    "name": "Kiriko",
+    "skin_name": "Blue Flame",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Kiriko_Skin_Blue_Flame.png"
   }
 }
