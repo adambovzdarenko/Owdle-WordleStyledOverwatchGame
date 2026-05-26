@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
-    "gender": "Female",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "It's taking damage! Hold them off!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Pharah_-_It%27s_taking_damage%21_Hold_them_off.ogg"
+    "name": "Genji",
+    "quote": "Ryūjin no ken o kurae!(self and hostile)Japanese:竜神の剣を喰らえ！English:Take the blade of the Dragon God!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Genji_-_%28Japanese%29_Take_the_blade_of_the_dragon_god.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "👤💚🎴"
+    "name": "Moira",
+    "emojis": "☯️🧬🦠"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Blue Flame",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Kiriko_Skin_Blue_Flame.png"
+    "name": "Lifeweaver",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Lifeweaver_Skin_Overwatch_2.png"
   }
 }
