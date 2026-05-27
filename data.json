@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
-    "role": "Damage",
+    "name": "Junker Queen",
+    "role": "Tank",
     "affiliation": "Junkers",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
     "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Ryūjin no ken o kurae!(self and hostile)Japanese:竜神の剣を喰らえ！English:Take the blade of the Dragon God!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Genji_-_%28Japanese%29_Take_the_blade_of_the_dragon_god.ogg"
+    "name": "Junker Queen",
+    "quote": "Heh. Ready.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Junker_Queen_-_Heh%2C_ready.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "☯️🧬🦠"
+    "name": "Juno",
+    "emojis": "🛰️🎯🧠"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Lifeweaver_Skin_Overwatch_2.png"
+    "name": "Sojourn",
+    "skin_name": "Firefighter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
   }
 }
