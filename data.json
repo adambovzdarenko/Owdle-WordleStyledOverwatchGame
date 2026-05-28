@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Heh. Ready.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Junker_Queen_-_Heh%2C_ready.ogg"
+    "name": "Brigitte",
+    "quote": "Guess I'm going to have to do this myself!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Brigitte_-_Guess_I%27m_going_to_have_to_do_this_myself.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🛰️🎯🧠"
+    "name": "Echo",
+    "emojis": "🔵📡🎶"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Firefighter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Sojourn_Skin_Firefighter.png"
+    "name": "Mauga",
+    "skin_name": "OWCS 2024 Home",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
   }
 }
