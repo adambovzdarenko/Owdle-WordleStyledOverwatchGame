@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Guess I'm going to have to do this myself!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/Brigitte_-_Guess_I%27m_going_to_have_to_do_this_myself.ogg"
+    "name": "Sombra",
+    "quote": "Tracer: Ugh. Entered my passcode too quick and now I'm locked out of my phone!*name*: I can unlock it for you, cariño.Tracer: Thanks, love! Oh-- wait. You tryna pull a fast one on me?*name*: Hm. You're smarter than you look.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Tracer_-_Ugh%2C_entered_my_passcode_too_quick_and_now_I%27m_locked_out_of_my_phone.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🔵📡🎶"
+    "name": "Bastion",
+    "emojis": "📡🛡️💥"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "OWCS 2024 Home",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
+    "name": "Junkrat",
+    "skin_name": "Irradiated",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Junkrat_Skin_Irradiated.png"
   }
 }
