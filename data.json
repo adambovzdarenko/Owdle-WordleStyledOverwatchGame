@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
-    "gender": "Female",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
+    "gender": "Male",
     "species": "Human",
     "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "Lúcio: Did your bosses ever rebuild that favela? You know, the one thatmysteriouslyburned down?*name*: I am told it is on the backlog.Lúcio: Funny how that sort of project always gets... deprioritized.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/L%C3%BAcio_-_Did_your_bosses_ever_rebuild_that_favela._You_know%2C_the_one_that_mysteriously_burned_down.ogg"
+    "name": "Mercy",
+    "quote": "Enemies are closing on the objective!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Mercy_-_Enemies_are_closing_on_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "👢💥🌀"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Ultrawatch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Reaper_Skin_Ultrawatch.png"
+    "name": "Illari",
+    "skin_name": "Daybreak",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Illari_Skin_Daybreak.png"
   }
 }
