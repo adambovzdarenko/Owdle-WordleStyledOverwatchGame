@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
-    "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Enemies are closing on the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Mercy_-_Enemies_are_closing_on_the_objective.ogg"
+    "name": "Hanzo",
+    "quote": "I cannot falter now.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Hanzo_-_I_cannot_falter_now.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "name": "Winston",
+    "emojis": "🦍🔋💢"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Daybreak",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Illari_Skin_Daybreak.png"
+    "name": "Ramattra",
+    "skin_name": "Biohazard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Ramattra_Skin_Biohazard.png"
   }
 }
