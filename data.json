@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
+    "name": "Lifeweaver",
     "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "affiliation": "The Collective",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "I cannot falter now.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Hanzo_-_I_cannot_falter_now.ogg"
+    "name": "Pharah",
+    "quote": "Anyone have eyes on that Stalker?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Pharah_-_Anyone_have_eyes_on_that_Stalker.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🦍🔋💢"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Biohazard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Ramattra_Skin_Biohazard.png"
+    "name": "Mercy",
+    "skin_name": "Jingle Belle",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Mercy_Skin_Jingle_Belle.png"
   }
 }
