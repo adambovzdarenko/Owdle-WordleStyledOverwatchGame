@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
+    "name": "Moira",
     "role": "Support",
-    "affiliation": "The Collective",
-    "gender": "Male",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Anyone have eyes on that Stalker?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Pharah_-_Anyone_have_eyes_on_that_Stalker.ogg"
+    "name": "Doomfist",
+    "quote": "(crushed sounds)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Doomfist_-_%28crushed_sounds%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🧿🔷🖼️"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Jingle Belle",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Mercy_Skin_Jingle_Belle.png"
+    "name": "Ramattra",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Ramattra_Skin_Classic.png"
   }
 }
