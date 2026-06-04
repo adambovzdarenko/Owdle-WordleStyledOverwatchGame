@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
+    "name": "Mauga",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "(crushed sounds)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Doomfist_-_%28crushed_sounds%29_%281%29.ogg"
+    "name": "Ashe",
+    "quote": "*name*: Yourcompanylikes makin' headlines.Symmetra: Yes. A natural byproduct of repairing a chaotic world.*name*: Hmpfh, seems more like a tactic to line their pockets... but what do I know?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ashe_-_Your_company_likes_making_headlines.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Juno",
+    "emojis": "🛰️🎯🧠"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Ramattra_Skin_Classic.png"
+    "name": "Orisa",
+    "skin_name": "Appa",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Orisa_Skin_Appa.png"
   }
 }
