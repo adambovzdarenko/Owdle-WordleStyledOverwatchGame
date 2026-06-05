@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Venture",
+    "role": "Damage",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "*name*: Yourcompanylikes makin' headlines.Symmetra: Yes. A natural byproduct of repairing a chaotic world.*name*: Hmpfh, seems more like a tactic to line their pockets... but what do I know?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ashe_-_Your_company_likes_making_headlines.ogg"
+    "name": "Ramattra",
+    "quote": "Rise and fight.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Ramattra_-_Rise_and_fight.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🛰️🎯🧠"
+    "name": "Mei",
+    "emojis": "🧥🧪☃️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Appa",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Orisa_Skin_Appa.png"
+    "name": "Symmetra",
+    "skin_name": "Mermaid",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Symmetra_Skin_Mermaid.png"
   }
 }
