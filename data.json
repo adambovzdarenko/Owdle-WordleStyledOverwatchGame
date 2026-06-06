@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
+    "name": "Sombra",
     "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "Mexico 🇲🇽",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Rise and fight.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Ramattra_-_Rise_and_fight.ogg"
+    "name": "Juno",
+    "quote": "The enemy took our flag!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Juno_-_The_enemy_took_our_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Mei",
-    "emojis": "🧥🧪☃️"
+    "name": "Torbjörn",
+    "emojis": "🔧🏗️🐻"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Mermaid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Symmetra_Skin_Mermaid.png"
+    "name": "Echo",
+    "skin_name": "Ragdoll",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Echo_Skin_Ragdoll.png"
   }
 }
