@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
+    "name": "Widowmaker",
     "role": "Damage",
     "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "The enemy took our flag!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Juno_-_The_enemy_took_our_flag.ogg"
+    "name": "Torbjörn",
+    "quote": "Enemy's coming back.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Torbj%C3%B6rn_-_Enemy%27s_coming_back.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🔧🏗️🐻"
+    "name": "Ramattra",
+    "emojis": "🕉️🦾⚔️"
   },
   "secretSkin": {
     "name": "Echo",
-    "skin_name": "Ragdoll",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Echo_Skin_Ragdoll.png"
+    "skin_name": "Phoenix",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Echo_Skin_Phoenix.png"
   }
 }
