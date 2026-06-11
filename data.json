@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
-    "releaseYear": 2016
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "Careful.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Kiriko_-_Careful.ogg"
+    "name": "Ramattra",
+    "quote": "I am with you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Ramattra_-_I_am_with_you.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Baptiste",
+    "emojis": "🛡️📦💊"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Nevermore",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Reaper_Skin_Nevermore.png"
+    "name": "Torbjörn",
+    "skin_name": "Ironclad",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Torbj%C3%B6rn_Skin_Ironclad.png"
   }
 }
