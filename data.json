@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
-    "role": "Support",
-    "affiliation": "The Collective",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "I am with you.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Ramattra_-_I_am_with_you.ogg"
+    "name": "Lucio",
+    "quote": "Delivered.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/L%C3%BAcio_-_Delivered.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🛡️📦💊"
+    "name": "Venture",
+    "emojis": "🦴🐛🔦"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Ironclad",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Torbj%C3%B6rn_Skin_Ironclad.png"
+    "name": "Venture",
+    "skin_name": "Olympia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Venture_Skin_Olympia.png"
   }
 }
