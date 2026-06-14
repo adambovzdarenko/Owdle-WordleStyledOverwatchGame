@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "Soldier: 76",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Pharah: Hey *name*. Want to hear a secret joke about peanut butter?*name*: I sure do!Pharah: Sorry, can't tell you. You might spread itWinston: Aww... *gasp* Wait... I get it!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Pharah_-_Hey%2C_Winston._Want_to_hear_a_secret_joke_about_peanut_butter.ogg"
+    "name": "Pharah",
+    "quote": "Everyone has a plan until a rocket hits them in the face.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Pharah_-_Everyone_has_a_plan_until_a_rocket_hits_them_in_the_face.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "⛓️☁️⚔️"
+    "name": "Sombra",
+    "emojis": "🫥🔓👾"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Graffiti",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Tracer_Skin_Graffiti.png"
+    "name": "Roadhog",
+    "skin_name": "Kiwi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Roadhog_Skin_Kiwi.png"
   }
 }
