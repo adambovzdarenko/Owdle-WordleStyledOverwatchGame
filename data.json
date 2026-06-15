@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
     "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Everyone has a plan until a rocket hits them in the face.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Pharah_-_Everyone_has_a_plan_until_a_rocket_hits_them_in_the_face.ogg"
+    "name": "D.Va",
+    "quote": "[sigh]AFK.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_AFK.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "🫥🔓👾"
+    "name": "Roadhog",
+    "emojis": "⛓️🚬🦴"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Kiwi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Roadhog_Skin_Kiwi.png"
+    "name": "Brigitte",
+    "skin_name": "Polar",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Brigitte_Skin_Polar.png"
   }
 }
