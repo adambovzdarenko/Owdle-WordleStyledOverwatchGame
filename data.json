@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "Sombra",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Ashe: They say you're a good shot. Hope you don't mind that I'm better.*name*: I know more than anyone that a head that big is an easy target.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Ashe_-_They_say_you%27re_a_good_shot._Hope_you_don%27t_mind_that_I%27m_better.ogg"
+    "name": "Sigma",
+    "quote": "I have ruled the Nebula for centuries, what hope has anyone of stopping me?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c3/Sigma_-_I_have_ruled_the_Nebula_for_centuries._What_hope_has_anyone_of_stopping_me.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🛡️📦💊"
+    "name": "Roadhog",
+    "emojis": "⛓️🚬🦴"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Necromancer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ramattra_Skin_Necromancer.png"
+    "name": "Soldier: 76",
+    "skin_name": "Soldier: 1776",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/S76_Skin_1776.png"
   }
 }
