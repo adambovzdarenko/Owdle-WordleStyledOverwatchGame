@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
+    "nationality": "Brazil 🇧🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "I have ruled the Nebula for centuries, what hope has anyone of stopping me?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c3/Sigma_-_I_have_ruled_the_Nebula_for_centuries._What_hope_has_anyone_of_stopping_me.ogg"
+    "name": "Ana",
+    "quote": "Reaper: I didn't need your help.*name*: I know the old Gabriel is grateful.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Reaper_-_I_didn%27t_need_your_help.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "⛓️🚬🦴"
+    "name": "Soldier: 76",
+    "emojis": "🕶️🔫🛡️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Soldier: 1776",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/S76_Skin_1776.png"
+    "name": "Hanzo",
+    "skin_name": "Midori",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Hanzo_Skin_Midori.png"
   }
 }
