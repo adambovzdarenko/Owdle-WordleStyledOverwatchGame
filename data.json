@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
+    "name": "Illari",
     "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Reaper: I didn't need your help.*name*: I know the old Gabriel is grateful.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Reaper_-_I_didn%27t_need_your_help.ogg"
+    "name": "Brigitte",
+    "quote": "Don't be afraid to ask for help out there!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Brigitte_-_Don%27t_be_afraid_to_ask_for_help_out_there.ogg"
   },
   "secretEmoji": {
-    "name": "Soldier: 76",
-    "emojis": "🕶️🔫🛡️"
+    "name": "Junkrat",
+    "emojis": "🔥🦴🏚️"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Midori",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Hanzo_Skin_Midori.png"
+    "name": "Moira",
+    "skin_name": "Ancient Caller",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Moira_Skin_Ancient_Caller.png"
   }
 }
