@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
-    "gender": "Female",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Don't be afraid to ask for help out there!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Brigitte_-_Don%27t_be_afraid_to_ask_for_help_out_there.ogg"
+    "name": "Hanzo",
+    "quote": "Our weapons are no use against that.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Hanzo_-_Our_weapons_are_no_use_against_that.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "🔥🦴🏚️"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Ancient Caller",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Moira_Skin_Ancient_Caller.png"
+    "name": "Zarya",
+    "skin_name": "Snowboarder",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Zarya_Skin_Snowboarder.png"
   }
 }
