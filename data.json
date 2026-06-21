@@ -1,21 +1,21 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "Our weapons are no use against that.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Hanzo_-_Our_weapons_are_no_use_against_that.ogg"
+    "name": "Juno",
+    "quote": "May you reach terminal velocity!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Juno_-_May_you_reach_terminal_velocity.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Brigitte",
+    "emojis": "🦾👩‍🔧🦁"
   },
   "secretSkin": {
     "name": "Zarya",
