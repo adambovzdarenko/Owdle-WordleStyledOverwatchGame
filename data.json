@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "name": "D.Va",
+    "role": "Tank",
+    "affiliation": "MEKA / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "South Korea 🇰🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "May you reach terminal velocity!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Juno_-_May_you_reach_terminal_velocity.ogg"
+    "name": "Genji",
+    "quote": "I need healing.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Genji_-_I_need_healing.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "🦾👩‍🔧🦁"
+    "name": "Lifeweaver",
+    "emojis": "🖐️🛌🌀"
   },
   "secretSkin": {
-    "name": "Zarya",
-    "skin_name": "Snowboarder",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Zarya_Skin_Snowboarder.png"
+    "name": "Ramattra",
+    "skin_name": "Detachment",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Ramattra_Skin_Detachment.png"
   }
 }
