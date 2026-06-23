@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "D.Va",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "MEKA / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "South Korea 🇰🇷",
-    "releaseYear": 2016
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "I need healing.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Genji_-_I_need_healing.ogg"
+    "name": "Torbjörn",
+    "quote": "Hello, there. Let's move.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Torbj%C3%B6rn_-_Hello%2C_there._Let%27s_move.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🖐️🛌🌀"
+    "name": "Hazard",
+    "emojis": "🧤🧪🔧"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Detachment",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Ramattra_Skin_Detachment.png"
+    "name": "Pharah",
+    "skin_name": "Possessed",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Pharah_Skin_Possessed.png"
   }
 }
