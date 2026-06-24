@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
+    "name": "Zarya",
     "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "affiliation": "Russian Defense Forces / Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Hello, there. Let's move.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Torbj%C3%B6rn_-_Hello%2C_there._Let%27s_move.ogg"
+    "name": "Genji",
+    "quote": "Come on!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Genji_-_Come_on_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🧤🧪🔧"
+    "name": "Junker Queen",
+    "emojis": "👑🪓🎤"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Possessed",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Pharah_Skin_Possessed.png"
+    "name": "Sojourn",
+    "skin_name": "Commando",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Sojourn_Skin_Commando.png"
   }
 }
