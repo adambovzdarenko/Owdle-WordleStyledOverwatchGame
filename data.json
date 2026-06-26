@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "*name*:Ooh... I think I went a bit overboard on the weights yesterday.Brigitte:Pace yourself! That's what I always tellReinhardt. Not that he ever listens.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Pharah_-_I_think_I_went_a_bit_overboard_on_the_weights_yesterday.ogg"
+    "name": "Hazard",
+    "quote": "Head up.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Hazard_-_Head_up._Still_more_to_go.ogg"
   },
   "secretEmoji": {
     "name": "Ashe",
-    "emojis": "💣📯🔫"
+    "emojis": "🤠🔥🪙"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Röd",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Brigitte_Skin_R%C3%B6d.png"
+    "name": "Bastion",
+    "skin_name": "Toxic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Toxic.png"
   }
 }
