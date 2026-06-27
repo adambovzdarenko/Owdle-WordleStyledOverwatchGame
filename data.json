@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Roadhog",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Junkers",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Head up.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Hazard_-_Head_up._Still_more_to_go.ogg"
+    "name": "Genji",
+    "quote": "Come on!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Genji_-_Come_on_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🤠🔥🪙"
+    "name": "Sigma",
+    "emojis": "🔮🌌🧠"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Toxic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Bastion_Skin_Toxic.png"
+    "name": "Ramattra",
+    "skin_name": "Primordial",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Ramattra_Skin_Primordial.png"
   }
 }
