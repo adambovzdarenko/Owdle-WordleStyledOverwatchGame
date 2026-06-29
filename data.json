@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Torbjörn",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
+    "affiliation": "Ironclad Guild / Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "*name*: You andjefeneed to stop fryingSigma's brain!Moira: I'm trying to help your little friend.*name*: Ugh. And yourself.Moira: Yes, let's discuss morality. And hypocrisy while we're at it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Sombra_-_You_and_jefe_need_to_stop_frying_Sigma%27s_brain.ogg"
+    "name": "Juno",
+    "quote": "Artillery destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Juno_-_Artillery_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "😄🌀⏱️"
+    "name": "Juno",
+    "emojis": "🌌🧠💢"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Qilin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Junker_Queen_Skin_Qilin.png"
+    "name": "Brigitte",
+    "skin_name": "Grön",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_Gr%C3%B6n.png"
   }
 }
