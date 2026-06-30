@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Artillery destroyed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Juno_-_Artillery_destroyed.ogg"
+    "name": "Sombra",
+    "quote": "*name*: You like beaches, right, Ana? We should do a girls' trip to Tulum!Ana:*chuckle*What's it going to cost me?*name*: For you, amor? No charge.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Sombra_-_You_like_beaches%2C_right%2C_Ana._We_should_do_a_girls%27_trip_to_Tulum.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "🌌🧠💢"
+    "name": "Hazard",
+    "emojis": "🚨🔒🎮"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Grön",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_Gr%C3%B6n.png"
+    "name": "Lifeweaver",
+    "skin_name": "Harbinger",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Lifeweaver_Skin_Harbinger.png"
   }
 }
