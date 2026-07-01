@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "*name*: You like beaches, right, Ana? We should do a girls' trip to Tulum!Ana:*chuckle*What's it going to cost me?*name*: For you, amor? No charge.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Sombra_-_You_like_beaches%2C_right%2C_Ana._We_should_do_a_girls%27_trip_to_Tulum.ogg"
+    "name": "Illari",
+    "quote": "Fixing that. Don't fuss.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Illari_-_Fixing_that._Don%27t_fuss.ogg"
   },
   "secretEmoji": {
-    "name": "Hazard",
-    "emojis": "🚨🔒🎮"
+    "name": "Tracer",
+    "emojis": "🏃‍♀️↩️🔫"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Harbinger",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Lifeweaver_Skin_Harbinger.png"
+    "name": "Doomfist",
+    "skin_name": "Spirit",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Doomfist_Skin_Spirit.png"
   }
 }
