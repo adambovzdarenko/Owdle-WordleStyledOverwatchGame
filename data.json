@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
+    "name": "Kiriko",
     "role": "Support",
-    "affiliation": "Shambali",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2016
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Fixing that. Don't fuss.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Illari_-_Fixing_that._Don%27t_fuss.ogg"
+    "name": "Orisa",
+    "quote": "Mind the claws.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Orisa_-_Mind_the_claws.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "🏃‍♀️↩️🔫"
+    "name": "Sombra",
+    "emojis": "🕳️📡🧠"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Spirit",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Doomfist_Skin_Spirit.png"
+    "name": "Pharah",
+    "skin_name": "Raindancer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Pharah_Skin_Raindancer.png"
   }
 }
