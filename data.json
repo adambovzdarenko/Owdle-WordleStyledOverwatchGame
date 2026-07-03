@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
-    "gender": "Female",
+    "name": "Soldier: 76",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Mind the claws.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Orisa_-_Mind_the_claws.ogg"
+    "name": "Freja",
+    "quote": "Ah, we have company.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Freja_-_Ah%2C_we_have_company.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "🕳️📡🧠"
+    "name": "Winston",
+    "emojis": "🐵⚡🧠"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Raindancer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Pharah_Skin_Raindancer.png"
+    "name": "Moira",
+    "skin_name": "Banshee",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Moira_Skin_Banshee.png"
   }
 }
