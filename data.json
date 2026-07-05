@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hazard",
-    "role": "Tank",
-    "affiliation": "Phreaks",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "releaseYear": 2024
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Mission update: low risk. Increasing strike power.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Echo_-_Mission_update%2C_low_risk._Increasing_strike_power.ogg"
+    "name": "Torbjörn",
+    "quote": "Now this is a city that understands engineering. Andthat child genius, whew! A future Ironclad, no doubt.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Torbj%C3%B6rn_-_Now_this_is_a_city_that_understands_engineering._And_that_child_genius%2C_whew%21_A_future_Ironclad%2C_no_doubt.ogg"
   },
   "secretEmoji": {
-    "name": "Tracer",
-    "emojis": "😄🌀⏱️"
+    "name": "Genji",
+    "emojis": "👤💚🎴"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Irin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Doomfist_Skin_Irin.png"
+    "name": "Reinhardt",
+    "skin_name": "Brass",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Reinhardt_Skin_Brass.png"
   }
 }
