@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
-    "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Now this is a city that understands engineering. Andthat child genius, whew! A future Ironclad, no doubt.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Torbj%C3%B6rn_-_Now_this_is_a_city_that_understands_engineering._And_that_child_genius%2C_whew%21_A_future_Ironclad%2C_no_doubt.ogg"
+    "name": "Reaper",
+    "quote": "Sure.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Reaper_-_Sure_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "👤💚🎴"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Brass",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Reinhardt_Skin_Brass.png"
+    "name": "Bastion",
+    "skin_name": "Meadow",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Bastion_Skin_Meadow.png"
   }
 }
