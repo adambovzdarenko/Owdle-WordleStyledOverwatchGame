@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
     "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "Sure.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Reaper_-_Sure_%281%29.ogg"
+    "name": "Doomfist",
+    "quote": "You can't get me!(self and hostile)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Doomfist_-_You_can%27t_get_me.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Torbjörn",
+    "emojis": "🪛🛠️🔫"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Meadow",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Bastion_Skin_Meadow.png"
+    "name": "Brigitte",
+    "skin_name": "Sparkplug",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Brigitte_Skin_Sparkplug.png"
   }
 }
