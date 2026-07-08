@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "You can't get me!(self and hostile)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Doomfist_-_You_can%27t_get_me.ogg"
+    "name": "Juno",
+    "quote": "3... 2... 1...",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Juno_-_3..._2..._1.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🪛🛠️🔫"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Sparkplug",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Brigitte_Skin_Sparkplug.png"
+    "name": "Ramattra",
+    "skin_name": "Kabuki",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Ramattra_Skin_Kabuki.png"
   }
 }
