@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
+    "name": "Junker Queen",
     "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "3... 2... 1...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Juno_-_3..._2..._1.ogg"
+    "name": "D.Va",
+    "quote": "Healed up!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/D.Va_-_Healed_up.ogg"
   },
   "secretEmoji": {
     "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "emojis": "💉👵🔭"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Kabuki",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Ramattra_Skin_Kabuki.png"
+    "name": "Reaper",
+    "skin_name": "Pumpkin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Reaper_Skin_Pumpkin.png"
   }
 }
