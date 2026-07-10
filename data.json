@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "name": "Bastion",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Healed up!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/D.Va_-_Healed_up.ogg"
+    "name": "Moira",
+    "quote": "Dissolution.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Moira_-_Dissolution.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "💉👵🔭"
+    "name": "Baptiste",
+    "emojis": "🧴💉🩹"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Pumpkin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Reaper_Skin_Pumpkin.png"
+    "name": "Zenyatta",
+    "skin_name": "Zealot",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Zealot.png"
   }
 }
