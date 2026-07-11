@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "Dissolution.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Moira_-_Dissolution.ogg"
+    "name": "Mercy",
+    "quote": "Group up! Assault inbound!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_-_Group_up%21_Assault_inbound.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🧴💉🩹"
+    "name": "Ashe",
+    "emojis": "🤠🔥🪙"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Zealot",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Zealot.png"
+    "name": "Soldier: 76",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/S76_Skin_Overwatch_2.png"
   }
 }
