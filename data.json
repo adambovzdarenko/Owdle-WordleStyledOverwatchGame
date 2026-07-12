@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Group up! Assault inbound!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_-_Group_up%21_Assault_inbound.ogg"
+    "name": "Kiriko",
+    "quote": "Take the enemy flag.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Kiriko_-_Take_the_enemy_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🤠🔥🪙"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/S76_Skin_Overwatch_2.png"
+    "name": "Sombra",
+    "skin_name": "Aztec",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Sombra_Skin_Aztec.png"
   }
 }
