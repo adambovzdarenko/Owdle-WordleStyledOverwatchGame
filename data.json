@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
+    "name": "Mercy",
     "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Kiriko",
-    "quote": "Take the enemy flag.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Kiriko_-_Take_the_enemy_flag.ogg"
+    "name": "Ramattra",
+    "quote": "I thank you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Ramattra_-_I_thank_you_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Baptiste",
+    "emojis": "🛡️📦💊"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Aztec",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Sombra_Skin_Aztec.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Sugar Bomb",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Wrecking_Ball_Skin_Sugar_Bomb.png"
   }
 }
