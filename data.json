@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
-    "gender": "Male",
+    "name": "Tracer",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
-    "releaseYear": 2019
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "Don't mention it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Roadhog_-_Don%27t_mention_it.ogg"
+    "name": "Winston",
+    "quote": "Behind you!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Winston_-_Behind_you.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🔬🛡️🍌"
+    "name": "Widowmaker",
+    "emojis": "🔭🧊🎻"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Deku",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Tracer_Skin_Deku.png"
+    "name": "Orisa",
+    "skin_name": "Demon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Orisa_Skin_Demon.png"
   }
 }
