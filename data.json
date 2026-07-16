@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Sojourn",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "UK 🇬🇧",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "Behind you!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Winston_-_Behind_you.ogg"
+    "name": "Roadhog",
+    "quote": "Junker Queen:Mako, theWreckerswant you back. Thought you might like to know.*name*:*meaningful grunt*Junker Queen:Ha! They'll hate that. I'll pass it along.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Junker_Queen_-_Mako%2C_the_Wreckers_want_you_back._Thought_you_might_like_to_know.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🔭🧊🎻"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Demon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Orisa_Skin_Demon.png"
+    "name": "Soldier: 76",
+    "skin_name": "Slasher: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/S76_Skin_Slasher.png"
   }
 }
