@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Genji",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "Junker Queen:Mako, theWreckerswant you back. Thought you might like to know.*name*:*meaningful grunt*Junker Queen:Ha! They'll hate that. I'll pass it along.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Junker_Queen_-_Mako%2C_the_Wreckers_want_you_back._Thought_you_might_like_to_know.ogg"
+    "name": "Winston",
+    "quote": "*name*: I got you a present, Lena! But you can't unwrap it until after the mission.Tracer: Ooh, what is it?*name*: Wha-- I'm not going to tell you!Tracer: Pleeease, *name*? Please? Just a little hint?*name*: Absolutely not!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Winston_-_I_got_you_a_present%2C_Lena%21_But_you_can%27t_unwrap_it_until_after_the_mission.ogg"
   },
   "secretEmoji": {
-    "name": "Torbjörn",
-    "emojis": "🎯🧔🏼🔥"
+    "name": "Zenyatta",
+    "emojis": "🧘‍♂️🔵☯️"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Slasher: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/S76_Skin_Slasher.png"
+    "name": "Brigitte",
+    "skin_name": "Turned Hunter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Brigitte_Skin_Turned_Hunter.png"
   }
 }
