@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "affiliation": "Talon",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "*name*: I got you a present, Lena! But you can't unwrap it until after the mission.Tracer: Ooh, what is it?*name*: Wha-- I'm not going to tell you!Tracer: Pleeease, *name*? Please? Just a little hint?*name*: Absolutely not!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Winston_-_I_got_you_a_present%2C_Lena%21_But_you_can%27t_unwrap_it_until_after_the_mission.ogg"
+    "name": "Lucio",
+    "quote": "This time... I'll roll higher!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/L%C3%BAcio_-_This_time%2C_I%27ll_roll_higher.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🧘‍♂️🔵☯️"
+    "name": "Illari",
+    "emojis": "🌞🛐🇵🇪"
   },
   "secretSkin": {
-    "name": "Brigitte",
-    "skin_name": "Turned Hunter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Brigitte_Skin_Turned_Hunter.png"
+    "name": "Sojourn",
+    "skin_name": "Formalwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Sojourn_Skin_Formalwear.png"
   }
 }
