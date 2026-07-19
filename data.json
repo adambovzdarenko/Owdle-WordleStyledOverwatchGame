@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "France 🇫🇷",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "This time... I'll roll higher!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/L%C3%BAcio_-_This_time%2C_I%27ll_roll_higher.ogg"
+    "name": "Baptiste",
+    "quote": "Assist: me.*laugh*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Baptiste_-_Assist%2C_me.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Sojourn",
-    "skin_name": "Formalwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Sojourn_Skin_Formalwear.png"
+    "name": "Bastion",
+    "skin_name": "Stealth",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Bastion_Skin_Stealth.png"
   }
 }
