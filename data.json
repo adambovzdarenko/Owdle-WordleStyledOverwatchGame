@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "name": "Pharah",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Assist: me.*laugh*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Baptiste_-_Assist%2C_me.ogg"
+    "name": "Brigitte",
+    "quote": "Its legs are down! That should make this easier.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Brigitte_-_Its_legs_are_down%21_That_should_make_this_easier.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🧿🔷🖼️"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Stealth",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Bastion_Skin_Stealth.png"
+    "name": "Ana",
+    "skin_name": "Captain Amari",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Ana_Skin_Captain_Amari.png"
   }
 }
