@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
+    "name": "Tracer",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "Its legs are down! That should make this easier.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Brigitte_-_Its_legs_are_down%21_That_should_make_this_easier.ogg"
+    "name": "Mercy",
+    "quote": "They're about to pass us! We have to stop them!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Mercy_-_They%27re_about_to_pass_us%21_We_have_to_stop_them.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Reaper",
+    "emojis": "💀🌫️🕶️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Captain Amari",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Ana_Skin_Captain_Amari.png"
+    "name": "Juno",
+    "skin_name": "Away OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png"
   }
 }
