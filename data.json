@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "They're about to pass us! We have to stop them!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Mercy_-_They%27re_about_to_pass_us%21_We_have_to_stop_them.ogg"
+    "name": "Kiriko",
+    "quote": "That's a lot of bad guys!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Kiriko_-_That%27s_a_lot_of_bad_guys.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Junkrat",
+    "emojis": "💣😜🧨"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Away OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png"
+    "name": "Widowmaker",
+    "skin_name": "Saint-Tropez",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Widowmaker_Skin_Saint-Tropez.png"
   }
 }
