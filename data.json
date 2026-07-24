@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
+    "name": "Lucio",
     "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Brazil 🇧🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Covering this position.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Mauga_-_Covering_this_position.ogg"
+    "name": "Junker Queen",
+    "quote": "Oi! Get on the payload or I'll nail you to it!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Junker_Queen_-_Oi%21_Get_on_the_payload_or_I%27ll_nail_you_to_it.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "👾🚀💥"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Thorn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Ashe_Skin_Thorn.png"
+    "name": "Illari",
+    "skin_name": "Winter Jammies",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Illari_Skin_Winter_Jammies.png"
   }
 }
