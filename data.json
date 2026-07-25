@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Oi! Get on the payload or I'll nail you to it!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Junker_Queen_-_Oi%21_Get_on_the_payload_or_I%27ll_nail_you_to_it.ogg"
+    "name": "Hanzo",
+    "quote": "The enemy has claimed the robot.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Hanzo_-_The_enemy_has_claimed_the_robot.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "Hanzo",
+    "emojis": "🌀🧘‍♂️⛰️"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Winter Jammies",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Illari_Skin_Winter_Jammies.png"
+    "name": "Sombra",
+    "skin_name": "Demon Hunter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Sombra_Skin_Demon_Hunter.png"
   }
 }
