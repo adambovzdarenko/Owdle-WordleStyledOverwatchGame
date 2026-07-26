@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
+    "name": "Sojourn",
     "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "The enemy has claimed the robot.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Hanzo_-_The_enemy_has_claimed_the_robot.ogg"
+    "name": "Orisa",
+    "quote": "Halt the payload!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Orisa_-_Halt_the_payload.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "D.Va",
+    "emojis": "👾🚀💥"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Demon Hunter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Sombra_Skin_Demon_Hunter.png"
+    "name": "Mercy",
+    "skin_name": "Formalwear",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png"
   }
 }
