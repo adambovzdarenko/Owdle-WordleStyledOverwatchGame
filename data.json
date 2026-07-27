@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Bastion",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "affiliation": "Ironclad Guild",
+    "gender": "None",
+    "species": "Omnic",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Halt the payload!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Orisa_-_Halt_the_payload.ogg"
+    "name": "Reaper",
+    "quote": "If we keep the robot, they're done.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Reaper_-_If_we_keep_the_robot%2C_they%27re_done.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "👾🚀💥"
+    "name": "Bastion",
+    "emojis": "📡🛡️💥"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Formalwear",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png"
+    "name": "Pharah",
+    "skin_name": "Emerald",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Pharah_Skin_Emerald.png"
   }
 }
