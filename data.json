@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Pharah",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "If we keep the robot, they're done.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Reaper_-_If_we_keep_the_robot%2C_they%27re_done.ogg"
+    "name": "Hanzo",
+    "quote": "Hadoken!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Hanzo_-_Hadoken_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "📡🛡️💥"
+    "name": "Venture",
+    "emojis": "🛠️⛏️🌍"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Emerald",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Pharah_Skin_Emerald.png"
+    "name": "Junker Queen",
+    "skin_name": "Necrotic Witch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Junker_Queen_Skin_Necrotic_Witch.png"
   }
 }
