@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Pharah",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬 Canada 🇨🇦",
-    "releaseYear": 2016
+    "name": "Hazard",
+    "role": "Tank",
+    "affiliation": "Phreaks",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Scottish 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Hanzo",
-    "quote": "Hadoken!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Hanzo_-_Hadoken_%281%29.ogg"
+    "name": "Mauga",
+    "quote": "No flight, only fight.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/00000006322C.0B2-No_flight%2C_only_fight.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "🛠️⛏️🌍"
+    "name": "Sombra",
+    "emojis": "🕳️📡🧠"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Necrotic Witch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Junker_Queen_Skin_Necrotic_Witch.png"
+    "name": "Genji",
+    "skin_name": "Heihu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Genji_Skin_Heihu.png"
   }
 }
