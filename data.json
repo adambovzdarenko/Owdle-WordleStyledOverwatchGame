@@ -9,17 +9,17 @@
     "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "No flight, only fight.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/00000006322C.0B2-No_flight%2C_only_fight.ogg"
+    "name": "Kiriko",
+    "quote": "These are the first cacti I've seen that weren't dying on someone's windowsill.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Kiriko_-_These_are_the_first_cacti_I%27ve_seen_that_weren%27t_dying_on_somebody%27s_windowsill.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "🕳️📡🧠"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Heihu",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Genji_Skin_Heihu.png"
+    "name": "Doomfist",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Doomfist_Skin_Overwatch_2.png"
   }
 }
