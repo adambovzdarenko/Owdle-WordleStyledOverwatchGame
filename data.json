@@ -9,17 +9,17 @@
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "*battle roar*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Roadhog_-_%28battle_roar%29.ogg"
+    "name": "Widowmaker",
+    "quote": "*name*: Entourée, comme d'habitude, d'hommes stupides.*sigh*English:I am surrounded, as usual, by moronic men.Baptiste: Careful! You never know who speaks French.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Widowmaker_-_%28French%29_I_am_surrounded%2C_as_usual%2C_by_moronic_men.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🌀🧘‍♂️⛰️"
+    "name": "Mauga",
+    "emojis": "🛡️💣🎶"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Zhulong",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Sombra_Skin_Zhulong.png"
+    "name": "Mauga",
+    "skin_name": "Jötunn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mauga_Skin_J%C3%B6tunn.png"
   }
 }
