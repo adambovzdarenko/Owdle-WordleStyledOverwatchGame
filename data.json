@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
+    "name": "Torbjörn",
+    "role": "Damage",
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Widowmaker",
-    "quote": "*name*: Entourée, comme d'habitude, d'hommes stupides.*sigh*English:I am surrounded, as usual, by moronic men.Baptiste: Careful! You never know who speaks French.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Widowmaker_-_%28French%29_I_am_surrounded%2C_as_usual%2C_by_moronic_men.ogg"
+    "name": "Echo",
+    "quote": "I'm going whole hog!(self and hostile)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Echo_-_I%27m_going_whole_hog.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🛡️💣🎶"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Jötunn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Mauga_Skin_J%C3%B6tunn.png"
+    "name": "Venture",
+    "skin_name": "Babylon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
   }
 }
