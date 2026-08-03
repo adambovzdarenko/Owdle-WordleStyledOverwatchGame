@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "nationality": "Brazil 🇧🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "I'm going whole hog!(self and hostile)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Echo_-_I%27m_going_whole_hog.ogg"
+    "name": "Ana",
+    "quote": "Ashe: They say you're a good shot. Hope you don't mind that I'm better.*name*: I know more than anyone that a head that big is an easy target.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Ashe_-_They_say_you%27re_a_good_shot._Hope_you_don%27t_mind_that_I%27m_better.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🦜🪖🌲"
+    "name": "Roadhog",
+    "emojis": "😶💤💥"
   },
   "secretSkin": {
-    "name": "Venture",
-    "skin_name": "Babylon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Venture_Skin_Babylon.png"
+    "name": "Juno",
+    "skin_name": "Away OWCS",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png"
   }
 }
