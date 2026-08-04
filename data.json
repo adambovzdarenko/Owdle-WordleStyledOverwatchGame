@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Ashe: They say you're a good shot. Hope you don't mind that I'm better.*name*: I know more than anyone that a head that big is an easy target.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Ashe_-_They_say_you%27re_a_good_shot._Hope_you_don%27t_mind_that_I%27m_better.ogg"
+    "name": "Torbjörn",
+    "quote": "My baby's under attack!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Torbj%C3%B6rn_-_My_baby%27s_under_attack.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "😶💤💥"
+    "name": "Ana",
+    "emojis": "🎯💤🧕"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Away OWCS",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png"
+    "name": "Soldier: 76",
+    "skin_name": "Overwatch League Gray",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/S76_Skin_Overwatch_League_Gray.png"
   }
 }
