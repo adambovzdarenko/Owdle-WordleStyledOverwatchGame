@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Bastion",
+    "name": "Venture",
     "role": "Damage",
-    "affiliation": "Ironclad Guild",
-    "gender": "None",
-    "species": "Omnic",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
+    "species": "Human",
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Put your security in my hands.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Pharah_-_Put_your_security_in_my_hands.ogg"
+    "name": "Brigitte",
+    "quote": "An efficient use of my energy.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Brigitte_-_An_efficient_use_of_my_energy.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "🔵📡🎶"
+    "name": "Reaper",
+    "emojis": "💀🌫️🕶️"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Utopaea",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Symmetra_Skin_Utopaea.png"
+    "name": "Genji",
+    "skin_name": "Kendoka",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Genji_Skin_Kendoka.png"
   }
 }
