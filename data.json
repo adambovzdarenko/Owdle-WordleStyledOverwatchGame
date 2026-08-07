@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Brigitte",
-    "quote": "An efficient use of my energy.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Brigitte_-_An_efficient_use_of_my_energy.ogg"
+    "quote": "The doctor is in.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Brigitte_-_The_doctor_is_in.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Junkrat",
+    "emojis": "🔥🦴🏚️"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Kendoka",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Genji_Skin_Kendoka.png"
+    "name": "Zenyatta",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png"
   }
 }
