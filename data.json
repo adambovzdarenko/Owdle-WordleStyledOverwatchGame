@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Genji",
     "role": "Damage",
-    "affiliation": "Junkers",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "The doctor is in.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Brigitte_-_The_doctor_is_in.ogg"
+    "name": "Genji",
+    "quote": "It's firing missiles!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Genji_-_It%27s_firing_missiles.ogg"
   },
   "secretEmoji": {
     "name": "Junkrat",
-    "emojis": "🔥🦴🏚️"
+    "emojis": "😂💥🧺"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png"
+    "name": "Soldier: 76",
+    "skin_name": "Alpine: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
   }
 }
