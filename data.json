@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "It's firing missiles!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Genji_-_It%27s_firing_missiles.ogg"
+    "name": "Ramattra",
+    "quote": "*name*: From one engineer to another, why a ball?Wrecking Ball: A wheel would fall over.*name*:*laughs*Delightful!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Ramattra_-_From_one_engineer_to_another%2C_why_a_ball.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "😂💥🧺"
+    "name": "Ashe",
+    "emojis": "💣📯🔫"
   },
   "secretSkin": {
-    "name": "Soldier: 76",
-    "skin_name": "Alpine: 76",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/97/S76_Skin_Alpine.png"
+    "name": "Zenyatta",
+    "skin_name": "Carbon Fiber",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_Skin_Carbon_Fiber.png"
   }
 }
