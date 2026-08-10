@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
+    "name": "Mercy",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "*name*: From one engineer to another, why a ball?Wrecking Ball: A wheel would fall over.*name*:*laughs*Delightful!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Ramattra_-_From_one_engineer_to_another%2C_why_a_ball.ogg"
+    "name": "Genji",
+    "quote": "*name*: It is strange to be here again.Mercy: It's... different. Certainly not the Gibraltar I remember.*name*: If you are missing old times, I could try almost dying again.Mercy:*laugh*You make my job hard enough when you're not trying.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Genji_-_It_is_strange_to_be_here_again.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "💣📯🔫"
+    "name": "Junker Queen",
+    "emojis": "🐀🏋️‍♀️💉"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_Skin_Carbon_Fiber.png"
+    "name": "Symmetra",
+    "skin_name": "Technomancer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Symmetra_Skin_Technomancer.png"
   }
 }
