@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
+    "name": "Brigitte",
     "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2016
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "*name*: It is strange to be here again.Mercy: It's... different. Certainly not the Gibraltar I remember.*name*: If you are missing old times, I could try almost dying again.Mercy:*laugh*You make my job hard enough when you're not trying.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Genji_-_It_is_strange_to_be_here_again.ogg"
+    "name": "Ramattra",
+    "quote": "*name*: From one engineer to another, why a ball?Wrecking Ball: A wheel would fall over.*name*:*laughs*Delightful!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Ramattra_-_From_one_engineer_to_another%2C_why_a_ball.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🐀🏋️‍♀️💉"
+    "name": "Symmetra",
+    "emojis": "🌐🧠📊"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Technomancer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Symmetra_Skin_Technomancer.png"
+    "name": "Junker Queen",
+    "skin_name": "Punker Queen",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Junker_Queen_Skin_Punker_Queen.png"
   }
 }
