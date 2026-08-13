@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
+    "name": "Orisa",
     "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "affiliation": "Numbani Overwatch",
+    "gender": "Female",
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Loss schmoss. This is totally winnable.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Venture_-_Loss_schmoss._This_is_totally_winnable.ogg"
+    "name": "Mauga",
+    "quote": "Got the robot. Let's go!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Mauga_-_Got_the_robot._Let%27s_go.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🧘‍♂️✨📦"
+    "name": "Reinhardt",
+    "emojis": "🛡️🧔‍♂️🔥"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Éireannach",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Moira_Skin_%C3%89ireannach.png"
+    "name": "Lifeweaver",
+    "skin_name": "Baldr",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Lifeweaver_Skin_Baldr.png"
   }
 }
