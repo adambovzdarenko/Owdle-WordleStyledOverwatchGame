@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "Reinhardt",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mauga",
-    "quote": "Got the robot. Let's go!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Mauga_-_Got_the_robot._Let%27s_go.ogg"
+    "name": "Orisa",
+    "quote": "An improbable escape.(on low HP)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Orisa_-_An_improbable_escape.ogg"
   },
   "secretEmoji": {
-    "name": "Reinhardt",
-    "emojis": "🛡️🧔‍♂️🔥"
+    "name": "Sojourn",
+    "emojis": "🧠💥🛡️"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Baldr",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Lifeweaver_Skin_Baldr.png"
+    "name": "Tracer",
+    "skin_name": "Black Cat",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Tracer_Skin_Black_Cat.png"
   }
 }
