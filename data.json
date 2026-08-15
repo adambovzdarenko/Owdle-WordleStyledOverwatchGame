@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Junker Queen",
     "role": "Tank",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "affiliation": "Junkers",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "An improbable escape.(on low HP)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Orisa_-_An_improbable_escape.ogg"
+    "name": "Echo",
+    "quote": "Let's head to the objective!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Echo_-_Let%27s_head_to_the_objective.ogg"
   },
   "secretEmoji": {
     "name": "Sojourn",
-    "emojis": "🧠💥🛡️"
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Black Cat",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Tracer_Skin_Black_Cat.png"
+    "name": "Sombra",
+    "skin_name": "Oro",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Sombra_Skin_Oro.png"
   }
 }
