@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
+    "name": "Doomfist",
     "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Let's head to the objective!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Echo_-_Let%27s_head_to_the_objective.ogg"
+    "name": "Moira",
+    "quote": "If we're hoping to win, now's the time.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Moira_-_If_we%27re_hoping_to_win%2C_now%27s_the_time.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Genji",
+    "emojis": "👤💚🎴"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Oro",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Sombra_Skin_Oro.png"
+    "name": "Symmetra",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Symmetra_Skin_Classic.png"
   }
 }
