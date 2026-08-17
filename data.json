@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
+    "name": "Mauga",
     "role": "Tank",
     "affiliation": "Talon",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "If we're hoping to win, now's the time.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Moira_-_If_we%27re_hoping_to_win%2C_now%27s_the_time.ogg"
+    "name": "Tracer",
+    "quote": "Blinkity-blinkity! *name*'s here! Yeah!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Tracer_-_Blinkity_blinkity%21_Tracer%27s_here%2C_yeah.ogg"
   },
   "secretEmoji": {
     "name": "Genji",
-    "emojis": "👤💚🎴"
+    "emojis": "🍃⚔️🦾"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Symmetra_Skin_Classic.png"
+    "name": "Ashe",
+    "skin_name": "Posh",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Posh.png"
   }
 }
