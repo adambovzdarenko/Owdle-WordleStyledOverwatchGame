@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Mercy",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Tracer",
-    "quote": "Blinkity-blinkity! *name*'s here! Yeah!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Tracer_-_Blinkity_blinkity%21_Tracer%27s_here%2C_yeah.ogg"
+    "name": "Juno",
+    "quote": "Could someone handle this?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Juno_-_Could_someone_handle_this.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🍃⚔️🦾"
+    "name": "Freja",
+    "emojis": "🔵🏹🪶"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Posh",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ashe_Skin_Posh.png"
+    "name": "Winston",
+    "skin_name": "Catcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
   }
 }
