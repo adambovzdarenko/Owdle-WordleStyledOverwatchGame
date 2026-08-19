@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
+    "name": "Brigitte",
     "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2016
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Could someone handle this?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Juno_-_Could_someone_handle_this.ogg"
+    "name": "D.Va",
+    "quote": "Stop the payload!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_Stop_the_payload.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🔵🏹🪶"
+    "name": "Moira",
+    "emojis": "💉🧛‍♀️🦹‍♀️"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Catcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Winston_Skin_Catcher.png"
+    "name": "Reinhardt",
+    "skin_name": "Polar",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Reinhardt_Skin_Polar.png"
   }
 }
