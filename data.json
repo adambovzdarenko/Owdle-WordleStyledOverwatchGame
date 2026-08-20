@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Freja",
+    "role": "Damage",
+    "affiliation": "Danish Armed Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Denmark 🇩🇰",
+    "releaseYear": 2025
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Stop the payload!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_Stop_the_payload.ogg"
+    "name": "Freja",
+    "quote": "I never get tired of this.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Freja_-_I_never_get_tired_of_this.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "💉🧛‍♀️🦹‍♀️"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Polar",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Reinhardt_Skin_Polar.png"
+    "name": "Illari",
+    "skin_name": "Shadowchild",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
   }
 }
