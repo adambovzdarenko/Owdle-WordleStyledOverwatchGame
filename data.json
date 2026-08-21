@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Freja",
-    "role": "Damage",
-    "affiliation": "Danish Armed Forces / Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Denmark 🇩🇰",
-    "releaseYear": 2025
+    "name": "Zenyatta",
+    "role": "Support",
+    "affiliation": "Shambali",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "I never get tired of this.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Freja_-_I_never_get_tired_of_this.ogg"
+    "name": "Reaper",
+    "quote": "My mistake...",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Reaper_-_My_mistake.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "💫🎯🗿"
+    "name": "Roadhog",
+    "emojis": "😶💤💥"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Shadowchild",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
+    "name": "Echo",
+    "skin_name": "Stealth",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Echo_Skin_Stealth.png"
   }
 }
