@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
-    "role": "Support",
-    "affiliation": "Shambali",
+    "name": "Reinhardt",
+    "role": "Tank",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "species": "Human",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "My mistake...",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Reaper_-_My_mistake.ogg"
+    "name": "McCree / Cassidy",
+    "quote": "Deadeye",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Cassidy_-_It%27s_high_tide.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "😶💤💥"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Stealth",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Echo_Skin_Stealth.png"
+    "name": "Tracer",
+    "skin_name": "Ultraviolet",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Tracer_Skin_Ultraviolet.png"
   }
 }
