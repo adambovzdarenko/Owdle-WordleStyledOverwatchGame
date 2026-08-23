@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
-    "role": "Tank",
+    "name": "Mei",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
+    "nationality": "China 🇨🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "McCree / Cassidy",
-    "quote": "Deadeye",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Cassidy_-_It%27s_high_tide.ogg"
+    "name": "Doomfist",
+    "quote": "*name*: A claw hand? Inefficient.Torbjörn: Well, we can'tallhave ultra-powerful gauntlets.*name*: No. You cannot.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Doomfist_-_A_claw_hand._Inefficient.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Mercy",
+    "emojis": "🏥🪄🔋"
   },
   "secretSkin": {
-    "name": "Tracer",
-    "skin_name": "Ultraviolet",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Tracer_Skin_Ultraviolet.png"
+    "name": "Hanzo",
+    "skin_name": "Casual",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Hanzo_Skin_Casual.png"
   }
 }
