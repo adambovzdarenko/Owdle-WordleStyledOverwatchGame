@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
+    "name": "Sojourn",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "China 🇨🇳",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Doomfist",
-    "quote": "*name*: A claw hand? Inefficient.Torbjörn: Well, we can'tallhave ultra-powerful gauntlets.*name*: No. You cannot.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Doomfist_-_A_claw_hand._Inefficient.ogg"
+    "name": "Junkrat",
+    "quote": "Clean hit, clean hit.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Junkrat_-_Clean_hit%2C_clean_hit.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "🏥🪄🔋"
+    "name": "Pharah",
+    "emojis": "🦅💥🛡️"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Casual",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Hanzo_Skin_Casual.png"
+    "name": "Winston",
+    "skin_name": "Ocean King",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Winston_Skin_Ocean_King.png"
   }
 }
