@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
+    "name": "Lifeweaver",
+    "role": "Support",
+    "affiliation": "The Collective",
     "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "Thai 🇹🇭",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Venture",
-    "quote": "Yeah! Let's break some rules!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Venture_-_Yeah%21_Let%27s_break_some_rules.ogg"
+    "name": "Zenyatta",
+    "quote": "Dropping the flag.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Zenyatta_-_Dropping_the_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🔥💣🖤"
+    "name": "Ramattra",
+    "emojis": "⚫🧘‍♂️📢"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Calavera",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Reaper_Skin_Calavera.png"
+    "name": "Lifeweaver",
+    "skin_name": "Orchid",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Lifeweaver_Skin_Orchid.png"
   }
 }
