@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lifeweaver",
-    "role": "Support",
-    "affiliation": "The Collective",
+    "name": "Winston",
+    "role": "Tank",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Thai 🇹🇭",
-    "releaseYear": 2023
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Dropping the flag.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e4/Zenyatta_-_Dropping_the_flag.ogg"
+    "name": "Orisa",
+    "quote": "Good work. They won't try that again.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Orisa_-_Good_work._They_won%27t_try_that_again.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "⚫🧘‍♂️📢"
+    "name": "Symmetra",
+    "emojis": "💠🔲📐"
   },
   "secretSkin": {
-    "name": "Lifeweaver",
-    "skin_name": "Orchid",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Lifeweaver_Skin_Orchid.png"
+    "name": "D.Va",
+    "skin_name": "Heist",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/D.Va_Skin_Heist.png"
   }
 }
