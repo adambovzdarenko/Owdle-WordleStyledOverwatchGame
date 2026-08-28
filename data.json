@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Winston",
-    "role": "Tank",
+    "name": "Soldier: 76",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Gorilla",
+    "species": "Human",
     "nationality": "United States 🇺🇸",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Good work. They won't try that again.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Orisa_-_Good_work._They_won%27t_try_that_again.ogg"
+    "name": "Mercy",
+    "quote": "Let's get you back into the fight.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Mercy_-_Let%27s_get_you_back_into_the_fight.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "💠🔲📐"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Heist",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/D.Va_Skin_Heist.png"
+    "name": "Mauga",
+    "skin_name": "Bonesplinter",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Mauga_Skin_Bonesplinter.png"
   }
 }
