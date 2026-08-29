@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Soldier: 76",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mercy",
-    "quote": "Let's get you back into the fight.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Mercy_-_Let%27s_get_you_back_into_the_fight.ogg"
+    "name": "Soldier: 76",
+    "quote": "(screams)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Soldier_76_-_%28screams%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "💫🎯🗿"
+    "name": "Junker Queen",
+    "emojis": "🐀🏋️‍♀️💉"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Bonesplinter",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Mauga_Skin_Bonesplinter.png"
+    "name": "D.Va",
+    "skin_name": "Gentle Tokki Aqua",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/D.Va_Skin_Gentle_Tokki_Aqua.png"
   }
 }
