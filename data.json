@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Sombra",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "(screams)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Soldier_76_-_%28screams%29_%281%29.ogg"
+    "name": "Junker Queen",
+    "quote": "Ahh... How I've missed the smell of our plutonium springs.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Junker_Queen_-_How_I%27ve_missed_the_smell_of_our_plutonium_springs.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🐀🏋️‍♀️💉"
+    "name": "Mercy",
+    "emojis": "👼🩺💛"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Gentle Tokki Aqua",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/D.Va_Skin_Gentle_Tokki_Aqua.png"
+    "name": "Illari",
+    "skin_name": "Qumir",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png"
   }
 }
