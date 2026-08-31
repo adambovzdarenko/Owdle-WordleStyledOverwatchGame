@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
-    "affiliation": "Talon",
+    "name": "Illari",
+    "role": "Support",
+    "affiliation": "Inti Warriors",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
-    "releaseYear": 2016
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Ahh... How I've missed the smell of our plutonium springs.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Junker_Queen_-_How_I%27ve_missed_the_smell_of_our_plutonium_springs.ogg"
+    "name": "Zenyatta",
+    "quote": "Let us clear them off the objective.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Zenyatta_-_Let_us_clear_them_off_the_objective.ogg"
   },
   "secretEmoji": {
-    "name": "Mercy",
-    "emojis": "👼🩺💛"
+    "name": "Wrecking Ball",
+    "emojis": "🚨🛞🎮"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Qumir",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png"
+    "name": "Orisa",
+    "skin_name": "Sunrise",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Sunrise.png"
   }
 }
