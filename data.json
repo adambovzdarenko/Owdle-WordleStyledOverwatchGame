@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
+    "name": "Mei",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "nationality": "China 🇨🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "Let us clear them off the objective.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Zenyatta_-_Let_us_clear_them_off_the_objective.ogg"
+    "name": "Hanzo",
+    "quote": "Fall from grace; as I have.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Hanzo_-_Fall_from_grace%2C_as_I_have.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🚨🛞🎮"
+    "name": "Torbjörn",
+    "emojis": "🎯🧔🏼🔥"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Sunrise",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Sunrise.png"
+    "name": "Lifeweaver",
+    "skin_name": "Amsonia",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Lifeweaver_Skin_Amsonia.png"
   }
 }
