@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Tracer",
     "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Brigitte: Papa, is there anything you'd like to say to our teammates?Torbjörn: I'm... looking forward to working with you.*name*: And I with you.Torbjörn: Yes, well. Let's get this done.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Brigitte_-_Papa%2C_is_there_anything_you%27d_like_to_say_to_our_teammates.ogg"
+    "name": "Zenyatta",
+    "quote": "A telling blow.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Zenyatta_-_A_telling_blow.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Mercy",
-    "skin_name": "Amber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Mercy_Skin_Amber.png"
+    "name": "Pharah",
+    "skin_name": "Inarius",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Pharah_Skin_Inarius.png"
   }
 }
