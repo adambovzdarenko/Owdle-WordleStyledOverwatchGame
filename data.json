@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
-    "affiliation": "Overwatch",
+    "name": "Moira",
+    "role": "Support",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
-    "releaseYear": 2016
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Zenyatta",
-    "quote": "A telling blow.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Zenyatta_-_A_telling_blow.ogg"
+    "name": "Junker Queen",
+    "quote": "*name*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Junker_Queen_%28Announcer%29_-_Zeus_wins.ogg"
   },
   "secretEmoji": {
-    "name": "Bastion",
-    "emojis": "🦜🪖🌲"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Inarius",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Pharah_Skin_Inarius.png"
+    "name": "Sombra",
+    "skin_name": "Antifragile Slay Star",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Sombra_Skin_Antifragile_Slay_Star.png"
   }
 }
