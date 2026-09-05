@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
+    "name": "Sigma",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "*name*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Junker_Queen_%28Announcer%29_-_Zeus_wins.ogg"
+    "name": "Mei",
+    "quote": "Enemy's here.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mei_-_Enemy%27s_here.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Sombra",
+    "emojis": "💻🕵️‍♀️💀"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Antifragile Slay Star",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Sombra_Skin_Antifragile_Slay_Star.png"
+    "name": "Symmetra",
+    "skin_name": "Infernal Witch",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Symmetra_Skin_Infernal_Witch.png"
   }
 }
