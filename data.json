@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
+    "name": "Moira",
+    "role": "Support",
     "affiliation": "Talon",
-    "gender": "Male",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Ireland 🇮🇪",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Enemy's here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mei_-_Enemy%27s_here.ogg"
+    "name": "Bastion",
+    "quote": "Baptiste: Have you all seen what this guy can do?*name*: *bashful beeps*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Baptiste_-_Have_you_all_seen_what_this_guy_can_do.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "💻🕵️‍♀️💀"
+    "name": "Lifeweaver",
+    "emojis": "🖐️🛌🌀"
   },
   "secretSkin": {
-    "name": "Symmetra",
-    "skin_name": "Infernal Witch",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Symmetra_Skin_Infernal_Witch.png"
+    "name": "Echo",
+    "skin_name": "Carbon Fiber",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Echo_Skin_Carbon_Fiber.png"
   }
 }
