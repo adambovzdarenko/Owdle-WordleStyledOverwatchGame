@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
-    "gender": "Female",
+    "name": "Junkrat",
+    "role": "Damage",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Bastion",
-    "quote": "Baptiste: Have you all seen what this guy can do?*name*: *bashful beeps*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Baptiste_-_Have_you_all_seen_what_this_guy_can_do.ogg"
+    "name": "Illari",
+    "quote": "Are you heading to the next point or not?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Illari_-_Are_you_heading_to_the_next_point_or_not.ogg"
   },
   "secretEmoji": {
-    "name": "Lifeweaver",
-    "emojis": "🖐️🛌🌀"
+    "name": "Junker Queen",
+    "emojis": "🐀🏋️‍♀️💉"
   },
   "secretSkin": {
-    "name": "Echo",
-    "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Echo_Skin_Carbon_Fiber.png"
+    "name": "Hanzo",
+    "skin_name": "Scion",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Hanzo_Skin_Scion.png"
   }
 }
