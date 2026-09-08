@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
+    "name": "Tracer",
     "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Are you heading to the next point or not?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Illari_-_Are_you_heading_to_the_next_point_or_not.ogg"
+    "name": "Junkrat",
+    "quote": "Hey, enemies! What'd that Uplink do to you?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Junkrat_-_Hey%2C_enemies%21_What%27d_that_Uplink_do_to_you.ogg"
   },
   "secretEmoji": {
-    "name": "Junker Queen",
-    "emojis": "🐀🏋️‍♀️💉"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Scion",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Hanzo_Skin_Scion.png"
+    "name": "Junker Queen",
+    "skin_name": "Rugby",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Junker_Queen_Skin_Rugby.png"
   }
 }
