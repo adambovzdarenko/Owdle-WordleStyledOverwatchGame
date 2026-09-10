@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mercy",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Roadhog",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Switzerland 🇨🇭",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Junker Queen",
-    "quote": "Hermes only needs 1 kill, and I bet he's gonna be quick about it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Junker_Queen_%28Announcer%29_-_Hermes_only_needs_1_kill%2C_and_I_bet_he%27s_going_to_be_quick_about_it.ogg"
+    "name": "Reinhardt",
+    "quote": "Lifeweaver: You're so old-fashioned, *name*. A hammer? How marvelous!*name*: I suppose you think I should have a giant laser gun.Lifeweaver: No, lean into it! Get Lindholm to build you one of his bigrobotic horses.Cassidy: What did you just say?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Lifeweaver_-_You%27re_so_old-fashioned%2C_Reinhardt._A_hammer%21_How_marvelous.ogg"
   },
   "secretEmoji": {
-    "name": "Juno",
-    "emojis": "👁️⚡🧭"
+    "name": "Sigma",
+    "emojis": "🌍🔃🧲"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Stone Crow",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Genji_Skin_Stone_Crow.png"
+    "name": "Roadhog",
+    "skin_name": "Butcher",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
   }
 }
