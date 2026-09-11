@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Roadhog",
+    "name": "Ramattra",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Null Sector",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "Lifeweaver: You're so old-fashioned, *name*. A hammer? How marvelous!*name*: I suppose you think I should have a giant laser gun.Lifeweaver: No, lean into it! Get Lindholm to build you one of his bigrobotic horses.Cassidy: What did you just say?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Lifeweaver_-_You%27re_so_old-fashioned%2C_Reinhardt._A_hammer%21_How_marvelous.ogg"
+    "name": "Soldier: 76",
+    "quote": "Knock, knock.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Soldier_76_-_Knock%2C_knock.ogg"
   },
   "secretEmoji": {
-    "name": "Sigma",
-    "emojis": "🌍🔃🧲"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Butcher",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Roadhog_Skin_Butcher.png"
+    "name": "Baptiste",
+    "skin_name": "Terracotta Medic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Baptiste_Skin_Terracotta_Medic.png"
   }
 }
