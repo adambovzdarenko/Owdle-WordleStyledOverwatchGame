@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "name": "Sojourn",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Knock, knock.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Soldier_76_-_Knock%2C_knock.ogg"
+    "name": "Orisa",
+    "quote": "(prolonged screaming)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Orisa_-_%28prolonged_screaming%29_%281%29.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Orisa",
+    "emojis": "⚙️🟡🌍"
   },
   "secretSkin": {
-    "name": "Baptiste",
-    "skin_name": "Terracotta Medic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Baptiste_Skin_Terracotta_Medic.png"
+    "name": "Reaper",
+    "skin_name": "Grim Effigy",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Reaper_Skin_Grim_Effigy.png"
   }
 }
