@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "(prolonged screaming)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Orisa_-_%28prolonged_screaming%29_%281%29.ogg"
+    "name": "Illari",
+    "quote": "*name*: Don't you ever feel remorse for the pain you have caused?Moira: Pain makes one stronger. You should know that better than anyone.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Illari_-_Don%27t_you_ever_feel_remorse_for_the_pain_you_have_caused.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "⚙️🟡🌍"
+    "name": "Ramattra",
+    "emojis": "🕉️🦾⚔️"
   },
   "secretSkin": {
     "name": "Reaper",
-    "skin_name": "Grim Effigy",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Reaper_Skin_Grim_Effigy.png"
+    "skin_name": "Eagle Warrior",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Reaper_Skin_Eagle_Warrior.png"
   }
 }
