@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
+    "name": "Reinhardt",
+    "role": "Tank",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "Germany 🇩🇪",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "*name*: Don't you ever feel remorse for the pain you have caused?Moira: Pain makes one stronger. You should know that better than anyone.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Illari_-_Don%27t_you_ever_feel_remorse_for_the_pain_you_have_caused.ogg"
+    "name": "Soldier: 76",
+    "quote": "I've got you in my sights!(self and hostile)",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Soldier_76_-_I%27ve_got_you_in_my_sights.ogg"
   },
   "secretEmoji": {
-    "name": "Ramattra",
-    "emojis": "🕉️🦾⚔️"
+    "name": "Moira",
+    "emojis": "🧪🖐️🩸"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Eagle Warrior",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Reaper_Skin_Eagle_Warrior.png"
+    "name": "Moira",
+    "skin_name": "Magma",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Moira_Skin_Magma.png"
   }
 }
