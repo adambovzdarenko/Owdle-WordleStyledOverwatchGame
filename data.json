@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reinhardt",
+    "name": "Mauga",
     "role": "Tank",
-    "affiliation": "Overwatch",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Germany 🇩🇪",
-    "releaseYear": 2016
+    "nationality": "Samoa 🇼🇸",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "I've got you in my sights!(self and hostile)",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Soldier_76_-_I%27ve_got_you_in_my_sights.ogg"
+    "name": "Lucio",
+    "quote": "Lúcio:Can I get a beat?Bastion:*beep boxing*Lúcio:Haha, perfect! You're the best.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/L%C3%BAcio_-_Can_I_get_a_beat.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "🧪🖐️🩸"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Magma",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Moira_Skin_Magma.png"
+    "name": "D.Va",
+    "skin_name": "Overwatch League Gray",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/D.Va_Skin_Overwatch_League_Gray.png"
   }
 }
