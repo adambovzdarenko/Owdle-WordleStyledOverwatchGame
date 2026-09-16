@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mauga",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Genji",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "Samoa 🇼🇸",
-    "releaseYear": 2023
+    "species": "Cyborg",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Lúcio:Can I get a beat?Bastion:*beep boxing*Lúcio:Haha, perfect! You're the best.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/L%C3%BAcio_-_Can_I_get_a_beat.ogg"
+    "name": "Pharah",
+    "quote": "Teammate down!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Pharah_-_Teammate_down.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Overwatch League Gray",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/D.Va_Skin_Overwatch_League_Gray.png"
+    "name": "Pharah",
+    "skin_name": "Jackal",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Pharah_Skin_Jackal.png"
   }
 }
