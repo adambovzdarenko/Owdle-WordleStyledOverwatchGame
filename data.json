@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Genji",
-    "role": "Damage",
+    "name": "Brigitte",
+    "role": "Support",
     "affiliation": "Overwatch",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2016
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Teammate down!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Pharah_-_Teammate_down.ogg"
+    "name": "Genji",
+    "quote": "Break the limit!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Genji_-_Break_the_limit.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Zarya",
+    "emojis": "🏋️‍♀️🟣🔥"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Jackal",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Pharah_Skin_Jackal.png"
+    "name": "Orisa",
+    "skin_name": "Ice Cream",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Orisa_Skin_Ice_Cream.png"
   }
 }
