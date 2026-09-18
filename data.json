@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Genji",
-    "quote": "Break the limit!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Genji_-_Break_the_limit.ogg"
+    "name": "Echo",
+    "quote": "Lúcio Selected",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Echo_-_L%C3%BAcio.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🏋️‍♀️🟣🔥"
+    "name": "Ashe",
+    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Ice Cream",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Orisa_Skin_Ice_Cream.png"
+    "name": "Doomfist",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
   }
 }
