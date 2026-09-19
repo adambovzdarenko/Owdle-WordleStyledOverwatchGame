@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "affiliation": "Vishkar",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Lúcio Selected",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Echo_-_L%C3%BAcio.ogg"
+    "name": "Torbjörn",
+    "quote": "Got it.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Torbj%C3%B6rn_-_Got_it_%282%29.ogg"
   },
   "secretEmoji": {
-    "name": "Ashe",
-    "emojis": "🦾🧔🏼‍♂️🤵‍♂️"
+    "name": "Genji",
+    "emojis": "👤💚🎴"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
+    "name": "Reaper",
+    "skin_name": "Desert",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Reaper_Skin_Desert.png"
   }
 }
