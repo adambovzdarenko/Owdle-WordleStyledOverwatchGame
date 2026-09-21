@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "McCree / Cassidy",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Heh. Just that good.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Hazard_-_Heh._Just_that_good.ogg"
+    "name": "Echo",
+    "quote": "Gung1 hei2 faat3 coi4!Hanzi:恭喜发财！English:Wishing you prosperity!!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Echo_-_%28Chinese%29_May_you_be_happy_and_prosperous.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "🎮🐰🛡️"
+    "name": "Baptiste",
+    "emojis": "🎯👓☀️"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Carved",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Orisa_Skin_Carved.png"
+    "name": "Reaper",
+    "skin_name": "Eagle Warrior",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Reaper_Skin_Eagle_Warrior.png"
   }
 }
