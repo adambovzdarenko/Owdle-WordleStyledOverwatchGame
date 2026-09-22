@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
-    "role": "Support",
-    "affiliation": "Project Red Promise",
+    "name": "Ashe",
+    "role": "Damage",
+    "affiliation": "Deadlock Gang",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "Gung1 hei2 faat3 coi4!Hanzi:恭喜发财！English:Wishing you prosperity!!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Echo_-_%28Chinese%29_May_you_be_happy_and_prosperous.ogg"
+    "name": "Ana",
+    "quote": "(garbled) Beware the Eye of Horus!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Ana_-_Beware_the_Eye_of_Horus.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🎯👓☀️"
+    "name": "Sojourn",
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Reaper",
-    "skin_name": "Eagle Warrior",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Reaper_Skin_Eagle_Warrior.png"
+    "name": "Torbjörn",
+    "skin_name": "Cybjörn",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Torbj%C3%B6rn_Skin_Cybj%C3%B6rn.png"
   }
 }
