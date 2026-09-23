@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
-    "role": "Damage",
-    "affiliation": "Deadlock Gang",
-    "gender": "Female",
-    "species": "Human",
+    "name": "Wrecking Ball",
+    "role": "Tank",
+    "affiliation": "Junkers",
+    "gender": "Male",
+    "species": "Hamster",
     "nationality": "United States 🇺🇸",
     "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "(garbled) Beware the Eye of Horus!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Ana_-_Beware_the_Eye_of_Horus.ogg"
+    "name": "Illari",
+    "quote": "Lots of enemies coming our way!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Illari_-_Lots_of_enemies_coming_our_way.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Baptiste",
+    "emojis": "🎯👓☀️"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Cybjörn",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Torbj%C3%B6rn_Skin_Cybj%C3%B6rn.png"
+    "name": "Bastion",
+    "skin_name": "Pumpkin",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Bastion_Skin_Pumpkin.png"
   }
 }
