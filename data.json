@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
+    "name": "Reaper",
+    "role": "Damage",
+    "affiliation": "Talon",
     "gender": "Male",
-    "species": "Hamster",
+    "species": "Human",
     "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Illari",
-    "quote": "Lots of enemies coming our way!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Illari_-_Lots_of_enemies_coming_our_way.ogg"
+    "name": "Ashe",
+    "quote": "It's firin' missiles!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Ashe_-_It%27s_firing_missiles.ogg"
   },
   "secretEmoji": {
     "name": "Baptiste",
-    "emojis": "🎯👓☀️"
+    "emojis": "🧴💉🩹"
   },
   "secretSkin": {
-    "name": "Bastion",
-    "skin_name": "Pumpkin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Bastion_Skin_Pumpkin.png"
+    "name": "Mauga",
+    "skin_name": "OWCS 2024 Home",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
   }
 }
