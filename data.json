@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Reaper",
-    "role": "Damage",
+    "name": "Doomfist",
+    "role": "Tank",
     "affiliation": "Talon",
     "gender": "Male",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2016
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "It's firin' missiles!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Ashe_-_It%27s_firing_missiles.ogg"
+    "name": "Ana",
+    "quote": "*name*, checking in.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Ana_-_Ana%2C_checking_in.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🧴💉🩹"
+    "name": "Mauga",
+    "emojis": "🍖💥🎯"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "OWCS 2024 Home",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
+    "name": "Zenyatta",
+    "skin_name": "Aang",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Aang.png"
   }
 }
