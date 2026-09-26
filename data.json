@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
+    "name": "Moira",
+    "role": "Support",
     "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Ireland 🇮🇪",
     "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "*name*, checking in.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Ana_-_Ana%2C_checking_in.ogg"
+    "name": "Winston",
+    "quote": "*roar*",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Winston_-_%28Primal_Rage_roar%29.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🍖💥🎯"
+    "name": "Widowmaker",
+    "emojis": "🎯💋🕷️"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Aang",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Aang.png"
+    "name": "Juno",
+    "skin_name": "Venus",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Juno_Skin_Venus.png"
   }
 }
