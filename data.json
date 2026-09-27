@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Moira",
-    "role": "Support",
-    "affiliation": "Talon",
+    "name": "Sojourn",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Ireland 🇮🇪",
-    "releaseYear": 2017
+    "species": "Cyborg",
+    "nationality": "Canada 🇨🇦",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "*roar*",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Winston_-_%28Primal_Rage_roar%29.ogg"
+    "name": "Pharah",
+    "quote": "As prophecy foretold.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Pharah_-_As_prophecy_foretold.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🎯💋🕷️"
+    "name": "Freja",
+    "emojis": "🔵🏹🪶"
   },
   "secretSkin": {
-    "name": "Juno",
-    "skin_name": "Venus",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Juno_Skin_Venus.png"
+    "name": "Reinhardt",
+    "skin_name": "Guan Yu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Reinhardt_Skin_Guan_Yu.png"
   }
 }
