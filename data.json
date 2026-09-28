@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sojourn",
+    "name": "Torbjörn",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Cyborg",
-    "nationality": "Canada 🇨🇦",
-    "releaseYear": 2022
+    "affiliation": "Ironclad Guild / Overwatch",
+    "gender": "Male",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "As prophecy foretold.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Pharah_-_As_prophecy_foretold.ogg"
+    "name": "Junkrat",
+    "quote": "Come on... we haven't got all day.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Junkrat_-_Come_on..._we_haven%27t_got_all_day.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🔵🏹🪶"
+    "name": "Genji",
+    "emojis": "🍃⚔️🦾"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Guan Yu",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Reinhardt_Skin_Guan_Yu.png"
+    "name": "Torbjörn",
+    "skin_name": "Starship Engineer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Torbj%C3%B6rn_Skin_Starship_Engineer.png"
   }
 }
