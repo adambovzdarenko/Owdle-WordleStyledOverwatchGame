@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Torbjörn",
-    "role": "Damage",
-    "affiliation": "Ironclad Guild / Overwatch",
-    "gender": "Male",
+    "name": "Juno",
+    "role": "Support",
+    "affiliation": "Project Red Promise",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2016
+    "nationality": "Mars🚀",
+    "releaseYear": 2024
   },
   "secretQuote": {
     "name": "Junkrat",
-    "quote": "Come on... we haven't got all day.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Junkrat_-_Come_on..._we_haven%27t_got_all_day.ogg"
+    "quote": "Anybody... got that?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Junkrat_-_Anybody_got_that.ogg"
   },
   "secretEmoji": {
-    "name": "Genji",
-    "emojis": "🍃⚔️🦾"
+    "name": "Baptiste",
+    "emojis": "🧴💉🩹"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Starship Engineer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Torbj%C3%B6rn_Skin_Starship_Engineer.png"
+    "name": "Sombra",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Sombra_Skin_Overwatch_2.png"
   }
 }
