@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Juno",
+    "name": "Brigitte",
     "role": "Support",
-    "affiliation": "Project Red Promise",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Mars🚀",
-    "releaseYear": 2024
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Junkrat",
-    "quote": "Anybody... got that?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Junkrat_-_Anybody_got_that.ogg"
+    "name": "Tracer",
+    "quote": "It's firing missiles!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Tracer_-_It%27s_firing_missiles.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🧴💉🩹"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "Sombra",
+    "name": "Mei",
     "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Sombra_Skin_Overwatch_2.png"
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Mei_Skin_Overwatch_2.png"
   }
 }
