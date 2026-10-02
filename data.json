@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zenyatta",
+    "name": "Mercy",
     "role": "Support",
-    "affiliation": "Shambali",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Winston",
-    "quote": "So much data at this eco-Watchpoint! I get the shivers just thinking about it.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Winston_-_So_much_data_at_this_eco-Watchpoint%21_I_get_the_shivers_just_thinking_about_it.ogg"
+    "name": "Baptiste",
+    "quote": "Chances of survival: zero.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Baptiste_-_Chances_of_survival%2C_zero.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Fiend",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Orisa_Skin_Fiend.png"
+    "name": "Junker Queen",
+    "skin_name": "Zeus",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Junker_Queen_Skin_Zeus.png"
   }
 }
