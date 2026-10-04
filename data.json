@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "*name*:I happened upon some artifacts in an old necropolis. Would you care to look after them?Venture:Would I?!*name*:I should warn you, they might be cursed...Venture:Ah! Even better!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Ana_-_I_happened_upon_some_artifacts_in_an_old_necropolis._Would_you_care_to_look_after_them.ogg"
+    "name": "Hazard",
+    "quote": "Aye, they had it comin'.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Hazard_-_Aye%2C_they_had_it_coming.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🔭🧊🎻"
+    "name": "Bastion",
+    "emojis": "🦜🪖🌲"
   },
   "secretSkin": {
-    "name": "Sigma",
-    "skin_name": "Odin",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Sigma_Skin_Odin.png"
+    "name": "Genji",
+    "skin_name": "Karasu-Tengu",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Genji_Skin_Karasu-Tengu.png"
   }
 }
