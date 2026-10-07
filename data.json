@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
+    "name": "Junker Queen",
     "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
+    "affiliation": "Junkers",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "*name* has landed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Juno_-_Juno_has_landed.ogg"
+    "name": "Ashe",
+    "quote": "Destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Ashe_-_Destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Banshee",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Moira_Skin_Banshee.png"
+    "name": "Roadhog",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Roadhog_Skin_Classic.png"
   }
 }
