@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junker Queen",
+    "name": "Zarya",
     "role": "Tank",
-    "affiliation": "Junkers",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2022
+    "nationality": "Russia 🇷🇺",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Destroyed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Ashe_-_Destroyed.ogg"
+    "name": "D.Va",
+    "quote": "Get to the dropship!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/D.Va_-_Get_to_the_dropship.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Sojourn",
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Roadhog_Skin_Classic.png"
+    "name": "Junker Queen",
+    "skin_name": "Executioner",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Junker_Queen_Skin_Executioner.png"
   }
 }
