@@ -9,17 +9,17 @@
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Get to the dropship!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/D.Va_-_Get_to_the_dropship.ogg"
+    "name": "Symmetra",
+    "quote": "Behold my creation.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Symmetra_-_Behold_my_creation.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Junker Queen",
-    "skin_name": "Executioner",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Junker_Queen_Skin_Executioner.png"
+    "name": "Mei",
+    "skin_name": "Arcane Apprentice",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Mei_Skin_Arcane_Apprentice.png"
   }
 }
