@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
+    "name": "Tracer",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "China 🇨🇳",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Enemy here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Ashe_-_Enemy_here.ogg"
+    "name": "Freja",
+    "quote": "Don't stop now. We're almost in the lead.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Freja_-_Don%27t_stop_now._We%27re_almost_in_the_lead.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "💀🌫️🕶️"
+    "name": "Venture",
+    "emojis": "👷‍♀️🌀🔽"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Orisa_Skin_Overwatch_2.png"
+    "name": "D.Va",
+    "skin_name": "Rosy Hanbok",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/D.Va_Skin_Rosy_Hanbok.png"
   }
 }
