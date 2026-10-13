@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Sombra",
     "role": "Damage",
-    "affiliation": "Overwatch",
+    "affiliation": "Talon",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Mexico 🇲🇽",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Don't stop now. We're almost in the lead.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Freja_-_Don%27t_stop_now._We%27re_almost_in_the_lead.ogg"
+    "name": "Moira",
+    "quote": "Our agonies intermingle.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Moira_-_Our_agonies_intermingle.ogg"
   },
   "secretEmoji": {
-    "name": "Venture",
-    "emojis": "👷‍♀️🌀🔽"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Rosy Hanbok",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/D.Va_Skin_Rosy_Hanbok.png"
+    "name": "Winston",
+    "skin_name": "Banana",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Winston_Skin_Banana.png"
   }
 }
