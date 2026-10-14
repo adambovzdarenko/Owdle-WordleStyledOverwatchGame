@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sombra",
-    "role": "Damage",
+    "name": "Sigma",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Mexico 🇲🇽",
-    "releaseYear": 2016
+    "nationality": "Netherlands 🇳🇱",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "Our agonies intermingle.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Moira_-_Our_agonies_intermingle.ogg"
+    "name": "Lucio",
+    "quote": "Enemy turret destroyed.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/L%C3%BAcio_-_Enemy_turret_destroyed.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "☀️🔫🕊️"
+    "name": "Roadhog",
+    "emojis": "😶💤💥"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Banana",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Winston_Skin_Banana.png"
+    "name": "Mei",
+    "skin_name": "Beekeeper",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Mei_Skin_Beekeeper.png"
   }
 }
