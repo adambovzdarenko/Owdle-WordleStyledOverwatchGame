@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Sigma",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Netherlands 🇳🇱",
-    "releaseYear": 2019
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Enemy turret destroyed.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/L%C3%BAcio_-_Enemy_turret_destroyed.ogg"
+    "name": "D.Va",
+    "quote": "Let's sneak in a trip to the beach after this. I won't tell if you don't!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/D.Va_-_Let%27s_sneak_in_a_trip_to_the_beach_after_this._I_won%27t_tell_if_you_don%27t.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "😶💤💥"
+    "name": "Doomfist",
+    "emojis": "🦍💣🥊"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Beekeeper",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Mei_Skin_Beekeeper.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Crustacean",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Wrecking_Ball_Skin_Crustacean.png"
   }
 }
