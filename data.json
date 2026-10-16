@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
+    "name": "Zenyatta",
     "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "affiliation": "Shambali",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Let's sneak in a trip to the beach after this. I won't tell if you don't!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/D.Va_-_Let%27s_sneak_in_a_trip_to_the_beach_after_this._I_won%27t_tell_if_you_don%27t.ogg"
+    "name": "Ana",
+    "quote": "Anyone else?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Ana_-_Anyone_else.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "🦍💣🥊"
+    "name": "Ramattra",
+    "emojis": "🟣🪬☠️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Crustacean",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Wrecking_Ball_Skin_Crustacean.png"
+    "name": "Soldier: 76",
+    "skin_name": "Fuel Biker: 76",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/S76_Skin_Fuel_Biker.png"
   }
 }
