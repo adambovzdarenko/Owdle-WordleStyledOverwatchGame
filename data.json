@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Widowmaker",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "affiliation": "Talon",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "France 🇫🇷",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Forget what happened in the past; we just have to win here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Ana_-_Forget_what_happened_in_the_past%2C_we_just_have_to_win_here.ogg"
+    "name": "Sigma",
+    "quote": "Don't quit before the experiment concludes!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Sigma_-_Don%27t_quit_before_the_experiment_concludes.ogg"
   },
   "secretEmoji": {
-    "name": "Junkrat",
-    "emojis": "💣😜🧨"
+    "name": "Baptiste",
+    "emojis": "🎯👓☀️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Horus",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Ana_Skin_Horus.png"
+    "name": "Sombra",
+    "skin_name": "Neon Cat",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Sombra_Skin_Neon_Cat.png"
   }
 }
