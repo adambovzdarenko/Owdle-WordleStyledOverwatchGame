@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Widowmaker",
-    "role": "Damage",
+    "name": "Doomfist",
+    "role": "Tank",
     "affiliation": "Talon",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "France 🇫🇷",
-    "releaseYear": 2016
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "Don't quit before the experiment concludes!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Sigma_-_Don%27t_quit_before_the_experiment_concludes.ogg"
+    "name": "Baptiste",
+    "quote": "They took him from us!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Baptiste_-_They_took_him_from_us.ogg"
   },
   "secretEmoji": {
-    "name": "Baptiste",
-    "emojis": "🎯👓☀️"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Neon Cat",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Sombra_Skin_Neon_Cat.png"
+    "name": "Kiriko",
+    "skin_name": "Bai Ze",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Kiriko_Skin_Bai_Ze.png"
   }
 }
