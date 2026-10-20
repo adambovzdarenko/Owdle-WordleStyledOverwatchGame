@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
-    "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "name": "Brigitte",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "They took him from us!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Baptiste_-_They_took_him_from_us.ogg"
+    "name": "Brigitte",
+    "quote": "I'm ready to rally.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Brigitte_-_I%27m_ready_to_rally.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Kiriko",
-    "skin_name": "Bai Ze",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Kiriko_Skin_Bai_Ze.png"
+    "name": "Mauga",
+    "skin_name": "OWCS 2024 Home",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
   }
 }
