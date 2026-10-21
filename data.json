@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "Tracer",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Brigitte",
-    "quote": "I'm ready to rally.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Brigitte_-_I%27m_ready_to_rally.ogg"
+    "name": "Reinhardt",
+    "quote": "*grunts*I meant to do that!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reinhardt_-_I_meant_to_do_that.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "name": "Zenyatta",
+    "emojis": "🧘‍♂️🔵☯️"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "OWCS 2024 Home",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mauga_Skin_OWCS_2024_Home.png"
+    "name": "Sigma",
+    "skin_name": "Bronze Drake",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_Skin_Bronze_Drake.png"
   }
 }
