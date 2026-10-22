@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
+    "name": "Mercy",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Switzerland 🇨🇭",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "*grunts*I meant to do that!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Reinhardt_-_I_meant_to_do_that.ogg"
+    "name": "Lifeweaver",
+    "quote": "Come here, will you?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Lifeweaver_-_Come_here%2C_will_you.ogg"
   },
   "secretEmoji": {
-    "name": "Zenyatta",
-    "emojis": "🧘‍♂️🔵☯️"
+    "name": "Junker Queen",
+    "emojis": "🩸⚔️🧿"
   },
   "secretSkin": {
-    "name": "Sigma",
-    "skin_name": "Bronze Drake",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Sigma_Skin_Bronze_Drake.png"
+    "name": "Ramattra",
+    "skin_name": "Primordial",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Ramattra_Skin_Primordial.png"
   }
 }
