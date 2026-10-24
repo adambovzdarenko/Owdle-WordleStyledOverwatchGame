@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Symmetra",
+    "role": "Damage",
+    "affiliation": "Vishkar",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "India 🇮🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "D.Va",
-    "quote": "Critical damage to the Repair Station!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/D.Va_-_Critical_damage_to_the_Repair_Station.ogg"
+    "name": "Ashe",
+    "quote": "I'm not afraid to get my hands dirty.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Ashe_-_I%27m_not_afraid_to_get_my_hands_dirty.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Orisa",
+    "emojis": "💫🎯🗿"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Ange de la Mort",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Widowmaker_Skin_Ange_de_la_Mort.png"
+    "name": "Illari",
+    "skin_name": "Chumpi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Illari_Skin_Chumpi.png"
   }
 }
