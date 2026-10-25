@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "India 🇮🇳",
-    "releaseYear": 2016
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "I'm not afraid to get my hands dirty.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Ashe_-_I%27m_not_afraid_to_get_my_hands_dirty.ogg"
+    "name": "Widowmaker",
+    "quote": "A better world without you.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Widowmaker_-_A_better_world_without_you.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "💫🎯🗿"
+    "name": "Brigitte",
+    "emojis": "👊❤️🛠️"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Chumpi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Illari_Skin_Chumpi.png"
+    "name": "Zenyatta",
+    "skin_name": "Ifrit",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Zenyatta_Skin_Ifrit.png"
   }
 }
