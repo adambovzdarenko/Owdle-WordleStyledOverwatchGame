@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Wrecking Ball",
-    "role": "Tank",
-    "affiliation": "Junkers",
-    "gender": "Male",
-    "species": "Hamster",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "name": "Illari",
+    "role": "Support",
+    "affiliation": "Inti Warriors",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "Peru 🇵🇪",
+    "releaseYear": 2023
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Enemy's here.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mei_-_Enemy%27s_here.ogg"
+    "name": "Ashe",
+    "quote": "Let's go to the next point!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Ashe_-_Let%27s_go_to_the_next_point.ogg"
   },
   "secretEmoji": {
-    "name": "Brigitte",
-    "emojis": "👊❤️🛠️"
+    "name": "Illari",
+    "emojis": "☀️🔫🕊️"
   },
   "secretSkin": {
-    "name": "Zenyatta",
-    "skin_name": "Ra",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Zenyatta_Skin_Ra.png"
+    "name": "Genji",
+    "skin_name": "Crimson Summer",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Genji_Skin_Crimson_Summer.png"
   }
 }
