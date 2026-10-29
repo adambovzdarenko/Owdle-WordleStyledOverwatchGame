@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Illari",
-    "role": "Support",
-    "affiliation": "Inti Warriors",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "Peru 🇵🇪",
-    "releaseYear": 2023
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Ashe",
-    "quote": "Let's go to the next point!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Ashe_-_Let%27s_go_to_the_next_point.ogg"
+    "name": "Ana",
+    "quote": "Sombra: You like beaches, right, *name*? We should do a girls' trip to Tulum.*name*: Mm... What's it going to cost me?Sombra: For you, amor? No charge.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Sombra_-_You_like_beaches%2C_right%2C_Ana._We_should_do_a_girls%27_trip_to_Tulum.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "☀️🔫🕊️"
+    "name": "Symmetra",
+    "emojis": "🌐🧠📊"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Crimson Summer",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Genji_Skin_Crimson_Summer.png"
+    "name": "Junkrat",
+    "skin_name": "Scarecrow",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Junkrat_Skin_Scarecrow.png"
   }
 }
