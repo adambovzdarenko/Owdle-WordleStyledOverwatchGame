@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
+    "name": "Winston",
     "role": "Tank",
-    "affiliation": "Numbani Overwatch",
-    "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "affiliation": "Overwatch",
+    "gender": "Male",
+    "species": "Gorilla",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "Sombra: You like beaches, right, *name*? We should do a girls' trip to Tulum.*name*: Mm... What's it going to cost me?Sombra: For you, amor? No charge.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Sombra_-_You_like_beaches%2C_right%2C_Ana._We_should_do_a_girls%27_trip_to_Tulum.ogg"
+    "name": "D.Va",
+    "quote": "Go forward!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/D.Va_-_Go_forward.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🌐🧠📊"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Scarecrow",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Junkrat_Skin_Scarecrow.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Paper Cutting",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Wrecking_Ball_Skin_Paper_Cutting.png"
   }
 }
