@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
+    "name": "Ashe",
+    "role": "Damage",
+    "affiliation": "Deadlock Gang",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "I guess it wasn't my time!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Baptiste_-_I_guess_it_wasn%27t_my_time.ogg"
+    "name": "Reaper",
+    "quote": "I need healing.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Reaper_-_I_need_healing.ogg"
   },
   "secretEmoji": {
-    "name": "Moira",
-    "emojis": "☯️🧬🦠"
+    "name": "D.Va",
+    "emojis": "💗🕹️🧃"
   },
   "secretSkin": {
-    "name": "Winston",
-    "skin_name": "Flying Ace",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Winston_Skin_Flying_Ace.png"
+    "name": "Sombra",
+    "skin_name": "Ed",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Sombra_Skin_Ed.png"
   }
 }
