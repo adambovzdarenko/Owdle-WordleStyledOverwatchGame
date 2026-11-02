@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
-    "role": "Damage",
-    "affiliation": "Deadlock Gang",
+    "name": "Orisa",
+    "role": "Tank",
+    "affiliation": "Numbani Overwatch",
     "gender": "Female",
-    "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "species": "Omnic",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Reaper",
-    "quote": "I need healing.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Reaper_-_I_need_healing.ogg"
+    "name": "Symmetra",
+    "quote": "No city in the world can compare to Utopaea.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Symmetra_-_No_city_in_the_world_can_compare_to_Utopaea.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "💗🕹️🧃"
+    "name": "Illari",
+    "emojis": "🧎‍♀️💡📡"
   },
   "secretSkin": {
-    "name": "Sombra",
-    "skin_name": "Ed",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Sombra_Skin_Ed.png"
+    "name": "Torbjörn",
+    "skin_name": "Grön",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Torbj%C3%B6rn_Skin_Gr%C3%B6n.png"
   }
 }
