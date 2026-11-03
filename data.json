@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Orisa",
-    "role": "Tank",
-    "affiliation": "Numbani Overwatch",
+    "name": "Echo",
+    "role": "Damage",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Omnic",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "nationality": "Switzerland 🇨🇭",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Symmetra",
-    "quote": "No city in the world can compare to Utopaea.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Symmetra_-_No_city_in_the_world_can_compare_to_Utopaea.ogg"
+    "name": "Hazard",
+    "quote": "Gaun!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Hazard_-_Gaun.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🧎‍♀️💡📡"
+    "name": "Sojourn",
+    "emojis": "🇨🇦📈🎯"
   },
   "secretSkin": {
-    "name": "Torbjörn",
-    "skin_name": "Grön",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Torbj%C3%B6rn_Skin_Gr%C3%B6n.png"
+    "name": "Junkrat",
+    "skin_name": "Caution",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Junkrat_Skin_Caution.png"
   }
 }
