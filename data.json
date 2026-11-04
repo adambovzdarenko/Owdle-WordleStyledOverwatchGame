@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
+    "name": "Mei",
     "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "species": "Human",
+    "nationality": "China 🇨🇳",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Hazard",
-    "quote": "Gaun!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Hazard_-_Gaun.ogg"
+    "name": "Sigma",
+    "quote": "By imperial edict.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Sigma_-_By_imperial_edict.ogg"
   },
   "secretEmoji": {
     "name": "Sojourn",
-    "emojis": "🇨🇦📈🎯"
+    "emojis": "⚡🦿🔫"
   },
   "secretSkin": {
-    "name": "Junkrat",
-    "skin_name": "Caution",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Junkrat_Skin_Caution.png"
+    "name": "Reinhardt",
+    "skin_name": "Bundeswehr",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Reinhardt_Skin_Bundeswehr.png"
   }
 }
