@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Mei",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
-    "species": "Human",
-    "nationality": "China 🇨🇳",
-    "releaseYear": 2016
+    "name": "Ramattra",
+    "role": "Tank",
+    "affiliation": "Null Sector",
+    "gender": "Male",
+    "species": "Omnic",
+    "nationality": "Nepal 🇳🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Sigma",
-    "quote": "By imperial edict.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Sigma_-_By_imperial_edict.ogg"
+    "name": "Juno",
+    "quote": "Consider yourself cratered!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Juno_-_Consider_yourself_cratered.ogg"
   },
   "secretEmoji": {
-    "name": "Sojourn",
-    "emojis": "⚡🦿🔫"
+    "name": "Symmetra",
+    "emojis": "🧿🔷🖼️"
   },
   "secretSkin": {
-    "name": "Reinhardt",
-    "skin_name": "Bundeswehr",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Reinhardt_Skin_Bundeswehr.png"
+    "name": "Moira",
+    "skin_name": "Duowen Tingwang",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Moira_Skin_Duowen_Tingwang.png"
   }
 }
