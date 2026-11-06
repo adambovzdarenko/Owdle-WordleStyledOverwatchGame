@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ramattra",
-    "role": "Tank",
-    "affiliation": "Null Sector",
-    "gender": "Male",
-    "species": "Omnic",
-    "nationality": "Nepal 🇳🇵",
-    "releaseYear": 2022
+    "name": "Tracer",
+    "role": "Damage",
+    "affiliation": "Overwatch",
+    "gender": "Female",
+    "species": "Human",
+    "nationality": "UK 🇬🇧",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Juno",
-    "quote": "Consider yourself cratered!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Juno_-_Consider_yourself_cratered.ogg"
+    "name": "Ana",
+    "quote": "My ultimate is charging.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Ana_-_My_ultimate_is_charging.ogg"
   },
   "secretEmoji": {
-    "name": "Symmetra",
-    "emojis": "🧿🔷🖼️"
+    "name": "McCree / Cassidy",
+    "emojis": "🌵🛠️🐍"
   },
   "secretSkin": {
-    "name": "Moira",
-    "skin_name": "Duowen Tingwang",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Moira_Skin_Duowen_Tingwang.png"
+    "name": "Mei",
+    "skin_name": "Rainy Day",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Mei_Skin_Rainy_Day.png"
   }
 }
