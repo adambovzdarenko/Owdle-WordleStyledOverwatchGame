@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
+    "name": "Junkrat",
     "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "affiliation": "Junkers",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
+    "nationality": "Australia 🇦🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ana",
-    "quote": "My ultimate is charging.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Ana_-_My_ultimate_is_charging.ogg"
+    "name": "Roadhog",
+    "quote": "They're taking the point!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Roadhog_-_They%27re_taking_the_point.ogg"
   },
   "secretEmoji": {
-    "name": "McCree / Cassidy",
-    "emojis": "🌵🛠️🐍"
+    "name": "Zarya",
+    "emojis": "🏋️‍♀️🟣🔥"
   },
   "secretSkin": {
-    "name": "Mei",
-    "skin_name": "Rainy Day",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Mei_Skin_Rainy_Day.png"
+    "name": "Ramattra",
+    "skin_name": "Kabuki",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Ramattra_Skin_Kabuki.png"
   }
 }
