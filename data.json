@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Junkrat",
-    "role": "Damage",
-    "affiliation": "Junkers",
-    "gender": "Male",
+    "name": "Kiriko",
+    "role": "Support",
+    "affiliation": "Yamagami Blades Yōkai",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Australia 🇦🇺",
-    "releaseYear": 2016
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Roadhog",
-    "quote": "They're taking the point!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Roadhog_-_They%27re_taking_the_point.ogg"
+    "name": "Freja",
+    "quote": "Outlaw country, huh? Enough bounties out here for a girl to retire on.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Freja_-_Outlaw_country%2C_huh._Enough_bounties_out_here_for_a_girl_to_retire_on.ogg"
   },
   "secretEmoji": {
-    "name": "Zarya",
-    "emojis": "🏋️‍♀️🟣🔥"
+    "name": "Roadhog",
+    "emojis": "🐷🪝💣"
   },
   "secretSkin": {
-    "name": "Ramattra",
-    "skin_name": "Kabuki",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Ramattra_Skin_Kabuki.png"
+    "name": "Ana",
+    "skin_name": "Night Owl",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Ana_Skin_Night_Owl.png"
   }
 }
