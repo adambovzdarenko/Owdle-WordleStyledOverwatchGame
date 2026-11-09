@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Kiriko",
+    "name": "Brigitte",
     "role": "Support",
-    "affiliation": "Yamagami Blades Yōkai",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
-    "releaseYear": 2022
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Outlaw country, huh? Enough bounties out here for a girl to retire on.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Freja_-_Outlaw_country%2C_huh._Enough_bounties_out_here_for_a_girl_to_retire_on.ogg"
+    "name": "Baptiste",
+    "quote": "Get out of there!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Baptiste_-_Get_out_of_there_%283%29.ogg"
   },
   "secretEmoji": {
-    "name": "Roadhog",
-    "emojis": "🐷🪝💣"
+    "name": "Reaper",
+    "emojis": "🦇😠🕳️"
   },
   "secretSkin": {
-    "name": "Ana",
-    "skin_name": "Night Owl",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Ana_Skin_Night_Owl.png"
+    "name": "Ashe",
+    "skin_name": "Mardi Gras",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Ashe_Skin_Mardi_Gras.png"
   }
 }
