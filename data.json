@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Ashe",
+    "role": "Damage",
+    "affiliation": "Deadlock Gang",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
+    "nationality": "United States 🇺🇸",
     "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Get out of there!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Baptiste_-_Get_out_of_there_%283%29.ogg"
+    "name": "Echo",
+    "quote": "*name*: Can you tell me what you remember of your Awakening?One of two:Ramattra: It came to me in New York, on a battlefield, I barely survived.Zenyatta: The rise of an emotion. I'd never had one before.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Echo_-_Can_you_tell_me_what_you_remember_of_your_Awakening.ogg"
   },
   "secretEmoji": {
-    "name": "Reaper",
-    "emojis": "🦇😠🕳️"
+    "name": "Freja",
+    "emojis": "🔵🏹🪶"
   },
   "secretSkin": {
-    "name": "Ashe",
-    "skin_name": "Mardi Gras",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Ashe_Skin_Mardi_Gras.png"
+    "name": "Illari",
+    "skin_name": "Shadowchild",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
   }
 }
