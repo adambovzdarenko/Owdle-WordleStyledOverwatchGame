@@ -9,17 +9,17 @@
     "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Echo",
-    "quote": "*name*: Can you tell me what you remember of your Awakening?One of two:Ramattra: It came to me in New York, on a battlefield, I barely survived.Zenyatta: The rise of an emotion. I'd never had one before.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Echo_-_Can_you_tell_me_what_you_remember_of_your_Awakening.ogg"
+    "name": "Pharah",
+    "quote": "Health restored.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Pharah_-_Health_restored.ogg"
   },
   "secretEmoji": {
-    "name": "Freja",
-    "emojis": "🔵🏹🪶"
+    "name": "Echo",
+    "emojis": "☁️🪶💫"
   },
   "secretSkin": {
-    "name": "Illari",
-    "skin_name": "Shadowchild",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png"
+    "name": "Pharah",
+    "skin_name": "Amethyst",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Pharah_Skin_Amethyst.png"
   }
 }
