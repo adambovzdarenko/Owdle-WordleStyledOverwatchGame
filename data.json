@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ashe",
-    "role": "Damage",
-    "affiliation": "Deadlock Gang",
-    "gender": "Female",
+    "name": "Lucio",
+    "role": "Support",
+    "affiliation": "Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "United States 🇺🇸",
-    "releaseYear": 2018
+    "nationality": "Brazil 🇧🇷",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Pharah",
-    "quote": "Health restored.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Pharah_-_Health_restored.ogg"
+    "name": "Reinhardt",
+    "quote": "Barrier's about to give!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Reinhardt_-_Barrier%27s_about_to_give.ogg"
   },
   "secretEmoji": {
-    "name": "Echo",
-    "emojis": "☁️🪶💫"
+    "name": "D.Va",
+    "emojis": "👾🚀💥"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Amethyst",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Pharah_Skin_Amethyst.png"
+    "name": "Hazard",
+    "skin_name": "Bixi",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Hazard_Skin_Bixi.png"
   }
 }
