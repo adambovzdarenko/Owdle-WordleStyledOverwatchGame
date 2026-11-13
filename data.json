@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Lucio",
-    "role": "Support",
-    "affiliation": "Overwatch",
-    "gender": "Male",
+    "name": "Venture",
+    "role": "Damage",
+    "affiliation": "Wayfinder Society",
+    "gender": "Non-binary",
     "species": "Human",
-    "nationality": "Brazil 🇧🇷",
-    "releaseYear": 2016
+    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
+    "releaseYear": 2024
   },
   "secretQuote": {
-    "name": "Reinhardt",
-    "quote": "Barrier's about to give!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Reinhardt_-_Barrier%27s_about_to_give.ogg"
+    "name": "Sombra",
+    "quote": "Feeling much better.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Sombra_-_Feeling_much_better.ogg"
   },
   "secretEmoji": {
-    "name": "D.Va",
-    "emojis": "👾🚀💥"
+    "name": "Widowmaker",
+    "emojis": "🔭🧊🎻"
   },
   "secretSkin": {
-    "name": "Hazard",
-    "skin_name": "Bixi",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Hazard_Skin_Bixi.png"
+    "name": "D.Va",
+    "skin_name": "Carbon Fiber",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/D.Va_Skin_Carbon_Fiber.png"
   }
 }
