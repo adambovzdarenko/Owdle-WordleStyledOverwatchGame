@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Venture",
-    "role": "Damage",
-    "affiliation": "Wayfinder Society",
-    "gender": "Non-binary",
-    "species": "Human",
-    "nationality": "Canada 🇨🇦 Mexico 🇲🇽",
-    "releaseYear": 2024
+    "name": "Doomfist",
+    "role": "Tank",
+    "affiliation": "Talon",
+    "gender": "Male",
+    "species": "Cyborg",
+    "nationality": "Nigeria 🇳🇬",
+    "releaseYear": 2017
   },
   "secretQuote": {
-    "name": "Sombra",
-    "quote": "Feeling much better.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Sombra_-_Feeling_much_better.ogg"
+    "name": "Soldier: 76",
+    "quote": "Disorganized rabble.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Soldier_76_-_Disorganized_rabble.ogg"
   },
   "secretEmoji": {
-    "name": "Widowmaker",
-    "emojis": "🔭🧊🎻"
+    "name": "Wrecking Ball",
+    "emojis": "🟠🔧💣"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Carbon Fiber",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/D.Va_Skin_Carbon_Fiber.png"
+    "name": "Genji",
+    "skin_name": "Stone Crow",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Genji_Skin_Stone_Crow.png"
   }
 }
