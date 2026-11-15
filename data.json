@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Doomfist",
-    "role": "Tank",
-    "affiliation": "Talon",
+    "name": "Hanzo",
+    "role": "Damage",
+    "affiliation": "Shimada Clan",
     "gender": "Male",
-    "species": "Cyborg",
-    "nationality": "Nigeria 🇳🇬",
-    "releaseYear": 2017
+    "species": "Human",
+    "nationality": "Japan 🇯🇵",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Soldier: 76",
-    "quote": "Disorganized rabble.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Soldier_76_-_Disorganized_rabble.ogg"
+    "name": "Orisa",
+    "quote": "Over here!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Orisa_-_Over_here.ogg"
   },
   "secretEmoji": {
-    "name": "Wrecking Ball",
-    "emojis": "🟠🔧💣"
+    "name": "Mauga",
+    "emojis": "🔥🧔🏾🔫"
   },
   "secretSkin": {
-    "name": "Genji",
-    "skin_name": "Stone Crow",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Genji_Skin_Stone_Crow.png"
+    "name": "D.Va",
+    "skin_name": "Midnight",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/D.Va_Skin_Midnight.png"
   }
 }
