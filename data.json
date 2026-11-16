@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Hanzo",
+    "name": "Symmetra",
     "role": "Damage",
-    "affiliation": "Shimada Clan",
-    "gender": "Male",
+    "affiliation": "Vishkar",
+    "gender": "Female",
     "species": "Human",
-    "nationality": "Japan 🇯🇵",
+    "nationality": "India 🇮🇳",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Orisa",
-    "quote": "Over here!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Orisa_-_Over_here.ogg"
+    "name": "Baptiste",
+    "quote": "Do not go gentle into that good night.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Baptiste_-_Do_not_go_gentle_into_that_good_night.ogg"
   },
   "secretEmoji": {
-    "name": "Mauga",
-    "emojis": "🔥🧔🏾🔫"
+    "name": "Hanzo",
+    "emojis": "🏹🐉👹"
   },
   "secretSkin": {
-    "name": "D.Va",
-    "skin_name": "Midnight",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/D.Va_Skin_Midnight.png"
+    "name": "Doomfist",
+    "skin_name": "Classic",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
   }
 }
