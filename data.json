@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Symmetra",
-    "role": "Damage",
-    "affiliation": "Vishkar",
+    "name": "Zarya",
+    "role": "Tank",
+    "affiliation": "Russian Defense Forces / Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "India 🇮🇳",
+    "nationality": "Russia 🇷🇺",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "Do not go gentle into that good night.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Baptiste_-_Do_not_go_gentle_into_that_good_night.ogg"
+    "name": "Moira",
+    "quote": "Enemy turret within my sight.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Moira_-_Enemy_turret_within_my_sight.ogg"
   },
   "secretEmoji": {
-    "name": "Hanzo",
-    "emojis": "🏹🐉👹"
+    "name": "Doomfist",
+    "emojis": "👊🦾🌍"
   },
   "secretSkin": {
-    "name": "Doomfist",
-    "skin_name": "Classic",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Doomfist_Skin_Classic.png"
+    "name": "Pharah",
+    "skin_name": "Raptorion",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Pharah_Skin_Raptorion.png"
   }
 }
