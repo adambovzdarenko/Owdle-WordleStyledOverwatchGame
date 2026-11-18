@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Zarya",
-    "role": "Tank",
-    "affiliation": "Russian Defense Forces / Overwatch",
+    "name": "Ana",
+    "role": "Support",
+    "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Russia 🇷🇺",
+    "nationality": "Egypt 🇪🇬",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Moira",
-    "quote": "Enemy turret within my sight.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Moira_-_Enemy_turret_within_my_sight.ogg"
+    "name": "Lucio",
+    "quote": "Come on, drop the gloves!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/L%C3%BAcio_-_Come_on%2C_drop_the_gloves.ogg"
   },
   "secretEmoji": {
-    "name": "Doomfist",
-    "emojis": "👊🦾🌍"
+    "name": "Illari",
+    "emojis": "🌞🛐🇵🇪"
   },
   "secretSkin": {
-    "name": "Pharah",
-    "skin_name": "Raptorion",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Pharah_Skin_Raptorion.png"
+    "name": "Wrecking Ball",
+    "skin_name": "Biohazard",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Wrecking_Ball_Skin_Biohazard.png"
   }
 }
