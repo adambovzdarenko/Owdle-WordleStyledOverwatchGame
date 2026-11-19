@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
+    "name": "Brigitte",
     "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Sweden 🇸🇪",
+    "releaseYear": 2018
   },
   "secretQuote": {
-    "name": "Lucio",
-    "quote": "Come on, drop the gloves!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/L%C3%BAcio_-_Come_on%2C_drop_the_gloves.ogg"
+    "name": "Baptiste",
+    "quote": "Capture the flag.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Baptiste_-_Capture_the_flag.ogg"
   },
   "secretEmoji": {
-    "name": "Illari",
-    "emojis": "🌞🛐🇵🇪"
+    "name": "Pharah",
+    "emojis": "🔵🚀👩‍✈️"
   },
   "secretSkin": {
-    "name": "Wrecking Ball",
-    "skin_name": "Biohazard",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Wrecking_Ball_Skin_Biohazard.png"
+    "name": "Pharah",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Pharah_Skin_Overwatch_2.png"
   }
 }
