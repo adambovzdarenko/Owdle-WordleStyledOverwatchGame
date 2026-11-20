@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Brigitte",
-    "role": "Support",
+    "name": "McCree / Cassidy",
+    "role": "Damage",
     "affiliation": "Overwatch",
-    "gender": "Female",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "Sweden 🇸🇪",
-    "releaseYear": 2018
+    "nationality": "United States 🇺🇸",
+    "releaseYear": 2016
   },
   "secretQuote": {
     "name": "Baptiste",
-    "quote": "Capture the flag.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Baptiste_-_Capture_the_flag.ogg"
+    "quote": "Enemy has a turret.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Baptiste_-_Enemy_has_a_turret.ogg"
   },
   "secretEmoji": {
-    "name": "Pharah",
-    "emojis": "🔵🚀👩‍✈️"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Pharah",
+    "name": "Torbjörn",
     "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Pharah_Skin_Overwatch_2.png"
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Torbj%C3%B6rn_Skin_Overwatch_2.png"
   }
 }
