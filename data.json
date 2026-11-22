@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Echo",
-    "role": "Damage",
+    "name": "Ana",
+    "role": "Support",
     "affiliation": "Overwatch",
     "gender": "Female",
-    "species": "Omnic",
-    "nationality": "Switzerland 🇨🇭",
-    "releaseYear": 2019
+    "species": "Human",
+    "nationality": "Egypt 🇪🇬",
+    "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Mei",
-    "quote": "Understood!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Mei_-_Understood.ogg"
+    "name": "Ramattra",
+    "quote": "Our ally needs to be revived!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Ramattra_-_Our_ally_needs_to_be_revived.ogg"
   },
   "secretEmoji": {
-    "name": "Sombra",
-    "emojis": "🫥🔓👾"
+    "name": "Orisa",
+    "emojis": "⚙️🟡🌍"
   },
   "secretSkin": {
-    "name": "Mauga",
-    "skin_name": "Magma",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Mauga_Skin_Magma.png"
+    "name": "Hanzo",
+    "skin_name": "Overwatch 2",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Hanzo_Skin_Overwatch_2.png"
   }
 }
