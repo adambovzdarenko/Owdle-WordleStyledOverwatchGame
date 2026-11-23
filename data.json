@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
+    "name": "Tracer",
+    "role": "Damage",
     "affiliation": "Overwatch",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
+    "nationality": "UK 🇬🇧",
     "releaseYear": 2016
   },
   "secretQuote": {
-    "name": "Ramattra",
-    "quote": "Our ally needs to be revived!",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Ramattra_-_Our_ally_needs_to_be_revived.ogg"
+    "name": "Freja",
+    "quote": "Back to it, then?",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Freja_-_Back_to_it%2C_then.ogg"
   },
   "secretEmoji": {
-    "name": "Orisa",
-    "emojis": "⚙️🟡🌍"
+    "name": "Kiriko",
+    "emojis": "🗻💨🍡"
   },
   "secretSkin": {
-    "name": "Hanzo",
-    "skin_name": "Overwatch 2",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Hanzo_Skin_Overwatch_2.png"
+    "name": "Orisa",
+    "skin_name": "OR15",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Orisa_Skin_OR15.png"
   }
 }
