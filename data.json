@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Tracer",
-    "role": "Damage",
-    "affiliation": "Overwatch",
-    "gender": "Female",
+    "name": "Baptiste",
+    "role": "Support",
+    "affiliation": "Talon (formerly) Overwatch",
+    "gender": "Male",
     "species": "Human",
-    "nationality": "UK 🇬🇧",
-    "releaseYear": 2016
+    "nationality": "Haiti 🇭🇹",
+    "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Freja",
-    "quote": "Back to it, then?",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Freja_-_Back_to_it%2C_then.ogg"
+    "name": "Torbjörn",
+    "quote": "Get to work! Time's running out.",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Torbj%C3%B6rn_-_Get_to_work%21_Time%27s_running_out.ogg"
   },
   "secretEmoji": {
-    "name": "Kiriko",
-    "emojis": "🗻💨🍡"
+    "name": "Ana",
+    "emojis": "🛏️🧠🔫"
   },
   "secretSkin": {
-    "name": "Orisa",
-    "skin_name": "OR15",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Orisa_Skin_OR15.png"
+    "name": "Widowmaker",
+    "skin_name": "Talon",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Widowmaker_Skin_Talon.png"
   }
 }
