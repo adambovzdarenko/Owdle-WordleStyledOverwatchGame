@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Baptiste",
-    "role": "Support",
-    "affiliation": "Talon (formerly) Overwatch",
+    "name": "Sigma",
+    "role": "Tank",
+    "affiliation": "Talon",
     "gender": "Male",
     "species": "Human",
-    "nationality": "Haiti 🇭🇹",
+    "nationality": "Netherlands 🇳🇱",
     "releaseYear": 2019
   },
   "secretQuote": {
-    "name": "Torbjörn",
-    "quote": "Get to work! Time's running out.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Torbj%C3%B6rn_-_Get_to_work%21_Time%27s_running_out.ogg"
+    "name": "Juno",
+    "quote": "Pretty Pulsar Twirl!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Juno_-_Pretty_pulsar_twirl.ogg"
   },
   "secretEmoji": {
-    "name": "Ana",
-    "emojis": "🛏️🧠🔫"
+    "name": "Juno",
+    "emojis": "🌌🧠💢"
   },
   "secretSkin": {
-    "name": "Widowmaker",
-    "skin_name": "Talon",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Widowmaker_Skin_Talon.png"
+    "name": "Doomfist",
+    "skin_name": "General",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Doomfist_Skin_General.png"
   }
 }
