@@ -1,25 +1,25 @@
 {
   "secretCharacter": {
-    "name": "Ana",
-    "role": "Support",
-    "affiliation": "Overwatch",
+    "name": "Junker Queen",
+    "role": "Tank",
+    "affiliation": "Junkers",
     "gender": "Female",
     "species": "Human",
-    "nationality": "Egypt 🇪🇬",
-    "releaseYear": 2016
+    "nationality": "Australia 🇦🇺",
+    "releaseYear": 2022
   },
   "secretQuote": {
-    "name": "Baptiste",
-    "quote": "A little medicine goes a long way.",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Baptiste_-_A_little_medicine_goes_a_long_way.ogg"
+    "name": "Brigitte",
+    "quote": "Torbjörn: *name*, did you check if you brought enough repair packs for everyone?*name*: Of course, Papa. I'm not a little girl anymore.Torbjörn: You'll always bemylittle girl.*name*: You're embarrassing me...!",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Torbj%C3%B6rn_-_Brigitte%2C_did_you_check_if_you_brought_enough_repair_packs_for_everyone.ogg"
   },
   "secretEmoji": {
-    "name": "Winston",
-    "emojis": "🐵⚡🧠"
+    "name": "Zarya",
+    "emojis": "🏋️‍♀️🟣🔥"
   },
   "secretSkin": {
-    "name": "Roadhog",
-    "skin_name": "Pigpen",
-    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Roadhog_Skin_Pigpen.png"
+    "name": "Moira",
+    "skin_name": "Banshee",
+    "url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Moira_Skin_Banshee.png"
   }
 }
